@@ -1,0 +1,1502 @@
+[
+    {
+        "id": "000000350160_0",
+        "image": "000000350160.jpg",
+        "text": "Can you describe the position of the person in the image and what they are doing?"
+    },
+    {
+        "id": "000000016897_2",
+        "image": "000000016897.jpg",
+        "text": "Based on the context of this image, what kind of event could these individuals be attending?"
+    },
+    {
+        "id": "000000368603_1",
+        "image": "000000368603.jpg",
+        "text": "Can you describe what the laptop is resting on and its surroundings?"
+    },
+    {
+        "id": "000000177015_0",
+        "image": "000000177015.jpg",
+        "text": "Can you describe what the person in the image is doing?"
+    },
+    {
+        "id": "000000271714_0",
+        "image": "000000271714.jpg",
+        "text": "Can you describe the work area shown in the image?"
+    },
+    {
+        "id": "000000182516_2",
+        "image": "000000182516.jpg",
+        "text": "Can you describe the setting and positioning of the person and the laptop?"
+    },
+    {
+        "id": "000000005589_1",
+        "image": "000000005589.jpg",
+        "text": "What objects are placed on the table beside the food container?"
+    },
+    {
+        "id": "000000543897_1",
+        "image": "000000543897.jpg",
+        "text": "Can you tell me what the cat is resting on?"
+    },
+    {
+        "id": "000000320658_2",
+        "image": "000000320658.jpg",
+        "text": "Based on the content visible on the laptop's screen, what type of activity might the user have been engaged in before the cat lay down?"
+    },
+    {
+        "id": "000000573819_2",
+        "image": "000000573819.jpg",
+        "text": "Can you describe the type of device being used by the two people in the foreground?"
+    },
+    {
+        "id": "000000011694_2",
+        "image": "000000011694.jpg",
+        "text": "Looking at the arrangement of the workspace, how would you describe the organization of items, considering the laptop as a point of reference?"
+    },
+    {
+        "id": "000000530097_0",
+        "image": "000000530097.jpg",
+        "text": "What electronic devices can be seen on the desk in this image?"
+    },
+    {
+        "id": "000000376131_0",
+        "image": "000000376131.jpg",
+        "text": "Can you describe the electronic device that is open on the desk?"
+    },
+    {
+        "id": "000000449088_2",
+        "image": "000000449088.jpg",
+        "text": "What is the general setting of this scene in terms of indoor objects and decorations?"
+    },
+    {
+        "id": "000000301256_2",
+        "image": "000000301256.jpg",
+        "text": "What is the person in the image doing with the laptop?"
+    },
+    {
+        "id": "000000356790_2",
+        "image": "000000356790.jpg",
+        "text": "Is there any indication of human activity in the picture, and if so, what does it suggest about the user's actions?"
+    },
+    {
+        "id": "000000385641_0",
+        "image": "000000385641.jpg",
+        "text": "Can you describe the setting where the device is placed?"
+    },
+    {
+        "id": "000000272155_0",
+        "image": "000000272155.jpg",
+        "text": "What activity is the person in the foreground primarily engaged in?"
+    },
+    {
+        "id": "000000249111_2",
+        "image": "000000249111.jpg",
+        "text": "Could you tell me about the lighting in the image and how it might affect the use of the laptop?"
+    },
+    {
+        "id": "000000374333_1",
+        "image": "000000374333.jpg",
+        "text": "Are there any discernible differences between the two laptops?"
+    },
+    {
+        "id": "000000310980_2",
+        "image": "000000310980.jpg",
+        "text": "Can you describe the general ambiance or setting where the laptop is placed based on the image?"
+    },
+    {
+        "id": "000000320089_2",
+        "image": "000000320089.jpg",
+        "text": "Besides the cat and laptop, what is the surface they are on?"
+    },
+    {
+        "id": "000000459118_2",
+        "image": "000000459118.jpg",
+        "text": "How many laptops can be seen in the image, and what is their orientation?"
+    },
+    {
+        "id": "000000538566_1",
+        "image": "000000538566.jpg",
+        "text": "What is the individual holding, and can you tell me something unique about this object?"
+    },
+    {
+        "id": "000000208623_1",
+        "image": "000000208623.jpg",
+        "text": "Can you describe the setting in which the people are located?"
+    },
+    {
+        "id": "000000337585_1",
+        "image": "000000337585.jpg",
+        "text": "Can you describe the environment around the laptop?"
+    },
+    {
+        "id": "000000119828_2",
+        "image": "000000119828.jpg",
+        "text": "What appears to be the condition of the desk lamp behind the laptop?"
+    },
+    {
+        "id": "000000323717_1",
+        "image": "000000323717.jpg",
+        "text": "Can you describe the position of the laptop in relation to the furniture nearby?"
+    },
+    {
+        "id": "000000533156_1",
+        "image": "000000533156.jpg",
+        "text": "What object is placed in front of the cat on the table?"
+    },
+    {
+        "id": "000000021361_2",
+        "image": "000000021361.jpg",
+        "text": "Can you describe the environment in which the laptop is situated?"
+    },
+    {
+        "id": "000000096728_2",
+        "image": "000000096728.jpg",
+        "text": "Among the items on the table, is there anything that suggests the person has consumed a beverage or food?"
+    },
+    {
+        "id": "000000051008_0",
+        "image": "000000051008.jpg",
+        "text": "Can you describe the animal that's depicted in the image and what it appears to be doing?"
+    },
+    {
+        "id": "000000070932_1",
+        "image": "000000070932.jpg",
+        "text": "What additional details can you observe about the laptop's position in relation to the stand?"
+    },
+    {
+        "id": "000000449088_0",
+        "image": "000000449088.jpg",
+        "text": "Can you describe the animal positioned on the laptop in this image?"
+    },
+    {
+        "id": "000000097964_0",
+        "image": "000000097964.jpg",
+        "text": "Can you describe the electronic devices visible on the desk in the image?"
+    },
+    {
+        "id": "000000558189_2",
+        "image": "000000558189.jpg",
+        "text": "What objects are located on the same surface as the laptop?"
+    },
+    {
+        "id": "000000573815_2",
+        "image": "000000573815.jpg",
+        "text": "What indications are there that this is a workspace?"
+    },
+    {
+        "id": "000000559388_1",
+        "image": "000000559388.jpg",
+        "text": "Can you describe the placement of the cats in relation to the person?"
+    },
+    {
+        "id": "000000171435_2",
+        "image": "000000171435.jpg",
+        "text": "Can you describe the setting where the dogs are located?"
+    },
+    {
+        "id": "000000393692_1",
+        "image": "000000393692.jpg",
+        "text": "What items are placed to the right of the laptop?"
+    },
+    {
+        "id": "000000211844_1",
+        "image": "000000211844.jpg",
+        "text": "Can you describe the condition or position of the laptop in relation to the cat?"
+    },
+    {
+        "id": "000000421794_2",
+        "image": "000000421794.jpg",
+        "text": "Can you describe the environment where the laptop is placed?"
+    },
+    {
+        "id": "000000318174_0",
+        "image": "000000318174.jpg",
+        "text": "What objects are arranged on the table?"
+    },
+    {
+        "id": "000000082418_2",
+        "image": "000000082418.jpg",
+        "text": "Can you describe the setting where the cat and the laptop are located?"
+    },
+    {
+        "id": "000000398767_1",
+        "image": "000000398767.jpg",
+        "text": "Can you describe what is visible on the laptop's screen behind the kitten?"
+    },
+    {
+        "id": "000000008934_0",
+        "image": "000000008934.jpg",
+        "text": "What types of electronic devices are visible in the image?"
+    },
+    {
+        "id": "000000530439_1",
+        "image": "000000530439.jpg",
+        "text": "What is the activity that the person seems to be engaged in based on the image?"
+    },
+    {
+        "id": "000000516341_0",
+        "image": "000000516341.jpg",
+        "text": "What is the person in the image doing?"
+    },
+    {
+        "id": "000000344597_2",
+        "image": "000000344597.jpg",
+        "text": "What can be observed on the floor next to the person and the dog?"
+    },
+    {
+        "id": "000000209493_0",
+        "image": "000000209493.jpg",
+        "text": "What is the person in the image doing?"
+    },
+    {
+        "id": "000000099372_1",
+        "image": "000000099372.jpg",
+        "text": "What can you tell about the status of the laptop in the picture?"
+    },
+    {
+        "id": "000000358291_1",
+        "image": "000000358291.jpg",
+        "text": "What other electronic devices can be seen on the desk?"
+    },
+    {
+        "id": "000000169095_2",
+        "image": "000000169095.jpg",
+        "text": "How does the image distinguish the person using the electronic device from the background elements?"
+    },
+    {
+        "id": "000000046114_0",
+        "image": "000000046114.jpg",
+        "text": "What is the main object in the foreground of the image?"
+    },
+    {
+        "id": "000000224476_0",
+        "image": "000000224476.jpg",
+        "text": "What electronic devices can be seen on the desk in the image?"
+    },
+    {
+        "id": "000000224190_1",
+        "image": "000000224190.jpg",
+        "text": "Can you tell me what activity might be taking place at this table based on the objects present?"
+    },
+    {
+        "id": "000000423742_2",
+        "image": "000000423742.jpg",
+        "text": "What seems to be the condition of the laptop, based on its outer appearance?"
+    },
+    {
+        "id": "000000472093_0",
+        "image": "000000472093.jpg",
+        "text": "What is the person in the image doing?"
+    },
+    {
+        "id": "000000024132_2",
+        "image": "000000024132.jpg",
+        "text": "How many other passengers can be identified around the person using the laptop?"
+    },
+    {
+        "id": "000000248314_2",
+        "image": "000000248314.jpg",
+        "text": "Can you describe the type of meal and the workspace organization?"
+    },
+    {
+        "id": "000000104389_2",
+        "image": "000000104389.jpg",
+        "text": "Can you describe the condition or perhaps usage intensity of the device based on the visible keyboard?"
+    },
+    {
+        "id": "000000142587_1",
+        "image": "000000142587.jpg",
+        "text": "Can you describe the figure seated next to the laptop, and what is it doing?"
+    },
+    {
+        "id": "000000550405_0",
+        "image": "000000550405.jpg",
+        "text": "Can you describe the setting where the electronic device is placed?"
+    },
+    {
+        "id": "000000341060_0",
+        "image": "000000341060.jpg",
+        "text": "Can you describe the setting in which the laptop is placed?"
+    },
+    {
+        "id": "000000324715_2",
+        "image": "000000324715.jpg",
+        "text": "What might the presence of these items suggest about the activity taking place?"
+    },
+    {
+        "id": "000000409064_1",
+        "image": "000000409064.jpg",
+        "text": "What type of object is the laptop resting on, and can you tell me about its condition?"
+    },
+    {
+        "id": "000000193465_0",
+        "image": "000000193465.jpg",
+        "text": "What type of electronic device is prominently featured in this image?"
+    },
+    {
+        "id": "000000082765_1",
+        "image": "000000082765.jpg",
+        "text": "Can you describe the main object lying on the bed?"
+    },
+    {
+        "id": "000000319096_1",
+        "image": "000000319096.jpg",
+        "text": "What objects are positioned to the right of the laptop?"
+    },
+    {
+        "id": "000000411727_1",
+        "image": "000000411727.jpg",
+        "text": "What is the main item that appears to be in use on the table?"
+    },
+    {
+        "id": "000000077870_1",
+        "image": "000000077870.jpg",
+        "text": "What object is the kitten lying on?"
+    },
+    {
+        "id": "000000369630_2",
+        "image": "000000369630.jpg",
+        "text": "What environment can you infer the laptop is being used in based on the image?"
+    },
+    {
+        "id": "000000023446_1",
+        "image": "000000023446.jpg",
+        "text": "What items are on the table in front of the person?"
+    },
+    {
+        "id": "000000349230_0",
+        "image": "000000349230.jpg",
+        "text": "What types of objects are visible on the table in the image?"
+    },
+    {
+        "id": "000000320649_2",
+        "image": "000000320649.jpg",
+        "text": "What is the visible condition of the laptop due to the cat's presence?"
+    },
+    {
+        "id": "000000568418_1",
+        "image": "000000568418.jpg",
+        "text": "Can you describe any visible ports or connections on the laptop?"
+    },
+    {
+        "id": "000000453400_1",
+        "image": "000000453400.jpg",
+        "text": "Can you describe the object positioned in front of the cat and its current state?"
+    },
+    {
+        "id": "000000550722_1",
+        "image": "000000550722.jpg",
+        "text": "What is on the screen of the laptop in the foreground?"
+    },
+    {
+        "id": "000000177404_1",
+        "image": "000000177404.jpg",
+        "text": "Can you describe what else is on the floor alongside the laptop?"
+    },
+    {
+        "id": "000000264385_1",
+        "image": "000000264385.jpg",
+        "text": "Is there any branding visible on the laptop, and can you describe the decal?"
+    },
+    {
+        "id": "000000262576_0",
+        "image": "000000262576.jpg",
+        "text": "What is the main object placed on the blue surface in the image?"
+    },
+    {
+        "id": "000000129951_0",
+        "image": "000000129951.jpg",
+        "text": "Can you describe the electronic devices visible on the desk?"
+    },
+    {
+        "id": "000000376264_2",
+        "image": "000000376264.jpg",
+        "text": "What can you tell me about the electronic device on the right side of the image?"
+    },
+    {
+        "id": "000000565303_2",
+        "image": "000000565303.jpg",
+        "text": "What other items are visible on the same surface as the laptop?"
+    },
+    {
+        "id": "000000483205_2",
+        "image": "000000483205.jpg",
+        "text": "Can you describe the environment where the laptop is placed?"
+    },
+    {
+        "id": "000000485139_2",
+        "image": "000000485139.jpg",
+        "text": "Where is the laptop situated, and can you tell if it's in use based on the image?"
+    },
+    {
+        "id": "000000035127_1",
+        "image": "000000035127.jpg",
+        "text": "Can you describe what appears on the laptop screen?"
+    },
+    {
+        "id": "000000029891_0",
+        "image": "000000029891.jpg",
+        "text": "Can you tell me what type of electronic devices are displayed on the desk?"
+    },
+    {
+        "id": "000000124117_0",
+        "image": "000000124117.jpg",
+        "text": "What objects is the person in the foreground interacting with?"
+    },
+    {
+        "id": "000000421794_1",
+        "image": "000000421794.jpg",
+        "text": "What peripherals are connected to the device in the image?"
+    },
+    {
+        "id": "000000025846_1",
+        "image": "000000025846.jpg",
+        "text": "What other objects can be seen in the vicinity of the laptop?"
+    },
+    {
+        "id": "000000393692_2",
+        "image": "000000393692.jpg",
+        "text": "What additional accessories related to the laptop are visible on the table?"
+    },
+    {
+        "id": "000000201032_1",
+        "image": "000000201032.jpg",
+        "text": "Can you describe the logo on the item the person is holding?"
+    },
+    {
+        "id": "000000442509_1",
+        "image": "000000442509.jpg",
+        "text": "What specific items can be seen around the laptop on the desk?"
+    },
+    {
+        "id": "000000301764_1",
+        "image": "000000301764.jpg",
+        "text": "What items can be observed surrounding the electronic device?"
+    },
+    {
+        "id": "000000529383_2",
+        "image": "000000529383.jpg",
+        "text": "Which piece of technology is likely used for writing or work-related tasks in this image?"
+    },
+    {
+        "id": "000000063835_0",
+        "image": "000000063835.jpg",
+        "text": "What type of electronic device is visible in the center of the image?"
+    },
+    {
+        "id": "000000451513_1",
+        "image": "000000451513.jpg",
+        "text": "Can you describe the type of setting or room shown in the image?"
+    },
+    {
+        "id": "000000453676_1",
+        "image": "000000453676.jpg",
+        "text": "Can you describe what the cat is lying on?"
+    },
+    {
+        "id": "000000099372_2",
+        "image": "000000099372.jpg",
+        "text": "How does the environment around the laptop look?"
+    },
+    {
+        "id": "000000194247_2",
+        "image": "000000194247.jpg",
+        "text": "What might the person utilizing this workspace be doing?"
+    },
+    {
+        "id": "000000328588_2",
+        "image": "000000328588.jpg",
+        "text": "Could you mention any specific action that might be associated with the object next to the mouse?"
+    },
+    {
+        "id": "000000556862_2",
+        "image": "000000556862.jpg",
+        "text": "Based on the image, how does the person seem to feel about the object they are holding?"
+    },
+    {
+        "id": "000000333621_2",
+        "image": "000000333621.jpg",
+        "text": "What appears to be the purpose of the setup depicted in the image?"
+    },
+    {
+        "id": "000000455203_0",
+        "image": "000000455203.jpg",
+        "text": "What animal is resting on the object in the center of the image?"
+    },
+    {
+        "id": "000000362751_1",
+        "image": "000000362751.jpg",
+        "text": "What is the physical connection between the clay models that resemble the computer peripherals?"
+    },
+    {
+        "id": "000000055466_2",
+        "image": "000000055466.jpg",
+        "text": "Can you describe the condition of the area immediately surrounding the laptop?"
+    },
+    {
+        "id": "000000310331_1",
+        "image": "000000310331.jpg",
+        "text": "Can you describe what's shown on the screen of the electronic device in the background?"
+    },
+    {
+        "id": "000000323717_2",
+        "image": "000000323717.jpg",
+        "text": "What does the environment of the photo suggest about the setting where the laptop is located?"
+    },
+    {
+        "id": "000000365512_1",
+        "image": "000000365512.jpg",
+        "text": "What items are situated on the desk around the central device?"
+    },
+    {
+        "id": "000000541994_0",
+        "image": "000000541994.jpg",
+        "text": "What is the person in the image doing?"
+    },
+    {
+        "id": "000000241465_0",
+        "image": "000000241465.jpg",
+        "text": "Can you describe the animal and its position in relation to the object it is resting on?"
+    },
+    {
+        "id": "000000346614_1",
+        "image": "000000346614.jpg",
+        "text": "Are there any distinguishing features or decorations on the laptop?"
+    },
+    {
+        "id": "000000066001_2",
+        "image": "000000066001.jpg",
+        "text": "How would you describe the organization of the space where the laptop is placed?"
+    },
+    {
+        "id": "000000438252_2",
+        "image": "000000438252.jpg",
+        "text": "Are there any other items aside from the electronic devices visible on the desk?"
+    },
+    {
+        "id": "000000240527_1",
+        "image": "000000240527.jpg",
+        "text": "Are there any other items on the table besides the laptops and mouse?"
+    },
+    {
+        "id": "000000044818_2",
+        "image": "000000044818.jpg",
+        "text": "What about the decorative elements in the room, can you see any?"
+    },
+    {
+        "id": "000000247708_2",
+        "image": "000000247708.jpg",
+        "text": "What kind of environment or setting does this photo seem to be taken in?"
+    },
+    {
+        "id": "000000188648_2",
+        "image": "000000188648.jpg",
+        "text": "What is the location and setting where this interaction is taking place?"
+    },
+    {
+        "id": "000000402858_2",
+        "image": "000000402858.jpg",
+        "text": "What seems to be the setting or environment where the teddy bear and the laptop are located?"
+    },
+    {
+        "id": "000000318174_2",
+        "image": "000000318174.jpg",
+        "text": "Is there an indication of the type of work being done on the laptop based on what's visible on the screen?"
+    },
+    {
+        "id": "000000516341_1",
+        "image": "000000516341.jpg",
+        "text": "Can you tell me more about the stickers on the laptop cover?"
+    },
+    {
+        "id": "000000132317_1",
+        "image": "000000132317.jpg",
+        "text": "What specific part of the laptop is the dragonfly resting on, and what can we infer about the laptop's use at the moment?"
+    },
+    {
+        "id": "000000369793_1",
+        "image": "000000369793.jpg",
+        "text": "What is the cat doing on top of the object?"
+    },
+    {
+        "id": "000000371414_0",
+        "image": "000000371414.jpg",
+        "text": "What is the person in the photo doing?"
+    },
+    {
+        "id": "000000293837_0",
+        "image": "000000293837.jpg",
+        "text": "Can you describe the objects that are placed on the surface in the image?"
+    },
+    {
+        "id": "000000301764_2",
+        "image": "000000301764.jpg",
+        "text": "Are there any written materials visible in the image, and if so, where are they located?"
+    },
+    {
+        "id": "000000107664_1",
+        "image": "000000107664.jpg",
+        "text": "Are there any additional objects near the laptop?"
+    },
+    {
+        "id": "000000182236_2",
+        "image": "000000182236.jpg",
+        "text": "What is noticeable about the person's image on the laptop screen?"
+    },
+    {
+        "id": "000000567721_0",
+        "image": "000000567721.jpg",
+        "text": "What is the person in the image doing?"
+    },
+    {
+        "id": "000000115885_2",
+        "image": "000000115885.jpg",
+        "text": "Can you describe the setting in which the laptop and the cat are situated?"
+    },
+    {
+        "id": "000000078263_1",
+        "image": "000000078263.jpg",
+        "text": "How many people can be seen in the image and what are they doing?"
+    },
+    {
+        "id": "000000073467_1",
+        "image": "000000073467.jpg",
+        "text": "What is the object underneath the cat and what is its condition?"
+    },
+    {
+        "id": "000000133850_2",
+        "image": "000000133850.jpg",
+        "text": "What other objects can be seen on the table next to the laptop?"
+    },
+    {
+        "id": "000000166853_1",
+        "image": "000000166853.jpg",
+        "text": "What objects are visible on the table?"
+    },
+    {
+        "id": "000000442509_2",
+        "image": "000000442509.jpg",
+        "text": "What type of environment or setting does the image suggest the laptop is being used in?"
+    },
+    {
+        "id": "000000269045_1",
+        "image": "000000269045.jpg",
+        "text": "Can you describe the setting in which the laptop is placed?"
+    },
+    {
+        "id": "000000367785_1",
+        "image": "000000367785.jpg",
+        "text": "Can you describe what's on the laptop screen visible in the image?"
+    },
+    {
+        "id": "000000287578_0",
+        "image": "000000287578.jpg",
+        "text": "What objects are placed on the desk in the image?"
+    },
+    {
+        "id": "000000563696_2",
+        "image": "000000563696.jpg",
+        "text": "What kind of environment does the laptop appear to be in?"
+    },
+    {
+        "id": "000000165742_2",
+        "image": "000000165742.jpg",
+        "text": "Are there any other electronic devices visible on the table apart from the laptop?"
+    },
+    {
+        "id": "000000381047_0",
+        "image": "000000381047.jpg",
+        "text": "What type of animal is interacting with the object on the bed?"
+    },
+    {
+        "id": "000000350160_1",
+        "image": "000000350160.jpg",
+        "text": "What can you tell me about the lighting situation in the room?"
+    },
+    {
+        "id": "000000179415_1",
+        "image": "000000179415.jpg",
+        "text": "What is the person in the image doing?"
+    },
+    {
+        "id": "000000302323_1",
+        "image": "000000302323.jpg",
+        "text": "Can you describe the condition of the laptop?"
+    },
+    {
+        "id": "000000535817_1",
+        "image": "000000535817.jpg",
+        "text": "What are the two individuals in the foreground doing?"
+    },
+    {
+        "id": "000000338030_0",
+        "image": "000000338030.jpg",
+        "text": "Can you describe the setting where the laptop is placed?"
+    },
+    {
+        "id": "000000291438_0",
+        "image": "000000291438.jpg",
+        "text": "What objects are arranged on the table in this image?"
+    },
+    {
+        "id": "000000546717_2",
+        "image": "000000546717.jpg",
+        "text": "Can you tell me what kind of setup the computer is placed on?"
+    },
+    {
+        "id": "000000399488_0",
+        "image": "000000399488.jpg",
+        "text": "What objects are connected to the device on the table?"
+    },
+    {
+        "id": "000000333758_1",
+        "image": "000000333758.jpg",
+        "text": "What is the electronic device next to the cat?"
+    },
+    {
+        "id": "000000243777_0",
+        "image": "000000243777.jpg",
+        "text": "Can you describe the setting where the laptop is placed?"
+    },
+    {
+        "id": "000000093597_1",
+        "image": "000000093597.jpg",
+        "text": "What objects are positioned behind the laptop?"
+    },
+    {
+        "id": "000000572993_1",
+        "image": "000000572993.jpg",
+        "text": "What object is the cat sitting on?"
+    },
+    {
+        "id": "000000027717_1",
+        "image": "000000027717.jpg",
+        "text": "What kind of portable storage device can be seen on the table, and can you tell if it's connected to any other device?"
+    },
+    {
+        "id": "000000506095_0",
+        "image": "000000506095.jpg",
+        "text": "What kind of animal is shown interacting with the object on the desk? "
+    },
+    {
+        "id": "000000569310_2",
+        "image": "000000569310.jpg",
+        "text": "Is the laptop currently being used by the cat or the person?"
+    },
+    {
+        "id": "000000212292_0",
+        "image": "000000212292.jpg",
+        "text": "What is the main object in the foreground of the image?"
+    },
+    {
+        "id": "000000300330_1",
+        "image": "000000300330.jpg",
+        "text": "What activity is the person closest to the camera engaged in?"
+    },
+    {
+        "id": "000000257629_0",
+        "image": "000000257629.jpg",
+        "text": "What types of items are visible on the wooden surface in the image?"
+    },
+    {
+        "id": "000000121693_2",
+        "image": "000000121693.jpg",
+        "text": "What object can be seen in the background behind the robot?"
+    },
+    {
+        "id": "000000248876_1",
+        "image": "000000248876.jpg",
+        "text": "What type of electronic device is visible on the table?"
+    },
+    {
+        "id": "000000380128_1",
+        "image": "000000380128.jpg",
+        "text": "What other objects can be seen on the same surface as the device?"
+    },
+    {
+        "id": "000000133850_1",
+        "image": "000000133850.jpg",
+        "text": "Can you describe the physical condition or state of the laptop?"
+    },
+    {
+        "id": "000000141828_0",
+        "image": "000000141828.jpg",
+        "text": "What type of device is placed on top of the laptop in the image?"
+    },
+    {
+        "id": "000000524456_2",
+        "image": "000000524456.jpg",
+        "text": "What kind of surface is the laptop placed on?"
+    },
+    {
+        "id": "000000151229_1",
+        "image": "000000151229.jpg",
+        "text": "Can you describe the position of the cat in relation to the laptop?"
+    },
+    {
+        "id": "000000011100_1",
+        "image": "000000011100.jpg",
+        "text": "What object is positioned in front of the cat and what content is visible on its screen?"
+    },
+    {
+        "id": "000000275644_1",
+        "image": "000000275644.jpg",
+        "text": "What content is visible on the laptop's screen?"
+    },
+    {
+        "id": "000000105603_1",
+        "image": "000000105603.jpg",
+        "text": "What objects are visible in the background that suggest a workspace setting?"
+    },
+    {
+        "id": "000000541994_1",
+        "image": "000000541994.jpg",
+        "text": "Can you describe the environment where the laptop is positioned?"
+    },
+    {
+        "id": "000000356740_1",
+        "image": "000000356740.jpg",
+        "text": "How many laptops are visible and how are they positioned relative to each other?"
+    },
+    {
+        "id": "000000477468_0",
+        "image": "000000477468.jpg",
+        "text": "How many people are visible in the image, and what are they doing?"
+    },
+    {
+        "id": "000000432212_2",
+        "image": "000000432212.jpg",
+        "text": "Could you describe any electronic devices visible on or around the desk? "
+    },
+    {
+        "id": "000000346550_0",
+        "image": "000000346550.jpg",
+        "text": "Can you describe the person in the image and what she is doing?"
+    },
+    {
+        "id": "000000402109_0",
+        "image": "000000402109.jpg",
+        "text": "Can you describe the main activity that is taking place in the image?"
+    },
+    {
+        "id": "000000208623_0",
+        "image": "000000208623.jpg",
+        "text": "How many people are in the image, and what are they doing?"
+    },
+    {
+        "id": "000000263957_1",
+        "image": "000000263957.jpg",
+        "text": "What is the person doing in the image?"
+    },
+    {
+        "id": "000000432859_1",
+        "image": "000000432859.jpg",
+        "text": "Are there any other objects located to the left side of the laptop?"
+    },
+    {
+        "id": "000000473069_0",
+        "image": "000000473069.jpg",
+        "text": "Can you describe the types of items that are surrounding the large electronic device in the center?"
+    },
+    {
+        "id": "000000080053_0",
+        "image": "000000080053.jpg",
+        "text": "Can you describe any devices visible on the table in the image?"
+    },
+    {
+        "id": "000000177404_0",
+        "image": "000000177404.jpg",
+        "text": "What type of electronic device is open on the floor?"
+    },
+    {
+        "id": "000000353206_0",
+        "image": "000000353206.jpg",
+        "text": "What devices are visible on the desk?"
+    },
+    {
+        "id": "000000169352_1",
+        "image": "000000169352.jpg",
+        "text": "What specific task does it seem like the laptop is being used for, based on the screen content?"
+    },
+    {
+        "id": "000000466001_2",
+        "image": "000000466001.jpg",
+        "text": "What sort of system or tool appears to be in front of the laptop, and can you interpret its function?"
+    },
+    {
+        "id": "000000027706_2",
+        "image": "000000027706.jpg",
+        "text": "Based on what you can see, what environment is the cat and the laptop situated in?"
+    },
+    {
+        "id": "000000400241_2",
+        "image": "000000400241.jpg",
+        "text": "What information can you discern from the visible content on the laptop's screen?"
+    },
+    {
+        "id": "000000337585_2",
+        "image": "000000337585.jpg",
+        "text": "What's on the laptop screen that might indicate its current use?"
+    },
+    {
+        "id": "000000198981_2",
+        "image": "000000198981.jpg",
+        "text": "What is displayed on the laptop screen that the cat is lying on?"
+    },
+    {
+        "id": "000000137552_1",
+        "image": "000000137552.jpg",
+        "text": "Can you describe the setting where the roses are placed?"
+    },
+    {
+        "id": "000000092601_2",
+        "image": "000000092601.jpg",
+        "text": "What is in the background behind the laptop, and how does it affect the setting?"
+    },
+    {
+        "id": "000000435359_1",
+        "image": "000000435359.jpg",
+        "text": "Are there any other items on the desk beside the laptop that give an indication of the desk being used for work or study?"
+    },
+    {
+        "id": "000000437594_1",
+        "image": "000000437594.jpg",
+        "text": "What is the person in the image doing?"
+    },
+    {
+        "id": "000000562098_1",
+        "image": "000000562098.jpg",
+        "text": "Can you describe the items that are arranged around the laptop?"
+    },
+    {
+        "id": "000000519404_0",
+        "image": "000000519404.jpg",
+        "text": "Can you describe what the people in the image are doing?"
+    },
+    {
+        "id": "000000017487_1",
+        "image": "000000017487.jpg",
+        "text": "Can you describe the device that is in front of the cat and the person?"
+    },
+    {
+        "id": "000000061034_2",
+        "image": "000000061034.jpg",
+        "text": "Is there any indication of the laptops being connected to a power source or peripherals?"
+    },
+    {
+        "id": "000000137918_2",
+        "image": "000000137918.jpg",
+        "text": "What activity might be taking place based on the objects arranged on the table?"
+    },
+    {
+        "id": "000000298459_2",
+        "image": "000000298459.jpg",
+        "text": "What might be the possible setting of this photo based on the surroundings?"
+    },
+    {
+        "id": "000000413896_1",
+        "image": "000000413896.jpg",
+        "text": "What image is displayed on the laptop screen that might capture the cat's attention?"
+    },
+    {
+        "id": "000000257629_1",
+        "image": "000000257629.jpg",
+        "text": "Can you describe the state of the laptop in the photograph?"
+    },
+    {
+        "id": "000000038252_2",
+        "image": "000000038252.jpg",
+        "text": "Does the image give any indication of the laptop's condition or usage?"
+    },
+    {
+        "id": "000000438252_0",
+        "image": "000000438252.jpg",
+        "text": "What electronic devices are shown in the image?"
+    },
+    {
+        "id": "000000574184_1",
+        "image": "000000574184.jpg",
+        "text": "What type of device is the cat beside, and can you tell if it's turned on?"
+    },
+    {
+        "id": "000000275325_0",
+        "image": "000000275325.jpg",
+        "text": "What type of animal is resting on the object and what is the object?"
+    },
+    {
+        "id": "000000408736_2",
+        "image": "000000408736.jpg",
+        "text": "What other objects are visible in the image near the laptop?"
+    },
+    {
+        "id": "000000341874_0",
+        "image": "000000341874.jpg",
+        "text": "Can you describe the device with a screen that is open on the desk?"
+    },
+    {
+        "id": "000000021361_0",
+        "image": "000000021361.jpg",
+        "text": "What is positioned on the keyboard of the laptop?"
+    },
+    {
+        "id": "000000362751_0",
+        "image": "000000362751.jpg",
+        "text": "Can you describe the items placed on the surface in this image?"
+    },
+    {
+        "id": "000000389577_0",
+        "image": "000000389577.jpg",
+        "text": "Can you describe the person's activity in the image?"
+    },
+    {
+        "id": "000000169095_1",
+        "image": "000000169095.jpg",
+        "text": "What is the person in the image doing?"
+    },
+    {
+        "id": "000000427726_2",
+        "image": "000000427726.jpg",
+        "text": "Is there anything else on the table beside the laptop?"
+    },
+    {
+        "id": "000000413247_1",
+        "image": "000000413247.jpg",
+        "text": "What objects can be seen on the desk around the laptop?"
+    },
+    {
+        "id": "000000414045_0",
+        "image": "000000414045.jpg",
+        "text": "Can you describe the devices placed on the table in this image?"
+    },
+    {
+        "id": "000000290843_1",
+        "image": "000000290843.jpg",
+        "text": "What is the cat looking at in the picture?"
+    },
+    {
+        "id": "000000389577_2",
+        "image": "000000389577.jpg",
+        "text": "How would you describe the environment surrounding the individual and the laptop?"
+    },
+    {
+        "id": "000000222990_1",
+        "image": "000000222990.jpg",
+        "text": "What is positioned directly below the laptop in the image?"
+    },
+    {
+        "id": "000000417195_2",
+        "image": "000000417195.jpg",
+        "text": "What type of environment does the lighting suggest the laptop is being used in?"
+    },
+    {
+        "id": "000000059692_0",
+        "image": "000000059692.jpg",
+        "text": "What is the person in the image doing with the object in their hands?"
+    },
+    {
+        "id": "000000558350_1",
+        "image": "000000558350.jpg",
+        "text": "What object is placed above the puppy, and how is it positioned relative to the person?"
+    },
+    {
+        "id": "000000226211_0",
+        "image": "000000226211.jpg",
+        "text": "Can you describe what is displayed on the screen of the device in the image?"
+    },
+    {
+        "id": "000000353138_2",
+        "image": "000000353138.jpg",
+        "text": "Is there anything else of interest on the desk where the laptop is placed?"
+    },
+    {
+        "id": "000000178469_2",
+        "image": "000000178469.jpg",
+        "text": "What sort of environment is the laptop situated in based on the background of the image?"
+    },
+    {
+        "id": "000000260635_2",
+        "image": "000000260635.jpg",
+        "text": "Does the image suggest a conventional or unconventional use for the laptop?"
+    },
+    {
+        "id": "000000502852_1",
+        "image": "000000502852.jpg",
+        "text": "Where is the laptop positioned in relation to the child?"
+    },
+    {
+        "id": "000000017487_0",
+        "image": "000000017487.jpg",
+        "text": "What type of animal is interacting with the person in the image?"
+    },
+    {
+        "id": "000000503943_2",
+        "image": "000000503943.jpg",
+        "text": "Can you describe the environment in which the laptop is placed?"
+    },
+    {
+        "id": "000000219752_2",
+        "image": "000000219752.jpg",
+        "text": "Is there any device visible that could indicate the type of work being done at this desk?"
+    },
+    {
+        "id": "000000569310_0",
+        "image": "000000569310.jpg",
+        "text": "What kind of animal is resting on the object in the center of the image?"
+    },
+    {
+        "id": "000000398767_2",
+        "image": "000000398767.jpg",
+        "text": "Is there anything notable about the kitten's position in relation to the laptop?"
+    },
+    {
+        "id": "000000290689_1",
+        "image": "000000290689.jpg",
+        "text": "Is there something displayed on the laptop screen? If so, can you tell what it is?"
+    },
+    {
+        "id": "000000066376_2",
+        "image": "000000066376.jpg",
+        "text": "What is happening on the laptop screen?"
+    },
+    {
+        "id": "000000253265_0",
+        "image": "000000253265.jpg",
+        "text": "Can you describe the items on the table in the image?"
+    },
+    {
+        "id": "000000223462_0",
+        "image": "000000223462.jpg",
+        "text": "Can you describe the animal visible and its position relative to the electronic device in the foreground?"
+    },
+    {
+        "id": "000000217707_1",
+        "image": "000000217707.jpg",
+        "text": "Can you describe the content that is visible on the laptop and the monitor?"
+    },
+    {
+        "id": "000000320649_0",
+        "image": "000000320649.jpg",
+        "text": "What kind of animal is occupying the space on top of the electronic device in the image?"
+    },
+    {
+        "id": "000000399488_1",
+        "image": "000000399488.jpg",
+        "text": "What items can be seen to the right of the laptop?"
+    },
+    {
+        "id": "000000096728_1",
+        "image": "000000096728.jpg",
+        "text": "What activity is the person in the image engaged in?"
+    },
+    {
+        "id": "000000061034_1",
+        "image": "000000061034.jpg",
+        "text": "What are the visual differences between the two laptops shown in the image?"
+    },
+    {
+        "id": "000000179805_1",
+        "image": "000000179805.jpg",
+        "text": "Can you describe the setting in which the laptop is placed?"
+    },
+    {
+        "id": "000000301256_0",
+        "image": "000000301256.jpg",
+        "text": "Can you describe the device that the person is holding?"
+    },
+    {
+        "id": "000000338030_1",
+        "image": "000000338030.jpg",
+        "text": "What objects are visible on the table beside the laptop?"
+    },
+    {
+        "id": "000000279883_1",
+        "image": "000000279883.jpg",
+        "text": "What objects are the individuals holding in the image?"
+    },
+    {
+        "id": "000000399560_0",
+        "image": "000000399560.jpg",
+        "text": "What is the cat doing in the image?"
+    },
+    {
+        "id": "000000393971_2",
+        "image": "000000393971.jpg",
+        "text": "Apart from the laptop, can you describe another object that is visible on the desk?"
+    },
+    {
+        "id": "000000474847_2",
+        "image": "000000474847.jpg",
+        "text": "Are there any other objects or personal items visible in the image apart from the laptops?"
+    },
+    {
+        "id": "000000310131_1",
+        "image": "000000310131.jpg",
+        "text": "What objects are in front of the person?"
+    },
+    {
+        "id": "000000529383_0",
+        "image": "000000529383.jpg",
+        "text": "What items are neatly arranged on the surface in the image?"
+    },
+    {
+        "id": "000000274323_2",
+        "image": "000000274323.jpg",
+        "text": "Does the image suggest any particular activity that might be occurring?"
+    },
+    {
+        "id": "000000275656_0",
+        "image": "000000275656.jpg",
+        "text": "Can you describe the main electronic device that is open on the desk?"
+    },
+    {
+        "id": "000000269045_2",
+        "image": "000000269045.jpg",
+        "text": "What type of clothing is draped over the chair beneath the laptop, and what does its presence along with the laptop suggest about the scenario?"
+    },
+    {
+        "id": "000000076731_2",
+        "image": "000000076731.jpg",
+        "text": "What kind of surface is the laptop placed on?"
+    },
+    {
+        "id": "000000474847_1",
+        "image": "000000474847.jpg",
+        "text": "How many additional laptops can be observed behind the one in the foreground, and can we see if they are in use?"
+    },
+    {
+        "id": "000000567721_1",
+        "image": "000000567721.jpg",
+        "text": "Can you describe the workspace where the laptop is located?"
+    },
+    {
+        "id": "000000472093_2",
+        "image": "000000472093.jpg",
+        "text": "What kind of device is the person using, based on the visible features?"
+    },
+    {
+        "id": "000000560858_2",
+        "image": "000000560858.jpg",
+        "text": "Can you tell me about the different cables visible in the image?"
+    },
+    {
+        "id": "000000353206_2",
+        "image": "000000353206.jpg",
+        "text": "What might be the purpose of this particular setup with these devices?"
+    },
+    {
+        "id": "000000203948_1",
+        "image": "000000203948.jpg",
+        "text": "What items can be seen on the table beside the laptop?"
+    },
+    {
+        "id": "000000353206_1",
+        "image": "000000353206.jpg",
+        "text": "Can you describe the positioning of the graphics tablet in relation to the laptop?"
+    },
+    {
+        "id": "000000452072_2",
+        "image": "000000452072.jpg",
+        "text": "Besides the laptop, what other objects can be observed on the table?"
+    },
+    {
+        "id": "000000397908_0",
+        "image": "000000397908.jpg",
+        "text": "What is the person in the image doing?"
+    },
+    {
+        "id": "000000331864_1",
+        "image": "000000331864.jpg",
+        "text": "What objects are located on the same surface as the electronic device?"
+    },
+    {
+        "id": "000000519076_1",
+        "image": "000000519076.jpg",
+        "text": "What types of electronic devices are visible on the desk?"
+    },
+    {
+        "id": "000000201032_0",
+        "image": "000000201032.jpg",
+        "text": "What is the person in the image doing?"
+    },
+    {
+        "id": "000000207090_2",
+        "image": "000000207090.jpg",
+        "text": "What kind of electronic device is visible on the desk?"
+    },
+    {
+        "id": "000000203948_0",
+        "image": "000000203948.jpg",
+        "text": "What is the person in the image doing?"
+    },
+    {
+        "id": "000000060780_2",
+        "image": "000000060780.jpg",
+        "text": "Can you describe the laptop's position in relation to the child?"
+    },
+    {
+        "id": "000000209493_2",
+        "image": "000000209493.jpg",
+        "text": "What objects can be seen on the table beside the laptop?"
+    },
+    {
+        "id": "000000396039_2",
+        "image": "000000396039.jpg",
+        "text": "What kind of environment are the laptop and kitten situated in?"
+    },
+    {
+        "id": "000000320089_1",
+        "image": "000000320089.jpg",
+        "text": "What is the bright object the cat is looking at?"
+    },
+    {
+        "id": "000000057445_1",
+        "image": "000000057445.jpg",
+        "text": "Can you describe the electronic device that the person is interacting with?"
+    },
+    {
+        "id": "000000253498_0",
+        "image": "000000253498.jpg",
+        "text": "What items are scattered around the target object in the image, and what is the target object?"
+    },
+    {
+        "id": "000000264385_2",
+        "image": "000000264385.jpg",
+        "text": "What does the surrounding environment in the image suggest about the use of the laptop?"
+    },
+    {
+        "id": "000000062237_1",
+        "image": "000000062237.jpg",
+        "text": "Can you describe the scene around the animal?"
+    },
+    {
+        "id": "000000232394_0",
+        "image": "000000232394.jpg",
+        "text": "What type of animal is resting on the object in the image?"
+    },
+    {
+        "id": "000000485139_0",
+        "image": "000000485139.jpg",
+        "text": "What type of animal is resting on top of an object in the image?"
+    },
+    {
+        "id": "000000163829_0",
+        "image": "000000163829.jpg",
+        "text": "Can you identify the types of electronic devices shown on the desk?"
+    },
+    {
+        "id": "000000092601_0",
+        "image": "000000092601.jpg",
+        "text": "Can you describe the main object situated on the table?"
+    },
+    {
+        "id": "000000399200_1",
+        "image": "000000399200.jpg",
+        "text": "What else can you observe in the background behind the laptop?"
+    },
+    {
+        "id": "000000467931_0",
+        "image": "000000467931.jpg",
+        "text": "Can you describe the setting where the two individuals are located?"
+    },
+    {
+        "id": "000000193465_2",
+        "image": "000000193465.jpg",
+        "text": "Can you describe the surface on which the laptop and its accessories are placed?"
+    },
+    {
+        "id": "000000517998_0",
+        "image": "000000517998.jpg",
+        "text": "What is the person in the image doing?"
+    },
+    {
+        "id": "000000467931_2",
+        "image": "000000467931.jpg",
+        "text": "Could you comment on the type of work they might be engaged in based on the objects and environment seen in the image?"
+    },
+    {
+        "id": "000000268992_1",
+        "image": "000000268992.jpg",
+        "text": "What objects are placed on top of the desk?"
+    },
+    {
+        "id": "000000364879_1",
+        "image": "000000364879.jpg",
+        "text": "Can you describe the action the cat appears to be doing with the laptop?"
+    },
+    {
+        "id": "000000412289_2",
+        "image": "000000412289.jpg",
+        "text": "What time of day does it seem to be based on the lighting and the environment in the image?"
+    },
+    {
+        "id": "000000501242_0",
+        "image": "000000501242.jpg",
+        "text": "What is the person in the image doing?"
+    },
+    {
+        "id": "000000539719_1",
+        "image": "000000539719.jpg",
+        "text": "What items are placed around the laptop?"
+    },
+    {
+        "id": "000000035127_2",
+        "image": "000000035127.jpg",
+        "text": "Aside from the laptop, what other items can be seen on the desk?"
+    },
+    {
+        "id": "000000385641_2",
+        "image": "000000385641.jpg",
+        "text": "Based on the image, how is the workspace organized regarding the placement of the objects?"
+    },
+    {
+        "id": "000000349719_0",
+        "image": "000000349719.jpg",
+        "text": "Can you describe the main object that is in use in the image?"
+    },
+    {
+        "id": "000000199151_0",
+        "image": "000000199151.jpg",
+        "text": "What are the two people in the image doing?"
+    },
+    {
+        "id": "000000434275_2",
+        "image": "000000434275.jpg",
+        "text": "What type of setting does the photo suggest?"
+    },
+    {
+        "id": "000000565233_1",
+        "image": "000000565233.jpg",
+        "text": "What can you observe on the surface where the laptop is placed?"
+    },
+    {
+        "id": "000000217707_0",
+        "image": "000000217707.jpg",
+        "text": "What type of electronic devices can you see on the desk?"
+    },
+    {
+        "id": "000000209428_1",
+        "image": "000000209428.jpg",
+        "text": "What is the person doing in the image?"
+    },
+    {
+        "id": "000000543992_0",
+        "image": "000000543992.jpg",
+        "text": "What are the main electronic devices visible in the image? "
+    },
+    {
+        "id": "000000053184_1",
+        "image": "000000053184.jpg",
+        "text": "What is the person in the foreground doing?"
+    },
+    {
+        "id": "000000467022_2",
+        "image": "000000467022.jpg",
+        "text": "What can we infer about the setting in which these objects are placed?"
+    },
+    {
+        "id": "000000346550_2",
+        "image": "000000346550.jpg",
+        "text": "How is the woman positioned in relation to the laptop?"
+    }
+]

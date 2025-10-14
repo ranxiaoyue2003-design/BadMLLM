@@ -1,0 +1,1502 @@
+[
+    {
+        "id": "000000205676_0",
+        "image": "000000205676.jpg",
+        "text": "What types of vehicles are present in the image?"
+    },
+    {
+        "id": "000000217846_1",
+        "image": "000000217846.jpg",
+        "text": "How many cars can you see in the side mirror, and can you describe their relative positions?"
+    },
+    {
+        "id": "000000010363_2",
+        "image": "000000010363.jpg",
+        "text": "What is the color of the car?"
+    },
+    {
+        "id": "000000208991_0",
+        "image": "000000208991.jpg",
+        "text": "What types of transportation are visible in the image?"
+    },
+    {
+        "id": "000000387150_0",
+        "image": "000000387150.jpg",
+        "text": "Can you tell me how many cars are visible in the image?"
+    },
+    {
+        "id": "000000217846_0",
+        "image": "000000217846.jpg",
+        "text": "Can you describe what is shown in the side mirror of the car?"
+    },
+    {
+        "id": "000000406647_2",
+        "image": "000000406647.jpg",
+        "text": "Are there any markings on the ground that indicate parking guidance, and if so, what type are they?"
+    },
+    {
+        "id": "000000555050_1",
+        "image": "000000555050.jpg",
+        "text": "Are there any other vehicles visible in the image besides the car closest to the camera?"
+    },
+    {
+        "id": "000000199492_2",
+        "image": "000000199492.jpg",
+        "text": "Are there any other vehicles in the image besides the double-decker bus?"
+    },
+    {
+        "id": "000000368335_1",
+        "image": "000000368335.jpg",
+        "text": "How many cars can be fully or partially seen in this image?"
+    },
+    {
+        "id": "000000544002_2",
+        "image": "000000544002.jpg",
+        "text": "Is there anyone inside the car?"
+    },
+    {
+        "id": "000000061660_1",
+        "image": "000000061660.jpg",
+        "text": "What can be observed about the vehicle to which the trailer is attached?"
+    },
+    {
+        "id": "000000314515_0",
+        "image": "000000314515.jpg",
+        "text": "Can you describe the vehicle in the image?"
+    },
+    {
+        "id": "000000103127_0",
+        "image": "000000103127.jpg",
+        "text": "Can you tell me what is reflected in the side mirror of the car?"
+    },
+    {
+        "id": "000000276894_2",
+        "image": "000000276894.jpg",
+        "text": "What is located in front of the vehicle on the ground?"
+    },
+    {
+        "id": "000000550019_1",
+        "image": "000000550019.jpg",
+        "text": "Is there a vehicle visible in the background of this image?"
+    },
+    {
+        "id": "000000436653_1",
+        "image": "000000436653.jpg",
+        "text": "Are the vehicles moving or parked, and can you describe their positioning in relation to the traffic lights?"
+    },
+    {
+        "id": "000000308276_2",
+        "image": "000000308276.jpg",
+        "text": "Is there any other notable transportation in the background of the photo?"
+    },
+    {
+        "id": "000000207860_1",
+        "image": "000000207860.jpg",
+        "text": "Can you describe the setting surrounding the mural?"
+    },
+    {
+        "id": "000000276894_0",
+        "image": "000000276894.jpg",
+        "text": "Can you tell me what type of vehicle is in the image?"
+    },
+    {
+        "id": "000000195510_1",
+        "image": "000000195510.jpg",
+        "text": "What might the white vehicle with blue signage in the center of the image be used for?"
+    },
+    {
+        "id": "000000195510_0",
+        "image": "000000195510.jpg",
+        "text": "Can you describe the types of vehicles visible in this image?"
+    },
+    {
+        "id": "000000178550_2",
+        "image": "000000178550.jpg",
+        "text": "Where is the silver car parked in relation to the curb?"
+    },
+    {
+        "id": "000000086220_1",
+        "image": "000000086220.jpg",
+        "text": "What is the color of the car and where is it positioned in relation to the streetcar?"
+    },
+    {
+        "id": "000000276971_1",
+        "image": "000000276971.jpg",
+        "text": "What is the color of the car in the foreground?"
+    },
+    {
+        "id": "000000083844_0",
+        "image": "000000083844.jpg",
+        "text": "Can you tell me what type of vehicle is in the image?"
+    },
+    {
+        "id": "000000521869_2",
+        "image": "000000521869.jpg",
+        "text": "Can you see any other vehicles or objects through the car windows?"
+    },
+    {
+        "id": "000000406253_0",
+        "image": "000000406253.jpg",
+        "text": "What types of vehicles are visible in the image?"
+    },
+    {
+        "id": "000000357578_2",
+        "image": "000000357578.jpg",
+        "text": "Can you describe the setting around the fire truck?"
+    },
+    {
+        "id": "000000461775_1",
+        "image": "000000461775.jpg",
+        "text": "Is the cat doing any particular activity, or is it stationary?"
+    },
+    {
+        "id": "000000544002_1",
+        "image": "000000544002.jpg",
+        "text": "What is the color of the car?"
+    },
+    {
+        "id": "000000194331_1",
+        "image": "000000194331.jpg",
+        "text": "How does the traffic appear to be flowing based on the vehicles' positions?"
+    },
+    {
+        "id": "000000178578_2",
+        "image": "000000178578.jpg",
+        "text": "Can you tell me how fast the vehicle seems to be going based on the dashboard?"
+    },
+    {
+        "id": "000000390684_1",
+        "image": "000000390684.jpg",
+        "text": "Are there any traffic signals visible, and if so, what color are they displaying?"
+    },
+    {
+        "id": "000000211675_1",
+        "image": "000000211675.jpg",
+        "text": "Is there an object in the foreground that relates to the car?"
+    },
+    {
+        "id": "000000341645_2",
+        "image": "000000341645.jpg",
+        "text": "What objects are found in the bottom left corner inside the vehicle?"
+    },
+    {
+        "id": "000000556012_1",
+        "image": "000000556012.jpg",
+        "text": "Can you describe the activity on the street?"
+    },
+    {
+        "id": "000000313735_2",
+        "image": "000000313735.jpg",
+        "text": "Apart from the person, what types of objects are in the background, and do they seem to indicate a particular setting?"
+    },
+    {
+        "id": "000000339852_2",
+        "image": "000000339852.jpg",
+        "text": "Can you see any objects that indicate the type of vehicle the dog is in?"
+    },
+    {
+        "id": "000000169331_1",
+        "image": "000000169331.jpg",
+        "text": "What types of transport can be seen in the background?"
+    },
+    {
+        "id": "000000416385_0",
+        "image": "000000416385.jpg",
+        "text": "What kind of animals are visible on the road in the image?"
+    },
+    {
+        "id": "000000148395_2",
+        "image": "000000148395.jpg",
+        "text": "Is there any indication of the make or model of the pickup truck?"
+    },
+    {
+        "id": "000000441083_2",
+        "image": "000000441083.jpg",
+        "text": "Are there any other vehicles visible in the background through the side mirror reflection?"
+    },
+    {
+        "id": "000000558242_2",
+        "image": "000000558242.jpg",
+        "text": "Can you describe the setting in which this activity is taking place?"
+    },
+    {
+        "id": "000000365366_2",
+        "image": "000000365366.jpg",
+        "text": "Is there a vehicle visible in the image, and if so, what is its position relative to the person?"
+    },
+    {
+        "id": "000000410855_2",
+        "image": "000000410855.jpg",
+        "text": "Based on the lighting, what time of day does it appear to be in the image?"
+    },
+    {
+        "id": "000000526392_2",
+        "image": "000000526392.jpg",
+        "text": "Is the traffic light in the image showing green, yellow, or red for the direction the cars are facing?"
+    },
+    {
+        "id": "000000239355_0",
+        "image": "000000239355.jpg",
+        "text": "Can you tell me what types of vehicles are visible in the image?"
+    },
+    {
+        "id": "000000540860_2",
+        "image": "000000540860.jpg",
+        "text": "What details can you provide about the setting and context of where this hot rod display is located?"
+    },
+    {
+        "id": "000000388316_1",
+        "image": "000000388316.jpg",
+        "text": "Can you describe the vehicles that are visible in the foreground of the image?"
+    },
+    {
+        "id": "000000510782_2",
+        "image": "000000510782.jpg",
+        "text": "Where is the black backpack located in relation to the pink suitcase?"
+    },
+    {
+        "id": "000000357578_0",
+        "image": "000000357578.jpg",
+        "text": "What type of emergency vehicle is visible in the image?"
+    },
+    {
+        "id": "000000557127_1",
+        "image": "000000557127.jpg",
+        "text": "Can you describe the environment where the vehicles are located?"
+    },
+    {
+        "id": "000000332916_1",
+        "image": "000000332916.jpg",
+        "text": "What objects are behind the person in the image?"
+    },
+    {
+        "id": "000000354537_0",
+        "image": "000000354537.jpg",
+        "text": "Can you describe the main subject that is inside the blue car?"
+    },
+    {
+        "id": "000000013414_2",
+        "image": "000000013414.jpg",
+        "text": "What can be seen in the background behind the parking meters?"
+    },
+    {
+        "id": "000000447009_0",
+        "image": "000000447009.jpg",
+        "text": "Can you describe the activity the person in the image is engaged in?"
+    },
+    {
+        "id": "000000469803_1",
+        "image": "000000469803.jpg",
+        "text": "Can you describe the scene behind the fire hydrant?"
+    },
+    {
+        "id": "000000274528_0",
+        "image": "000000274528.jpg",
+        "text": "What types of vehicles are visible in the image, and how many of each type can you see?"
+    },
+    {
+        "id": "000000493286_1",
+        "image": "000000493286.jpg",
+        "text": "What is the color scheme of the vintage car?"
+    },
+    {
+        "id": "000000354537_2",
+        "image": "000000354537.jpg",
+        "text": "What is the weather like in the image, can you tell from the state of the cars?"
+    },
+    {
+        "id": "000000314515_2",
+        "image": "000000314515.jpg",
+        "text": "What is the weather like in the photo, and are there any people around the car?"
+    },
+    {
+        "id": "000000065485_0",
+        "image": "000000065485.jpg",
+        "text": "Can you tell me how many wheels are visible on the car in the image?"
+    },
+    {
+        "id": "000000566038_2",
+        "image": "000000566038.jpg",
+        "text": "Are there any other objects near the bird, and if so, what are they?"
+    },
+    {
+        "id": "000000207557_2",
+        "image": "000000207557.jpg",
+        "text": "Is the car parked indoors or outdoors?"
+    },
+    {
+        "id": "000000212573_2",
+        "image": "000000212573.jpg",
+        "text": "Are there any vehicles in the vicinity of the people, and if so, what details can you provide about their activity or position?"
+    },
+    {
+        "id": "000000064183_1",
+        "image": "000000064183.jpg",
+        "text": "Can you describe the activity happening on the street where the person with the yellow umbrella is standing?"
+    },
+    {
+        "id": "000000117458_0",
+        "image": "000000117458.jpg",
+        "text": "What type of vehicles are visible in this image?"
+    },
+    {
+        "id": "000000521869_1",
+        "image": "000000521869.jpg",
+        "text": "What is the color of the car in the image?"
+    },
+    {
+        "id": "000000415904_2",
+        "image": "000000415904.jpg",
+        "text": "Can you describe the setting or event surrounding the car?"
+    },
+    {
+        "id": "000000565699_0",
+        "image": "000000565699.jpg",
+        "text": "What types of transportation can be seen in this image? "
+    },
+    {
+        "id": "000000493286_0",
+        "image": "000000493286.jpg",
+        "text": "Can you describe the types of vehicles present in the image?"
+    },
+    {
+        "id": "000000147653_1",
+        "image": "000000147653.jpg",
+        "text": "How many vehicles are visible in the background, and what might their proximity to the skateboarder suggest about the location?"
+    },
+    {
+        "id": "000000144333_2",
+        "image": "000000144333.jpg",
+        "text": "Are there any other modes of transportation visible in the image?"
+    },
+    {
+        "id": "000000206770_0",
+        "image": "000000206770.jpg",
+        "text": "Can you describe the vehicle in the image?"
+    },
+    {
+        "id": "000000233711_2",
+        "image": "000000233711.jpg",
+        "text": "How many cars can be seen in the image, and are there any notable features near them?"
+    },
+    {
+        "id": "000000127775_2",
+        "image": "000000127775.jpg",
+        "text": "What can be seen in the background behind the elephant sculpture?"
+    },
+    {
+        "id": "000000400456_2",
+        "image": "000000400456.jpg",
+        "text": "Are there any vehicles present near the location where the horse is being ridden?"
+    },
+    {
+        "id": "000000035313_2",
+        "image": "000000035313.jpg",
+        "text": "How many cars can be seen in the background?"
+    },
+    {
+        "id": "000000360510_2",
+        "image": "000000360510.jpg",
+        "text": "What is the condition of the car's roof where the cat is lying?"
+    },
+    {
+        "id": "000000172330_2",
+        "image": "000000172330.jpg",
+        "text": "Is there any animal in the picture, and if so, where is it located relative to the cars?"
+    },
+    {
+        "id": "000000529632_2",
+        "image": "000000529632.jpg",
+        "text": "What types of objects are located behind the person waiting at the pedestrian signal?"
+    },
+    {
+        "id": "000000261360_1",
+        "image": "000000261360.jpg",
+        "text": "What is the condition of the parking meter and the nearby car in terms of weather?"
+    },
+    {
+        "id": "000000181963_1",
+        "image": "000000181963.jpg",
+        "text": "Can you identify any objects on the hood of the car?"
+    },
+    {
+        "id": "000000010363_0",
+        "image": "000000010363.jpg",
+        "text": "Can you tell me what type of vehicle is in the image?"
+    },
+    {
+        "id": "000000397859_2",
+        "image": "000000397859.jpg",
+        "text": "What types of objects are placed along the sidewalk, and how might they relate to the activity taking place?"
+    },
+    {
+        "id": "000000038031_1",
+        "image": "000000038031.jpg",
+        "text": "Where is the car in relation to the painted parking lines on the ground?"
+    },
+    {
+        "id": "000000540860_1",
+        "image": "000000540860.jpg",
+        "text": "What types of vehicles are visible in the background?"
+    },
+    {
+        "id": "000000194598_0",
+        "image": "000000194598.jpg",
+        "text": "What is the prominent feature of the image that captures the city's activity?"
+    },
+    {
+        "id": "000000103127_1",
+        "image": "000000103127.jpg",
+        "text": "What is the color of the car's interior that is visible?"
+    },
+    {
+        "id": "000000412531_2",
+        "image": "000000412531.jpg",
+        "text": "What can be observed on the other side of the fence, towards the background?"
+    },
+    {
+        "id": "000000097679_2",
+        "image": "000000097679.jpg",
+        "text": "How many vehicles are there in total in the image?"
+    },
+    {
+        "id": "000000544921_0",
+        "image": "000000544921.jpg",
+        "text": "Can you describe the emergency vehicles visible in the sequence of images?"
+    },
+    {
+        "id": "000000458424_2",
+        "image": "000000458424.jpg",
+        "text": "What is the condition of the vehicle inferred from the dog's appearance?"
+    },
+    {
+        "id": "000000181963_0",
+        "image": "000000181963.jpg",
+        "text": "Is there a car in the image, and if so, what color is it?"
+    },
+    {
+        "id": "000000173530_0",
+        "image": "000000173530.jpg",
+        "text": "Can you describe the main vehicle in this image?"
+    },
+    {
+        "id": "000000482024_1",
+        "image": "000000482024.jpg",
+        "text": "Are the traffic lights on the near side of the intersection showing green or red for the vehicles?"
+    },
+    {
+        "id": "000000185360_1",
+        "image": "000000185360.jpg",
+        "text": "What is the condition of the car's front right tire?"
+    },
+    {
+        "id": "000000211675_2",
+        "image": "000000211675.jpg",
+        "text": "Can you describe the position of the parking meter in relation to the white car?"
+    },
+    {
+        "id": "000000038449_2",
+        "image": "000000038449.jpg",
+        "text": "Are there any vehicles in the background?"
+    },
+    {
+        "id": "000000323919_1",
+        "image": "000000323919.jpg",
+        "text": "What is the color of the car in the background?"
+    },
+    {
+        "id": "000000528951_1",
+        "image": "000000528951.jpg",
+        "text": "Are there other vehicles in the scene beside the train, and if so, where are they located?"
+    },
+    {
+        "id": "000000414133_1",
+        "image": "000000414133.jpg",
+        "text": "Is there any vehicle visible in the vicinity of the sign?"
+    },
+    {
+        "id": "000000466156_2",
+        "image": "000000466156.jpg",
+        "text": "What part of the car is visible from the open hood?"
+    },
+    {
+        "id": "000000346071_0",
+        "image": "000000346071.jpg",
+        "text": "How many dogs are visible in the car?"
+    },
+    {
+        "id": "000000545138_1",
+        "image": "000000545138.jpg",
+        "text": "How many other similar transportation devices can be seen parked along the same stretch of the road?"
+    },
+    {
+        "id": "000000567205_1",
+        "image": "000000567205.jpg",
+        "text": "What is the activity being performed near the vehicle, and who is performing it?"
+    },
+    {
+        "id": "000000075283_1",
+        "image": "000000075283.jpg",
+        "text": "What colors are prevalent on the car behind the dog and the people?"
+    },
+    {
+        "id": "000000127997_1",
+        "image": "000000127997.jpg",
+        "text": "Are there any other vehicles or objects of interest visible on the road ahead outside the car?"
+    },
+    {
+        "id": "000000027476_1",
+        "image": "000000027476.jpg",
+        "text": "What type of vehicles can be seen in the background?"
+    },
+    {
+        "id": "000000001532_1",
+        "image": "000000001532.jpg",
+        "text": "Can you describe the traffic situation visible in the image?"
+    },
+    {
+        "id": "000000147740_1",
+        "image": "000000147740.jpg",
+        "text": "Are there other individuals or vehicles in the vicinity of the person with the bananas?"
+    },
+    {
+        "id": "000000460294_1",
+        "image": "000000460294.jpg",
+        "text": "What types of objects are parked in the background?"
+    },
+    {
+        "id": "000000458325_2",
+        "image": "000000458325.jpg",
+        "text": "What is the condition of the street traffic as observed in the image?"
+    },
+    {
+        "id": "000000240764_2",
+        "image": "000000240764.jpg",
+        "text": "Based on this image, what color are the majority of the visible cars in the parking garage?"
+    },
+    {
+        "id": "000000244246_1",
+        "image": "000000244246.jpg",
+        "text": "Can you describe the different types of vehicles on the road?"
+    },
+    {
+        "id": "000000285742_1",
+        "image": "000000285742.jpg",
+        "text": "Can you tell me how many cars are visible on the side of the street?"
+    },
+    {
+        "id": "000000382717_1",
+        "image": "000000382717.jpg",
+        "text": "What is the environment or setting around the dogs?"
+    },
+    {
+        "id": "000000476773_1",
+        "image": "000000476773.jpg",
+        "text": "Can you describe the activity on the road in the image?"
+    },
+    {
+        "id": "000000458338_1",
+        "image": "000000458338.jpg",
+        "text": "How many vehicles can be observed through the windshield, and what are the visible colors of these vehicles?"
+    },
+    {
+        "id": "000000559270_0",
+        "image": "000000559270.jpg",
+        "text": "Can you describe the car in the image and its color?"
+    },
+    {
+        "id": "000000030685_2",
+        "image": "000000030685.jpg",
+        "text": "What features can be seen on the street beyond the gate?"
+    },
+    {
+        "id": "000000578522_0",
+        "image": "000000578522.jpg",
+        "text": "Can you describe the object that is mounted on top of the car?"
+    },
+    {
+        "id": "000000437859_1",
+        "image": "000000437859.jpg",
+        "text": "What can be seen in the foreground of the image that indicates the location is likely used for transportation?"
+    },
+    {
+        "id": "000000307993_0",
+        "image": "000000307993.jpg",
+        "text": "Is there a person present in the image and what is their position in relation to the car?"
+    },
+    {
+        "id": "000000555050_0",
+        "image": "000000555050.jpg",
+        "text": "What color is the car closest to the camera in the image?"
+    },
+    {
+        "id": "000000551018_0",
+        "image": "000000551018.jpg",
+        "text": "Can you describe the types of vehicles visible in this image?"
+    },
+    {
+        "id": "000000450970_1",
+        "image": "000000450970.jpg",
+        "text": "Can you describe the vehicle that is parked near the people, and what might be its relevance in this context?"
+    },
+    {
+        "id": "000000135275_2",
+        "image": "000000135275.jpg",
+        "text": "How many doors are visible on the side of the vehicle in the image?"
+    },
+    {
+        "id": "000000200605_1",
+        "image": "000000200605.jpg",
+        "text": "Are there any vehicles visible, and if so, what types?"
+    },
+    {
+        "id": "000000339781_1",
+        "image": "000000339781.jpg",
+        "text": "Are there any vehicles present behind the person?"
+    },
+    {
+        "id": "000000331627_2",
+        "image": "000000331627.jpg",
+        "text": "What details can be observed in the background of this photo?"
+    },
+    {
+        "id": "000000497441_0",
+        "image": "000000497441.jpg",
+        "text": "Are there any vehicles in the image, and if so, how many can be seen?"
+    },
+    {
+        "id": "000000265378_0",
+        "image": "000000265378.jpg",
+        "text": "Can you tell me how many cars are visible in this image?"
+    },
+    {
+        "id": "000000406253_2",
+        "image": "000000406253.jpg",
+        "text": "Can you describe the setting or environment surrounding the vehicles?"
+    },
+    {
+        "id": "000000088021_0",
+        "image": "000000088021.jpg",
+        "text": "How many cars are visible in the image?"
+    },
+    {
+        "id": "000000554377_2",
+        "image": "000000554377.jpg",
+        "text": "Can you tell if the car is stationary or in motion?"
+    },
+    {
+        "id": "000000458132_2",
+        "image": "000000458132.jpg",
+        "text": "Is there anything else visible in the background?"
+    },
+    {
+        "id": "000000503765_2",
+        "image": "000000503765.jpg",
+        "text": "What is the setting or environment in which this vintage car is located?"
+    },
+    {
+        "id": "000000040937_0",
+        "image": "000000040937.jpg",
+        "text": "Can you confirm if there is a car visible in the image?"
+    },
+    {
+        "id": "000000143876_1",
+        "image": "000000143876.jpg",
+        "text": "Is there an object the cats are sitting inside, and if so, what is it?"
+    },
+    {
+        "id": "000000365709_1",
+        "image": "000000365709.jpg",
+        "text": "Can you describe the vehicles parked in front of the building?"
+    },
+    {
+        "id": "000000246435_2",
+        "image": "000000246435.jpg",
+        "text": "What is the setting of this image, including notable signage or street details?"
+    },
+    {
+        "id": "000000225014_0",
+        "image": "000000225014.jpg",
+        "text": "Can you describe the main object in the center of the image?"
+    },
+    {
+        "id": "000000135275_0",
+        "image": "000000135275.jpg",
+        "text": "Can you describe the main subject that is visible inside the vehicle in the image?"
+    },
+    {
+        "id": "000000521869_0",
+        "image": "000000521869.jpg",
+        "text": "Can you confirm if there is an animal in the car?"
+    },
+    {
+        "id": "000000523454_2",
+        "image": "000000523454.jpg",
+        "text": "Is there any vehicle partially visible in the background, and what is its color?"
+    },
+    {
+        "id": "000000364919_1",
+        "image": "000000364919.jpg",
+        "text": "Can you describe the types of transportation visible on the bridge?"
+    },
+    {
+        "id": "000000296782_0",
+        "image": "000000296782.jpg",
+        "text": "Can you describe the types of transportation visible in the image?"
+    },
+    {
+        "id": "000000181963_2",
+        "image": "000000181963.jpg",
+        "text": "What is the cat doing at the moment in the image?"
+    },
+    {
+        "id": "000000306693_0",
+        "image": "000000306693.jpg",
+        "text": "Can you describe the different types of vehicles present in this image?"
+    },
+    {
+        "id": "000000127997_0",
+        "image": "000000127997.jpg",
+        "text": "Is there a vehicle in the side mirror, and if so, can you describe it?"
+    },
+    {
+        "id": "000000172330_0",
+        "image": "000000172330.jpg",
+        "text": "How many cars can be seen in this image?"
+    },
+    {
+        "id": "000000013379_0",
+        "image": "000000013379.jpg",
+        "text": "What is the person in the image doing?"
+    },
+    {
+        "id": "000000016838_2",
+        "image": "000000016838.jpg",
+        "text": "What is the relative position of the model car to the display board?"
+    },
+    {
+        "id": "000000352652_0",
+        "image": "000000352652.jpg",
+        "text": "Can you describe what's covering the parking meter and partially covering the car?"
+    },
+    {
+        "id": "000000257448_2",
+        "image": "000000257448.jpg",
+        "text": "What object is positioned next to the police car, and can you describe its appearance?"
+    },
+    {
+        "id": "000000497441_2",
+        "image": "000000497441.jpg",
+        "text": "Can you describe the condition and colors of the cars?"
+    },
+    {
+        "id": "000000340778_2",
+        "image": "000000340778.jpg",
+        "text": "Can you tell me what type of vehicle is positioned between the two motorcycles?"
+    },
+    {
+        "id": "000000357944_1",
+        "image": "000000357944.jpg",
+        "text": "What type of vehicle is parked in front of the building and are there any distinctive markings on it?"
+    },
+    {
+        "id": "000000402903_2",
+        "image": "000000402903.jpg",
+        "text": "What is the condition of the car's interior based on what you can see?"
+    },
+    {
+        "id": "000000091909_0",
+        "image": "000000091909.jpg",
+        "text": "Is there a vehicle in the image, and if so, what type is it?"
+    },
+    {
+        "id": "000000039555_0",
+        "image": "000000039555.jpg",
+        "text": "Can you describe the current state of traffic in the image?"
+    },
+    {
+        "id": "000000194184_2",
+        "image": "000000194184.jpg",
+        "text": "Describe the setting in which the vehicles are parked and any challenges this might indicate."
+    },
+    {
+        "id": "000000088021_1",
+        "image": "000000088021.jpg",
+        "text": "Can you describe the car that is closest to the camera?"
+    },
+    {
+        "id": "000000416385_2",
+        "image": "000000416385.jpg",
+        "text": "Could you mention the types of vehicles seen in the foreground and background, as well as their approximate positions in relation to each other?"
+    },
+    {
+        "id": "000000547227_2",
+        "image": "000000547227.jpg",
+        "text": "Are there any vehicles visible in the image, and if so, how many?"
+    },
+    {
+        "id": "000000009941_2",
+        "image": "000000009941.jpg",
+        "text": "How many vehicles can be seen in the image and what is their approximate location?"
+    },
+    {
+        "id": "000000229942_2",
+        "image": "000000229942.jpg",
+        "text": "What are the actions of the people in the cars in relation to the zebras?"
+    },
+    {
+        "id": "000000575243_2",
+        "image": "000000575243.jpg",
+        "text": "Can you describe the setting and any vehicles that might be present?"
+    },
+    {
+        "id": "000000233711_1",
+        "image": "000000233711.jpg",
+        "text": "Can you describe the setting in which the person is hanging from the pole?"
+    },
+    {
+        "id": "000000461751_2",
+        "image": "000000461751.jpg",
+        "text": "Is there anything else notable in the foreground or background?"
+    },
+    {
+        "id": "000000044801_0",
+        "image": "000000044801.jpg",
+        "text": "Can you describe the types of vehicles visible in the image?"
+    },
+    {
+        "id": "000000558528_2",
+        "image": "000000558528.jpg",
+        "text": "Is there a vehicle present in the image, and if so, does it seem to be part of the event?"
+    },
+    {
+        "id": "000000228942_1",
+        "image": "000000228942.jpg",
+        "text": "What other vehicles are visible in a stationary position in the image?"
+    },
+    {
+        "id": "000000385454_1",
+        "image": "000000385454.jpg",
+        "text": "Is there a car visible in the image, and if so, can you tell me its color?"
+    },
+    {
+        "id": "000000482024_2",
+        "image": "000000482024.jpg",
+        "text": "How many vehicles can you count that are waiting at the intersection?"
+    },
+    {
+        "id": "000000473050_0",
+        "image": "000000473050.jpg",
+        "text": "Can you describe the setting of this image?"
+    },
+    {
+        "id": "000000016931_0",
+        "image": "000000016931.jpg",
+        "text": "Are there any cars in the image?"
+    },
+    {
+        "id": "000000400178_1",
+        "image": "000000400178.jpg",
+        "text": "Can you see part of a vehicle in the image?"
+    },
+    {
+        "id": "000000408307_2",
+        "image": "000000408307.jpg",
+        "text": "Is there any object that connects the inside of the car to the ground, and if so, can you describe it?"
+    },
+    {
+        "id": "000000117458_2",
+        "image": "000000117458.jpg",
+        "text": "Can you tell me more about the surroundings in which these vehicles are?"
+    },
+    {
+        "id": "000000357354_1",
+        "image": "000000357354.jpg",
+        "text": "Is there any other vehicle visible next to the elephant, and if so, what is it?"
+    },
+    {
+        "id": "000000315601_0",
+        "image": "000000315601.jpg",
+        "text": "What types of vehicles are visible in the foreground of the image?"
+    },
+    {
+        "id": "000000482024_0",
+        "image": "000000482024.jpg",
+        "text": "Can you tell me what kind of location is depicted in this image?"
+    },
+    {
+        "id": "000000466156_1",
+        "image": "000000466156.jpg",
+        "text": "Can you describe what the animal on the car is doing?"
+    },
+    {
+        "id": "000000388161_1",
+        "image": "000000388161.jpg",
+        "text": "Are there any vehicles visible in the background?"
+    },
+    {
+        "id": "000000503765_0",
+        "image": "000000503765.jpg",
+        "text": "Can you describe the main object in this image?"
+    },
+    {
+        "id": "000000045655_2",
+        "image": "000000045655.jpg",
+        "text": "What does the surrounding environment outside the car indicate about the location?"
+    },
+    {
+        "id": "000000038031_0",
+        "image": "000000038031.jpg",
+        "text": "Can you describe the main subjects and their actions in the image?"
+    },
+    {
+        "id": "000000408364_2",
+        "image": "000000408364.jpg",
+        "text": "Are there any other people visible in the background of the image?"
+    },
+    {
+        "id": "000000075742_0",
+        "image": "000000075742.jpg",
+        "text": "Can you describe the animal under the vehicle?"
+    },
+    {
+        "id": "000000040937_2",
+        "image": "000000040937.jpg",
+        "text": "How is the car oriented in relation to the parking meter in the foreground?"
+    },
+    {
+        "id": "000000490338_1",
+        "image": "000000490338.jpg",
+        "text": "Are there any vehicles visible, and if so, what are they doing?"
+    },
+    {
+        "id": "000000410855_1",
+        "image": "000000410855.jpg",
+        "text": "How would you characterize the traffic situation depicted in the photo?"
+    },
+    {
+        "id": "000000472598_0",
+        "image": "000000472598.jpg",
+        "text": "Can you tell me how many cars are in the image?"
+    },
+    {
+        "id": "000000223288_1",
+        "image": "000000223288.jpg",
+        "text": "What type of vehicle is loaded on the train?"
+    },
+    {
+        "id": "000000564337_2",
+        "image": "000000564337.jpg",
+        "text": "What is visible through the window in the background?"
+    },
+    {
+        "id": "000000347535_1",
+        "image": "000000347535.jpg",
+        "text": "Are there any vehicles in the photo, and if so, how many can you see?"
+    },
+    {
+        "id": "000000304044_1",
+        "image": "000000304044.jpg",
+        "text": "What can be inferred about the motion or activity happening in the scene?"
+    },
+    {
+        "id": "000000117458_1",
+        "image": "000000117458.jpg",
+        "text": "Is there any motion blur present in the photo, and if so, what does it suggest about the vehicles?"
+    },
+    {
+        "id": "000000245481_1",
+        "image": "000000245481.jpg",
+        "text": "Are there any vehicles visible in the image, and if so, where are they located?"
+    },
+    {
+        "id": "000000017178_2",
+        "image": "000000017178.jpg",
+        "text": "Is there a vehicle present in the image, and if so, what is its relative position to the horses?"
+    },
+    {
+        "id": "000000495993_1",
+        "image": "000000495993.jpg",
+        "text": "Can you describe the types of transportation visible in the image?"
+    },
+    {
+        "id": "000000246650_1",
+        "image": "000000246650.jpg",
+        "text": "Are the vehicles stationary or in motion, and what could be the possible reason?"
+    },
+    {
+        "id": "000000314515_1",
+        "image": "000000314515.jpg",
+        "text": "How many bicycles can you count on the roof rack of the car?"
+    },
+    {
+        "id": "000000311510_1",
+        "image": "000000311510.jpg",
+        "text": "What color are the cars in the image?"
+    },
+    {
+        "id": "000000578092_2",
+        "image": "000000578092.jpg",
+        "text": "Are there any vehicles in this image and, if so, where are they located relative to the sign?"
+    },
+    {
+        "id": "000000282130_1",
+        "image": "000000282130.jpg",
+        "text": "Are there other vehicles in the background, and if so, what are they doing?"
+    },
+    {
+        "id": "000000344930_2",
+        "image": "000000344930.jpg",
+        "text": "What kind of setting does the photo depict, urban or natural and are there any other cars visible besides the SUV?"
+    },
+    {
+        "id": "000000086220_0",
+        "image": "000000086220.jpg",
+        "text": "Can you tell me what types of vehicles are visible in this image?"
+    },
+    {
+        "id": "000000503765_1",
+        "image": "000000503765.jpg",
+        "text": "Are there any other vehicles or notable objects near the main object?"
+    },
+    {
+        "id": "000000107087_2",
+        "image": "000000107087.jpg",
+        "text": "Is the vehicle positioned in an outdoor setting or indoor setting?"
+    },
+    {
+        "id": "000000276971_0",
+        "image": "000000276971.jpg",
+        "text": "Can you tell me how many cars are visible in this image?"
+    },
+    {
+        "id": "000000369812_1",
+        "image": "000000369812.jpg",
+        "text": "What types of transportation can be seen on the street?"
+    },
+    {
+        "id": "000000452700_1",
+        "image": "000000452700.jpg",
+        "text": "Can you describe the behavior of traffic at the intersection?"
+    },
+    {
+        "id": "000000105518_2",
+        "image": "000000105518.jpg",
+        "text": "Can you describe the surroundings of the skate park where the skateboarder is performing?"
+    },
+    {
+        "id": "000000120961_0",
+        "image": "000000120961.jpg",
+        "text": "Can you describe the setting of this image and where the main focus lies, inside or outside?"
+    },
+    {
+        "id": "000000151962_2",
+        "image": "000000151962.jpg",
+        "text": "What kind of setting is the car located in, based on the reflection in the mirror and the surroundings?"
+    },
+    {
+        "id": "000000239656_2",
+        "image": "000000239656.jpg",
+        "text": "What is parked on the side of the scene, and does it have any significance to the location?"
+    },
+    {
+        "id": "000000185360_0",
+        "image": "000000185360.jpg",
+        "text": "Can you describe the car's position in relation to the cow in the image?"
+    },
+    {
+        "id": "000000432962_0",
+        "image": "000000432962.jpg",
+        "text": "What type of animal can be seen in the image?"
+    },
+    {
+        "id": "000000201859_1",
+        "image": "000000201859.jpg",
+        "text": "What types of vehicles are visible on the street?"
+    },
+    {
+        "id": "000000432962_1",
+        "image": "000000432962.jpg",
+        "text": "What is the dog doing in the image?"
+    },
+    {
+        "id": "000000298978_0",
+        "image": "000000298978.jpg",
+        "text": "Can you describe where the person is seated in the image?"
+    },
+    {
+        "id": "000000341645_1",
+        "image": "000000341645.jpg",
+        "text": "Are there any other vehicles visible on the residential street?"
+    },
+    {
+        "id": "000000408364_1",
+        "image": "000000408364.jpg",
+        "text": "What type of vehicle is behind the person and does it have any distinctive markings?"
+    },
+    {
+        "id": "000000466156_0",
+        "image": "000000466156.jpg",
+        "text": "What type of vehicle is in the image?"
+    },
+    {
+        "id": "000000046077_2",
+        "image": "000000046077.jpg",
+        "text": "What other types of vehicles or modes of transportation can be seen in the background?"
+    },
+    {
+        "id": "000000432273_0",
+        "image": "000000432273.jpg",
+        "text": "Can you describe the types of vehicles seen in the image?"
+    },
+    {
+        "id": "000000578632_1",
+        "image": "000000578632.jpg",
+        "text": "What color is the car upon which the cat is resting?"
+    },
+    {
+        "id": "000000573105_2",
+        "image": "000000573105.jpg",
+        "text": "Is there any indication of where the car might be located or heading?"
+    },
+    {
+        "id": "000000269394_1",
+        "image": "000000269394.jpg",
+        "text": "Are there any vehicles visible behind the parking meters?"
+    },
+    {
+        "id": "000000414510_1",
+        "image": "000000414510.jpg",
+        "text": "Can you describe the types of vehicles and their colors that are visible in the background?"
+    },
+    {
+        "id": "000000091520_1",
+        "image": "000000091520.jpg",
+        "text": "What activity is happening on the road beside the giraffes? "
+    },
+    {
+        "id": "000000038031_2",
+        "image": "000000038031.jpg",
+        "text": "How many parking spaces are visibly occupied by the car?"
+    },
+    {
+        "id": "000000574706_1",
+        "image": "000000574706.jpg",
+        "text": "What objects can be seen outside the window or glass door behind the cat?"
+    },
+    {
+        "id": "000000265378_2",
+        "image": "000000265378.jpg",
+        "text": "Is there anything notable on top of the white car in the foreground?"
+    },
+    {
+        "id": "000000436653_0",
+        "image": "000000436653.jpg",
+        "text": "What type of setting is depicted in the image?"
+    },
+    {
+        "id": "000000194331_0",
+        "image": "000000194331.jpg",
+        "text": "What types of vehicles can be seen in this image, and how are they positioned on the road?"
+    },
+    {
+        "id": "000000178550_0",
+        "image": "000000178550.jpg",
+        "text": "How many cars are visible in the image?"
+    },
+    {
+        "id": "000000235788_1",
+        "image": "000000235788.jpg",
+        "text": "Can you describe the setting in which the vehicle is located?"
+    },
+    {
+        "id": "000000307511_0",
+        "image": "000000307511.jpg",
+        "text": "Can you describe the vehicle that is most prominently featured in the image?"
+    },
+    {
+        "id": "000000207557_0",
+        "image": "000000207557.jpg",
+        "text": "Can you tell me about the animal sitting in the image?"
+    },
+    {
+        "id": "000000160501_1",
+        "image": "000000160501.jpg",
+        "text": "What objects are positioned behind the group of people and the dog?"
+    },
+    {
+        "id": "000000151962_0",
+        "image": "000000151962.jpg",
+        "text": "Can you describe what is visible in this image's foreground?"
+    },
+    {
+        "id": "000000346071_2",
+        "image": "000000346071.jpg",
+        "text": "Are the windows of the car open or closed?"
+    },
+    {
+        "id": "000000089225_1",
+        "image": "000000089225.jpg",
+        "text": "What is the condition of the weather as suggested by the environment?"
+    },
+    {
+        "id": "000000486521_1",
+        "image": "000000486521.jpg",
+        "text": "Are there any objects or items placed on the car that could be noted?"
+    },
+    {
+        "id": "000000577932_1",
+        "image": "000000577932.jpg",
+        "text": "What type of vehicles can be observed in the background and what are they doing?"
+    },
+    {
+        "id": "000000439623_1",
+        "image": "000000439623.jpg",
+        "text": "What is the color of the vehicle parked in the background?"
+    },
+    {
+        "id": "000000372316_1",
+        "image": "000000372316.jpg",
+        "text": "What are the indications of movement in the image?"
+    },
+    {
+        "id": "000000555597_1",
+        "image": "000000555597.jpg",
+        "text": "Can you describe the vehicles seen in the foreground of the image?"
+    },
+    {
+        "id": "000000082338_1",
+        "image": "000000082338.jpg",
+        "text": "What types of transportation are visible around the cow?"
+    },
+    {
+        "id": "000000307511_1",
+        "image": "000000307511.jpg",
+        "text": "Are there any objects on top of the vehicle?"
+    },
+    {
+        "id": "000000108531_2",
+        "image": "000000108531.jpg",
+        "text": "Are there any other vehicles visible in the reflection of the mirror?"
+    },
+    {
+        "id": "000000252911_1",
+        "image": "000000252911.jpg",
+        "text": "Are there any other vehicles visible in the image aside from the black van and the motorcycle?"
+    },
+    {
+        "id": "000000523360_2",
+        "image": "000000523360.jpg",
+        "text": "What is depicted on the sign above the car?"
+    },
+    {
+        "id": "000000573105_0",
+        "image": "000000573105.jpg",
+        "text": "Can you describe the car in the image?"
+    },
+    {
+        "id": "000000424641_1",
+        "image": "000000424641.jpg",
+        "text": "Aside from the cyclists, what types of transportation are present in this scene?"
+    },
+    {
+        "id": "000000185327_2",
+        "image": "000000185327.jpg",
+        "text": "Is there any vehicle visible in the image that is closest to the camera?"
+    },
+    {
+        "id": "000000526392_1",
+        "image": "000000526392.jpg",
+        "text": "What color is the car in the foreground?"
+    },
+    {
+        "id": "000000390684_2",
+        "image": "000000390684.jpg",
+        "text": "How many vehicles can be seen waiting at the traffic stop?"
+    },
+    {
+        "id": "000000178578_0",
+        "image": "000000178578.jpg",
+        "text": "Can you describe the setting of this image?"
+    },
+    {
+        "id": "000000565699_2",
+        "image": "000000565699.jpg",
+        "text": "Are there any indications of the time period or era from which this image might come based on the design of the vehicles or the architecture? "
+    },
+    {
+        "id": "000000278237_0",
+        "image": "000000278237.jpg",
+        "text": "Can you tell me how many vehicles are visible in this image?"
+    },
+    {
+        "id": "000000185360_2",
+        "image": "000000185360.jpg",
+        "text": "Are there any noticeable items inside the car through the windows?"
+    },
+    {
+        "id": "000000387150_1",
+        "image": "000000387150.jpg",
+        "text": "What is the color of the car closest to the parking meter?"
+    },
+    {
+        "id": "000000461751_1",
+        "image": "000000461751.jpg",
+        "text": "Are there any other vehicles visible in the image besides the motorcycle?"
+    },
+    {
+        "id": "000000093034_2",
+        "image": "000000093034.jpg",
+        "text": "Can you describe the setting where the person and the dogs are located?"
+    },
+    {
+        "id": "000000472598_2",
+        "image": "000000472598.jpg",
+        "text": "Where is the second car located relative to the first one?"
+    },
+    {
+        "id": "000000402903_0",
+        "image": "000000402903.jpg",
+        "text": "Can you describe the main focus within this image?"
+    },
+    {
+        "id": "000000091909_1",
+        "image": "000000091909.jpg",
+        "text": "Can you tell me the position of the police car relative to the traffic lights?"
+    },
+    {
+        "id": "000000257448_0",
+        "image": "000000257448.jpg",
+        "text": "Is there a vehicle in the image, and if so, can you identify its type?"
+    },
+    {
+        "id": "000000178550_1",
+        "image": "000000178550.jpg",
+        "text": "What is the color of the car in the foreground?"
+    },
+    {
+        "id": "000000544002_0",
+        "image": "000000544002.jpg",
+        "text": "Is there a car in the image?"
+    },
+    {
+        "id": "000000428769_1",
+        "image": "000000428769.jpg",
+        "text": "What is unique about the license plate of the car?"
+    },
+    {
+        "id": "000000302200_1",
+        "image": "000000302200.jpg",
+        "text": "How many cars can be seen in the image, and where are they located in relation to the parking meter?"
+    },
+    {
+        "id": "000000559270_2",
+        "image": "000000559270.jpg",
+        "text": "How many people can be seen inside the car?"
+    },
+    {
+        "id": "000000026730_2",
+        "image": "000000026730.jpg",
+        "text": "Where is the motorcycle with the sidecar parked in relation to other objects or vehicles?"
+    },
+    {
+        "id": "000000307511_2",
+        "image": "000000307511.jpg",
+        "text": "How many other vehicles can be partially seen in this image?"
+    },
+    {
+        "id": "000000311510_0",
+        "image": "000000311510.jpg",
+        "text": "Can you tell me how many cars are visible in the image?"
+    },
+    {
+        "id": "000000523360_1",
+        "image": "000000523360.jpg",
+        "text": "Can you describe what the car is equipped with on the top?"
+    },
+    {
+        "id": "000000537506_2",
+        "image": "000000537506.jpg",
+        "text": "What is happening in the midground of the image, particularly in relation to the black car?"
+    },
+    {
+        "id": "000000339852_1",
+        "image": "000000339852.jpg",
+        "text": "What is the dog doing in the image?"
+    },
+    {
+        "id": "000000323919_2",
+        "image": "000000323919.jpg",
+        "text": "Is there anything notable about the condition of the car's surface?"
+    },
+    {
+        "id": "000000172330_1",
+        "image": "000000172330.jpg",
+        "text": "What color are the cars in the photo?"
+    },
+    {
+        "id": "000000519784_0",
+        "image": "000000519784.jpg",
+        "text": "Can you describe the types of vehicles visible in this image and approximate how many there are?"
+    },
+    {
+        "id": "000000225014_2",
+        "image": "000000225014.jpg",
+        "text": "Are there any visible numbers on the car, and if so, what are they?"
+    },
+    {
+        "id": "000000472598_1",
+        "image": "000000472598.jpg",
+        "text": "What is the color of the car in the foreground?"
+    },
+    {
+        "id": "000000089225_2",
+        "image": "000000089225.jpg",
+        "text": "How are the cars arranged in relation to the signage?"
+    },
+    {
+        "id": "000000335473_1",
+        "image": "000000335473.jpg",
+        "text": "Where are these devices located?"
+    },
+    {
+        "id": "000000578632_0",
+        "image": "000000578632.jpg",
+        "text": "Can you describe the position of the cat in the image?"
+    },
+    {
+        "id": "000000402903_1",
+        "image": "000000402903.jpg",
+        "text": "What details can you observe inside the vehicle?"
+    },
+    {
+        "id": "000000105349_1",
+        "image": "000000105349.jpg",
+        "text": "Can you describe the relative position of the person in comparison to the car?"
+    },
+    {
+        "id": "000000510782_0",
+        "image": "000000510782.jpg",
+        "text": "Can you describe what objects are loaded in the car?"
+    },
+    {
+        "id": "000000578703_1",
+        "image": "000000578703.jpg",
+        "text": "Can you describe the setting where the geese are found?"
+    },
+    {
+        "id": "000000121997_0",
+        "image": "000000121997.jpg",
+        "text": "Can you describe the vehicle in the foreground of the image?"
+    },
+    {
+        "id": "000000486521_2",
+        "image": "000000486521.jpg",
+        "text": "Within the engine compartment, aside from the red air filter, are there any other parts that stand out visually due to their color or size?"
+    },
+    {
+        "id": "000000201670_1",
+        "image": "000000201670.jpg",
+        "text": "What are the indications that the vehicles in the image might be stopped or waiting?"
+    }
+]

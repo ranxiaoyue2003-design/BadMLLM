@@ -1,0 +1,1502 @@
+[
+    {
+        "id": "000000463189_1",
+        "image": "000000463189.jpg",
+        "text": "What other food items can be seen in the image apart from the half-eaten item?"
+    },
+    {
+        "id": "000000160000_0",
+        "image": "000000160000.jpg",
+        "text": "Can you describe the items on the plate?"
+    },
+    {
+        "id": "000000434966_0",
+        "image": "000000434966.jpg",
+        "text": "Can you describe the food item that is prominent in this image?"
+    },
+    {
+        "id": "000000072717_2",
+        "image": "000000072717.jpg",
+        "text": "Based on the presentation, where might this meal be typically enjoyed?"
+    },
+    {
+        "id": "000000160757_1",
+        "image": "000000160757.jpg",
+        "text": "What might someone be preparing to make with these ingredients?"
+    },
+    {
+        "id": "000000186247_1",
+        "image": "000000186247.jpg",
+        "text": "Can you describe the contents of the sandwich in more detail?"
+    },
+    {
+        "id": "000000259297_2",
+        "image": "000000259297.jpg",
+        "text": "What other details can be observed on the labels attached to the sandwich packaging?"
+    },
+    {
+        "id": "000000329141_0",
+        "image": "000000329141.jpg",
+        "text": "Can you describe the different food items present in this image?"
+    },
+    {
+        "id": "000000347216_1",
+        "image": "000000347216.jpg",
+        "text": "Can you describe the sandwich filling as visible in the image?"
+    },
+    {
+        "id": "000000058184_0",
+        "image": "000000058184.jpg",
+        "text": "What type of meal is presented on the plates in the image?"
+    },
+    {
+        "id": "000000140347_2",
+        "image": "000000140347.jpg",
+        "text": "Reflecting on the presentation, what might this suggest about the meal's halfway point?"
+    },
+    {
+        "id": "000000568963_0",
+        "image": "000000568963.jpg",
+        "text": "Can you tell what food items are on the plate?"
+    },
+    {
+        "id": "000000181734_0",
+        "image": "000000181734.jpg",
+        "text": "What food items can be identified on the plate?"
+    },
+    {
+        "id": "000000200775_2",
+        "image": "000000200775.jpg",
+        "text": "What details can you provide about the item the person is holding?"
+    },
+    {
+        "id": "000000191218_2",
+        "image": "000000191218.jpg",
+        "text": "From the visible ingredients, what type of sandwich might this be considered as, and is it a common food item in any particular region or cuisine?"
+    },
+    {
+        "id": "000000305231_0",
+        "image": "000000305231.jpg",
+        "text": "Can you describe the types of dishes that are shown on the table in the image?"
+    },
+    {
+        "id": "000000099965_1",
+        "image": "000000099965.jpg",
+        "text": "What kind of bread is the sandwich made with?"
+    },
+    {
+        "id": "000000279957_0",
+        "image": "000000279957.jpg",
+        "text": "What type of food items can be seen on the plate in the image?"
+    },
+    {
+        "id": "000000181734_2",
+        "image": "000000181734.jpg",
+        "text": "What else is visible on the table besides the plate?"
+    },
+    {
+        "id": "000000491117_2",
+        "image": "000000491117.jpg",
+        "text": "What details can you provide about the wrapping the food items are presented on?"
+    },
+    {
+        "id": "000000051763_0",
+        "image": "000000051763.jpg",
+        "text": "Can you describe the contents on the tray in the image?"
+    },
+    {
+        "id": "000000416286_0",
+        "image": "000000416286.jpg",
+        "text": "What types of food are visible in the image?"
+    },
+    {
+        "id": "000000484013_1",
+        "image": "000000484013.jpg",
+        "text": "Can you describe the item on the plate in more detail?"
+    },
+    {
+        "id": "000000369331_1",
+        "image": "000000369331.jpg",
+        "text": "What dinnerware items can be seen on the table in addition to the plate with the food?"
+    },
+    {
+        "id": "000000206048_2",
+        "image": "000000206048.jpg",
+        "text": "What type of surface is the sandwich resting on in the image?"
+    },
+    {
+        "id": "000000283479_0",
+        "image": "000000283479.jpg",
+        "text": "Can you tell me what items are laid out on the table?"
+    },
+    {
+        "id": "000000579303_1",
+        "image": "000000579303.jpg",
+        "text": "Can you describe the setting where these sandwiches are placed?"
+    },
+    {
+        "id": "000000376982_0",
+        "image": "000000376982.jpg",
+        "text": "What types of food items can you identify on the plate in the image?"
+    },
+    {
+        "id": "000000079277_1",
+        "image": "000000079277.jpg",
+        "text": "What types of food items can be seen on the table in front of the person?"
+    },
+    {
+        "id": "000000206751_0",
+        "image": "000000206751.jpg",
+        "text": "What type of meal is the person holding?"
+    },
+    {
+        "id": "000000269089_1",
+        "image": "000000269089.jpg",
+        "text": "What type of garnish is used on the plate with the sandwich?"
+    },
+    {
+        "id": "000000412680_2",
+        "image": "000000412680.jpg",
+        "text": "Is there anything else noticeable on the table or in the background?"
+    },
+    {
+        "id": "000000563659_0",
+        "image": "000000563659.jpg",
+        "text": "Can you describe the main food item at the forefront of the image?"
+    },
+    {
+        "id": "000000490264_1",
+        "image": "000000490264.jpg",
+        "text": "Can you describe the item in the background that is in focus?"
+    },
+    {
+        "id": "000000369370_1",
+        "image": "000000369370.jpg",
+        "text": "Besides the main dish, what else is garnishing that plate?"
+    },
+    {
+        "id": "000000403593_0",
+        "image": "000000403593.jpg",
+        "text": "What type of food is displayed predominantly in the image?"
+    },
+    {
+        "id": "000000505418_2",
+        "image": "000000505418.jpg",
+        "text": "What is the condition of the sandwich, and what might that suggest about its preparation?"
+    },
+    {
+        "id": "000000225704_2",
+        "image": "000000225704.jpg",
+        "text": "Can you describe the condition of the sandwich, specifically if it looks freshly made or not?"
+    },
+    {
+        "id": "000000097976_0",
+        "image": "000000097976.jpg",
+        "text": "Can you describe the items on the white plate?"
+    },
+    {
+        "id": "000000412680_0",
+        "image": "000000412680.jpg",
+        "text": "Can you describe the type of plate and its contents shown in the image?"
+    },
+    {
+        "id": "000000573632_1",
+        "image": "000000573632.jpg",
+        "text": "What type of meal does this appear to be, and can you describe the setting?"
+    },
+    {
+        "id": "000000414479_2",
+        "image": "000000414479.jpg",
+        "text": "Can you describe the item that the spaghetti sandwich is placed on?"
+    },
+    {
+        "id": "000000040130_1",
+        "image": "000000040130.jpg",
+        "text": "Aside from the main item, what else is contained within the basket?"
+    },
+    {
+        "id": "000000563985_1",
+        "image": "000000563985.jpg",
+        "text": "Are there any side items served with the main dish, and if so, what are they?"
+    },
+    {
+        "id": "000000561357_0",
+        "image": "000000561357.jpg",
+        "text": "Can you describe the main food items visible on the plate?"
+    },
+    {
+        "id": "000000447861_1",
+        "image": "000000447861.jpg",
+        "text": "What other items can be seen on the plate besides the sandwich?"
+    },
+    {
+        "id": "000000110493_1",
+        "image": "000000110493.jpg",
+        "text": "What kind of garnish is used on the open-faced sandwich?"
+    },
+    {
+        "id": "000000066034_0",
+        "image": "000000066034.jpg",
+        "text": "Can you describe the main components visible in the two food items shown in the image?"
+    },
+    {
+        "id": "000000573632_2",
+        "image": "000000573632.jpg",
+        "text": "Could you comment on the condition of the food presented?"
+    },
+    {
+        "id": "000000388279_0",
+        "image": "000000388279.jpg",
+        "text": "Can you describe the type of plate and its contents that the person is holding?"
+    },
+    {
+        "id": "000000259297_1",
+        "image": "000000259297.jpg",
+        "text": "Can you describe the packaging style of the sandwiches?"
+    },
+    {
+        "id": "000000354527_1",
+        "image": "000000354527.jpg",
+        "text": "Can you describe the setting where the plate is located?"
+    },
+    {
+        "id": "000000417608_0",
+        "image": "000000417608.jpg",
+        "text": "What kind of meal is shown in the image?"
+    },
+    {
+        "id": "000000110493_0",
+        "image": "000000110493.jpg",
+        "text": "What type of food items are displayed in the image?"
+    },
+    {
+        "id": "000000153956_0",
+        "image": "000000153956.jpg",
+        "text": "Can you describe the different types of meals visible on the table?"
+    },
+    {
+        "id": "000000135029_2",
+        "image": "000000135029.jpg",
+        "text": "What kind of food items accompany the beverages on the table?"
+    },
+    {
+        "id": "000000074549_1",
+        "image": "000000074549.jpg",
+        "text": "What accompaniment is visible on the plate with the sandwich?"
+    },
+    {
+        "id": "000000224557_1",
+        "image": "000000224557.jpg",
+        "text": "What type of beverage is accompanying the sandwich, and can you comment on its branding?"
+    },
+    {
+        "id": "000000087593_1",
+        "image": "000000087593.jpg",
+        "text": "Can you describe the utensil that's next to the sandwich?"
+    },
+    {
+        "id": "000000111705_0",
+        "image": "000000111705.jpg",
+        "text": "Can you describe the action taking place in the foreground of the image?"
+    },
+    {
+        "id": "000000323278_0",
+        "image": "000000323278.jpg",
+        "text": "Can you describe the different types of food items present on the plate?"
+    },
+    {
+        "id": "000000521887_2",
+        "image": "000000521887.jpg",
+        "text": "Are there any other condiments or additional items visible in the image that are commonly paired with this type of meal?"
+    },
+    {
+        "id": "000000186268_0",
+        "image": "000000186268.jpg",
+        "text": "Can you tell me what types of vegetables are visible in the item on the green plate?"
+    },
+    {
+        "id": "000000005587_0",
+        "image": "000000005587.jpg",
+        "text": "What type of food items are displayed in the foreground of this image?"
+    },
+    {
+        "id": "000000133634_1",
+        "image": "000000133634.jpg",
+        "text": "What food item is being served on the plate closest to the adult?"
+    },
+    {
+        "id": "000000299039_0",
+        "image": "000000299039.jpg",
+        "text": "What is the main dish featured on the plate in the image?"
+    },
+    {
+        "id": "000000396387_0",
+        "image": "000000396387.jpg",
+        "text": "Can you describe the food item on the plate in the foreground of the image?"
+    },
+    {
+        "id": "000000217779_2",
+        "image": "000000217779.jpg",
+        "text": "Aside from the plate of sandwiches, what other item can be seen in the image?"
+    },
+    {
+        "id": "000000392703_2",
+        "image": "000000392703.jpg",
+        "text": "What details can you provide about the setting in which the sandwich is placed?"
+    },
+    {
+        "id": "000000429408_1",
+        "image": "000000429408.jpg",
+        "text": "Are there other food items visible on the table apart from the sandwich?"
+    },
+    {
+        "id": "000000226076_1",
+        "image": "000000226076.jpg",
+        "text": "What kind of bowl is the soup served in, in comparison to the sandwich?"
+    },
+    {
+        "id": "000000251121_0",
+        "image": "000000251121.jpg",
+        "text": "Can you describe the main dish on the plate in the center of the image?"
+    },
+    {
+        "id": "000000434753_1",
+        "image": "000000434753.jpg",
+        "text": "Can you describe the layers visible in the sandwich?"
+    },
+    {
+        "id": "000000417668_1",
+        "image": "000000417668.jpg",
+        "text": "What side items appear alongside the sandwich on the plate?"
+    },
+    {
+        "id": "000000213156_2",
+        "image": "000000213156.jpg",
+        "text": "Looking at the quality of the image, is there anything you notice about how it was taken?"
+    },
+    {
+        "id": "000000142946_2",
+        "image": "000000142946.jpg",
+        "text": "What might be the occasion or setting for this meal based on its presentation?"
+    },
+    {
+        "id": "000000284768_1",
+        "image": "000000284768.jpg",
+        "text": "Aside from the main dish, what other items are seen on the table?"
+    },
+    {
+        "id": "000000396636_1",
+        "image": "000000396636.jpg",
+        "text": "What types of objects can be seen on the table in front of the individual?"
+    },
+    {
+        "id": "000000379285_2",
+        "image": "000000379285.jpg",
+        "text": "What else is noticeable about how the food is presented?"
+    },
+    {
+        "id": "000000431481_1",
+        "image": "000000431481.jpg",
+        "text": "Can you describe the items placed on the English muffins?"
+    },
+    {
+        "id": "000000513727_1",
+        "image": "000000513727.jpg",
+        "text": "What eating utensil is visible in the image, and where is it located?"
+    },
+    {
+        "id": "000000349007_0",
+        "image": "000000349007.jpg",
+        "text": "Can you describe the main dish featured in this image?"
+    },
+    {
+        "id": "000000114178_1",
+        "image": "000000114178.jpg",
+        "text": "Can you describe what else is on the plate besides the food item?"
+    },
+    {
+        "id": "000000299039_1",
+        "image": "000000299039.jpg",
+        "text": "Can you describe any garnish or side items accompanying the main dish on the same plate?"
+    },
+    {
+        "id": "000000027901_1",
+        "image": "000000027901.jpg",
+        "text": "What appears to be the item wrapped in foil next to the salad?"
+    },
+    {
+        "id": "000000347216_0",
+        "image": "000000347216.jpg",
+        "text": "What type of meal is shown on the plate in the image?"
+    },
+    {
+        "id": "000000453154_0",
+        "image": "000000453154.jpg",
+        "text": "Can you describe the main item on the plate?"
+    },
+    {
+        "id": "000000009723_0",
+        "image": "000000009723.jpg",
+        "text": "Can you describe the arrangement of food items on the plate?"
+    },
+    {
+        "id": "000000140347_0",
+        "image": "000000140347.jpg",
+        "text": "Can you describe the items that appear to have been partially consumed on the plate?"
+    },
+    {
+        "id": "000000468055_0",
+        "image": "000000468055.jpg",
+        "text": "What ingredients are visible in the sandwich?"
+    },
+    {
+        "id": "000000185577_2",
+        "image": "000000185577.jpg",
+        "text": "Besides the main item, what other objects can be seen in the background?"
+    },
+    {
+        "id": "000000237834_0",
+        "image": "000000237834.jpg",
+        "text": "What type of meal is shown in the image?"
+    },
+    {
+        "id": "000000550308_2",
+        "image": "000000550308.jpg",
+        "text": "How many different food items are visible on the plate?"
+    },
+    {
+        "id": "000000398948_2",
+        "image": "000000398948.jpg",
+        "text": "What is the item that binds the bread together in the image, and is it commonly used for this purpose?"
+    },
+    {
+        "id": "000000187537_0",
+        "image": "000000187537.jpg",
+        "text": "Can you describe what type of food is shown in the forefront of the image?"
+    },
+    {
+        "id": "000000213652_1",
+        "image": "000000213652.jpg",
+        "text": "What ingredients can you identify in the food item that's been cut in half?"
+    },
+    {
+        "id": "000000312282_1",
+        "image": "000000312282.jpg",
+        "text": "What specific ingredients can be identified in the main dish featured in the image?"
+    },
+    {
+        "id": "000000323278_1",
+        "image": "000000323278.jpg",
+        "text": "How is the sandwich in the image presented?"
+    },
+    {
+        "id": "000000248912_1",
+        "image": "000000248912.jpg",
+        "text": "What type of bread appears to be used for the sandwich in the image?"
+    },
+    {
+        "id": "000000571738_0",
+        "image": "000000571738.jpg",
+        "text": "What types of food items are visible on the plate in the image?"
+    },
+    {
+        "id": "000000058796_0",
+        "image": "000000058796.jpg",
+        "text": "Can you describe the different types of food items shown in this image?"
+    },
+    {
+        "id": "000000225704_0",
+        "image": "000000225704.jpg",
+        "text": "What items can be seen inside the container in the image?"
+    },
+    {
+        "id": "000000290062_1",
+        "image": "000000290062.jpg",
+        "text": "What ingredients can you identify in the sandwich the person is holding?"
+    },
+    {
+        "id": "000000329351_1",
+        "image": "000000329351.jpg",
+        "text": "What items can be observed inside the open box?"
+    },
+    {
+        "id": "000000361739_2",
+        "image": "000000361739.jpg",
+        "text": "What is the setting or context in which these sandwiches are placed, based on what can be seen around the plate?"
+    },
+    {
+        "id": "000000099965_0",
+        "image": "000000099965.jpg",
+        "text": "Can you describe the contents that are visible on the plate?"
+    },
+    {
+        "id": "000000512769_0",
+        "image": "000000512769.jpg",
+        "text": "Can you describe what's on the plate in the foreground of the image?"
+    },
+    {
+        "id": "000000419723_1",
+        "image": "000000419723.jpg",
+        "text": "How is the sandwich in the image presented in terms of its preparation or ingredients?"
+    },
+    {
+        "id": "000000110493_2",
+        "image": "000000110493.jpg",
+        "text": "Can you describe the dish in the small cup next to the sandwich?"
+    },
+    {
+        "id": "000000228419_0",
+        "image": "000000228419.jpg",
+        "text": "Can you describe the item that is between the two round objects in the image?"
+    },
+    {
+        "id": "000000037688_1",
+        "image": "000000037688.jpg",
+        "text": "Can you describe the item on the plate located in the lower part of the image?"
+    },
+    {
+        "id": "000000532988_2",
+        "image": "000000532988.jpg",
+        "text": "What type of meal does the image suggest, and is it commonly associated with any specific cuisine or mealtime?"
+    },
+    {
+        "id": "000000417668_2",
+        "image": "000000417668.jpg",
+        "text": "What type of sauce is provided for dipping, and what might it be commonly known as?"
+    },
+    {
+        "id": "000000302740_0",
+        "image": "000000302740.jpg",
+        "text": "What kind of food item is the person holding in the image?"
+    },
+    {
+        "id": "000000349007_2",
+        "image": "000000349007.jpg",
+        "text": "Aside from the dish, what other items are visible on the table?"
+    },
+    {
+        "id": "000000561517_1",
+        "image": "000000561517.jpg",
+        "text": "Can you describe the sandwich's content based on what you see?"
+    },
+    {
+        "id": "000000251119_0",
+        "image": "000000251119.jpg",
+        "text": "What type of meal is shown in the image and what are the main components?"
+    },
+    {
+        "id": "000000302740_2",
+        "image": "000000302740.jpg",
+        "text": "Apart from eating, what else indicates the person is having a meal?"
+    },
+    {
+        "id": "000000414479_1",
+        "image": "000000414479.jpg",
+        "text": "What is unique about the way the spaghetti is being served in this image?"
+    },
+    {
+        "id": "000000104426_2",
+        "image": "000000104426.jpg",
+        "text": "What is the texture of the item underneath the bun and what does it indicate about the preparation method?"
+    },
+    {
+        "id": "000000066034_2",
+        "image": "000000066034.jpg",
+        "text": "From what you can see, how does the bread used in these sandwiches differ from a typical sandwich loaf?"
+    },
+    {
+        "id": "000000099965_2",
+        "image": "000000099965.jpg",
+        "text": "Are there any other objects visible around or on the plate besides the food items?"
+    },
+    {
+        "id": "000000074549_0",
+        "image": "000000074549.jpg",
+        "text": "Can you describe the main dish shown in the image?"
+    },
+    {
+        "id": "000000556744_0",
+        "image": "000000556744.jpg",
+        "text": "What kind of food item is placed at the center of the table in the image?"
+    },
+    {
+        "id": "000000312826_1",
+        "image": "000000312826.jpg",
+        "text": "Can you describe the sandwich that's displayed on the plate?"
+    },
+    {
+        "id": "000000323734_2",
+        "image": "000000323734.jpg",
+        "text": "Can you describe any condiments or additional items that come with the meal?"
+    },
+    {
+        "id": "000000321071_1",
+        "image": "000000321071.jpg",
+        "text": "Can you describe any specific ingredients that you can distinguish in the sandwich?"
+    },
+    {
+        "id": "000000191218_1",
+        "image": "000000191218.jpg",
+        "text": "What kind of setting is the sandwich being held in, and are there any other objects in the background?"
+    },
+    {
+        "id": "000000336762_1",
+        "image": "000000336762.jpg",
+        "text": "Can you describe what type of food item is partially unwrapped on the desk?"
+    },
+    {
+        "id": "000000376144_0",
+        "image": "000000376144.jpg",
+        "text": "What type of main dish is presented in the center of this tray?"
+    },
+    {
+        "id": "000000110886_1",
+        "image": "000000110886.jpg",
+        "text": "What else is noticeable through the transparent door besides the sandwich?"
+    },
+    {
+        "id": "000000154359_1",
+        "image": "000000154359.jpg",
+        "text": "Can you describe the packaging the food item is in?"
+    },
+    {
+        "id": "000000476881_0",
+        "image": "000000476881.jpg",
+        "text": "Can you describe the main food item visible in the foreground of the image?"
+    },
+    {
+        "id": "000000489810_2",
+        "image": "000000489810.jpg",
+        "text": "What is the surface on which the sandwich and the drink are placed?"
+    },
+    {
+        "id": "000000147443_0",
+        "image": "000000147443.jpg",
+        "text": "Can you describe what someone is holding in their hands in the image?"
+    },
+    {
+        "id": "000000056288_1",
+        "image": "000000056288.jpg",
+        "text": "What objects are accompanying the meal on the plate?"
+    },
+    {
+        "id": "000000237859_0",
+        "image": "000000237859.jpg",
+        "text": "Can you describe the type of food item being held in the image?"
+    },
+    {
+        "id": "000000531092_0",
+        "image": "000000531092.jpg",
+        "text": "Can you describe the main item on the plate?"
+    },
+    {
+        "id": "000000369331_0",
+        "image": "000000369331.jpg",
+        "text": "Can you describe the types of food items present on the plate?"
+    },
+    {
+        "id": "000000400869_0",
+        "image": "000000400869.jpg",
+        "text": "Can you describe the unique feature of the item presented in the front of this image?"
+    },
+    {
+        "id": "000000563985_0",
+        "image": "000000563985.jpg",
+        "text": "Can you describe the main dish presented on the plate in this image?"
+    },
+    {
+        "id": "000000269738_0",
+        "image": "000000269738.jpg",
+        "text": "Can you describe the types of food items displayed in the container?"
+    },
+    {
+        "id": "000000013856_2",
+        "image": "000000013856.jpg",
+        "text": "What type of food item can be seen in the foreground on the table?"
+    },
+    {
+        "id": "000000513727_0",
+        "image": "000000513727.jpg",
+        "text": "Can you describe the main food item seen in the image and how it is presented?"
+    },
+    {
+        "id": "000000097976_2",
+        "image": "000000097976.jpg",
+        "text": "Are there any condiments or additional seasonings present in the image?"
+    },
+    {
+        "id": "000000434966_2",
+        "image": "000000434966.jpg",
+        "text": "What does the paper under the sandwich suggest about the location where this photo was taken?"
+    },
+    {
+        "id": "000000220111_1",
+        "image": "000000220111.jpg",
+        "text": "Can you describe the sandwich in more detail?"
+    },
+    {
+        "id": "000000358411_0",
+        "image": "000000358411.jpg",
+        "text": "What type of meal is presented in the foreground of the image?"
+    },
+    {
+        "id": "000000040130_0",
+        "image": "000000040130.jpg",
+        "text": "Can you describe the main item in the basket and its ingredients as visible in the image?"
+    },
+    {
+        "id": "000000258517_0",
+        "image": "000000258517.jpg",
+        "text": "Can you describe the types of food items visible on the tray in the image?"
+    },
+    {
+        "id": "000000374072_1",
+        "image": "000000374072.jpg",
+        "text": "What kind of sandwich is the person holding, and can you describe its visible contents?"
+    },
+    {
+        "id": "000000561517_0",
+        "image": "000000561517.jpg",
+        "text": "What type of meal is depicted in the image?"
+    },
+    {
+        "id": "000000287716_1",
+        "image": "000000287716.jpg",
+        "text": "Can you describe what the sandwich looks like?"
+    },
+    {
+        "id": "000000543164_0",
+        "image": "000000543164.jpg",
+        "text": "Can you describe the variety of food items presented on the plate in the image?"
+    },
+    {
+        "id": "000000033341_0",
+        "image": "000000033341.jpg",
+        "text": "Can you describe the main food items present on the plate?"
+    },
+    {
+        "id": "000000419723_0",
+        "image": "000000419723.jpg",
+        "text": "Can you describe the main components of the meal featured in the image?"
+    },
+    {
+        "id": "000000329527_1",
+        "image": "000000329527.jpg",
+        "text": "What is the woman holding in her hands?"
+    },
+    {
+        "id": "000000110886_2",
+        "image": "000000110886.jpg",
+        "text": "What details can you provide about the packaging of the sandwich?"
+    },
+    {
+        "id": "000000010046_0",
+        "image": "000000010046.jpg",
+        "text": "How many food items can you see in the image, and what do they appear to be?"
+    },
+    {
+        "id": "000000512302_2",
+        "image": "000000512302.jpg",
+        "text": "What is the texture of the visible bread surrounding the fillings?"
+    },
+    {
+        "id": "000000014014_2",
+        "image": "000000014014.jpg",
+        "text": "What can you infer about the setting where this meal is served?"
+    },
+    {
+        "id": "000000044682_1",
+        "image": "000000044682.jpg",
+        "text": "What ingredients can be seen in the open-faced item on the cutting board?"
+    },
+    {
+        "id": "000000463696_0",
+        "image": "000000463696.jpg",
+        "text": "Can you describe what is on the plate in the image?"
+    },
+    {
+        "id": "000000157158_0",
+        "image": "000000157158.jpg",
+        "text": "What kind of meal is shown on the plate in the foreground of the image?"
+    },
+    {
+        "id": "000000493066_0",
+        "image": "000000493066.jpg",
+        "text": "Can you describe the types of food visible on the plate in the foreground?"
+    },
+    {
+        "id": "000000067099_1",
+        "image": "000000067099.jpg",
+        "text": "What is the person in the photo holding?"
+    },
+    {
+        "id": "000000550235_1",
+        "image": "000000550235.jpg",
+        "text": "What activity is the child engaged in?"
+    },
+    {
+        "id": "000000439573_0",
+        "image": "000000439573.jpg",
+        "text": "Can you describe the main components that make up the item in the foreground?"
+    },
+    {
+        "id": "000000542138_0",
+        "image": "000000542138.jpg",
+        "text": "What type of meal is featured in this image and what are its components?"
+    },
+    {
+        "id": "000000323734_1",
+        "image": "000000323734.jpg",
+        "text": "Alongside the main dish, what other food item is on the plate?"
+    },
+    {
+        "id": "000000138549_0",
+        "image": "000000138549.jpg",
+        "text": "Can you describe the food items visible on the table in the image?"
+    },
+    {
+        "id": "000000487870_0",
+        "image": "000000487870.jpg",
+        "text": "What is the person in the image holding in her right hand?"
+    },
+    {
+        "id": "000000162285_1",
+        "image": "000000162285.jpg",
+        "text": "What is the other food item served alongside the sandwich?"
+    },
+    {
+        "id": "000000324513_1",
+        "image": "000000324513.jpg",
+        "text": "What is the man doing in the photo?"
+    },
+    {
+        "id": "000000439573_2",
+        "image": "000000439573.jpg",
+        "text": "Is there an indication of any drinks or side dishes accompanying the sandwich?"
+    },
+    {
+        "id": "000000516625_0",
+        "image": "000000516625.jpg",
+        "text": "Can you describe what's on the plate in the foreground of the image?"
+    },
+    {
+        "id": "000000420146_1",
+        "image": "000000420146.jpg",
+        "text": "What is the person presenting in front of them, and can you describe its composition?"
+    },
+    {
+        "id": "000000279957_1",
+        "image": "000000279957.jpg",
+        "text": "What are the characteristics of the sauce served with the meal?"
+    },
+    {
+        "id": "000000176138_0",
+        "image": "000000176138.jpg",
+        "text": "Can you describe the food items visible in the foreground of the image?"
+    },
+    {
+        "id": "000000224557_0",
+        "image": "000000224557.jpg",
+        "text": "Can you describe the main item on the plate in the image?"
+    },
+    {
+        "id": "000000561517_2",
+        "image": "000000561517.jpg",
+        "text": "Apart from the food, what other item is visible on the plate?"
+    },
+    {
+        "id": "000000049974_0",
+        "image": "000000049974.jpg",
+        "text": "Can you describe the items that are set upon the table?"
+    },
+    {
+        "id": "000000512509_0",
+        "image": "000000512509.jpg",
+        "text": "What is the person in the image doing?"
+    },
+    {
+        "id": "000000531092_1",
+        "image": "000000531092.jpg",
+        "text": "What side items accompany the sandwich on the plate?"
+    },
+    {
+        "id": "000000310545_2",
+        "image": "000000310545.jpg",
+        "text": "What other objects can be seen on the table besides the plate?"
+    },
+    {
+        "id": "000000417608_2",
+        "image": "000000417608.jpg",
+        "text": "What specific ingredients can be identified in the sandwich filling?"
+    },
+    {
+        "id": "000000109114_0",
+        "image": "000000109114.jpg",
+        "text": "What type of food item is presented in the center of the image?"
+    },
+    {
+        "id": "000000500679_0",
+        "image": "000000500679.jpg",
+        "text": "Can you describe the food items visible in the image?"
+    },
+    {
+        "id": "000000446694_0",
+        "image": "000000446694.jpg",
+        "text": "Can you describe the items on the tray in the image?"
+    },
+    {
+        "id": "000000290201_2",
+        "image": "000000290201.jpg",
+        "text": "What is the person doing in the image?"
+    },
+    {
+        "id": "000000276004_0",
+        "image": "000000276004.jpg",
+        "text": "Can you describe the items on the plate in the image?"
+    },
+    {
+        "id": "000000140347_1",
+        "image": "000000140347.jpg",
+        "text": "What utensils are visible on the plate, and how are they positioned?"
+    },
+    {
+        "id": "000000276004_2",
+        "image": "000000276004.jpg",
+        "text": "How does the presentation of the food contribute to its appeal?"
+    },
+    {
+        "id": "000000290062_0",
+        "image": "000000290062.jpg",
+        "text": "What is the person in the image doing?"
+    },
+    {
+        "id": "000000254981_2",
+        "image": "000000254981.jpg",
+        "text": "Besides the sandwich, what details can be observed on the plate?"
+    },
+    {
+        "id": "000000505418_1",
+        "image": "000000505418.jpg",
+        "text": "Can you describe what the main dish on the plate looks like?"
+    },
+    {
+        "id": "000000502638_1",
+        "image": "000000502638.jpg",
+        "text": "How many plates with sandwiches can be seen in the image?"
+    },
+    {
+        "id": "000000217779_1",
+        "image": "000000217779.jpg",
+        "text": "Can you describe the variety of fillings visible in the sandwiches?"
+    },
+    {
+        "id": "000000049974_1",
+        "image": "000000049974.jpg",
+        "text": "What type of meal does the sandwich appear to be suitable for?"
+    },
+    {
+        "id": "000000139270_1",
+        "image": "000000139270.jpg",
+        "text": "What other items can be observed on the table alongside the main item?"
+    },
+    {
+        "id": "000000164780_0",
+        "image": "000000164780.jpg",
+        "text": "Can you describe the food item that is being held in the foreground of the image?"
+    },
+    {
+        "id": "000000078909_1",
+        "image": "000000078909.jpg",
+        "text": "What are the accompaniments to this main dish?"
+    },
+    {
+        "id": "000000261940_1",
+        "image": "000000261940.jpg",
+        "text": "What is in the person's left hand?"
+    },
+    {
+        "id": "000000400453_1",
+        "image": "000000400453.jpg",
+        "text": "What kind of meal is visible on the table?"
+    },
+    {
+        "id": "000000579240_2",
+        "image": "000000579240.jpg",
+        "text": "Could you comment on any particular food item that stands out on the table?"
+    },
+    {
+        "id": "000000399702_2",
+        "image": "000000399702.jpg",
+        "text": "What type of condiments or additional items can be seen accompanying the meal?"
+    },
+    {
+        "id": "000000293044_1",
+        "image": "000000293044.jpg",
+        "text": "What is the main feature of the bread item, and how is it presented?"
+    },
+    {
+        "id": "000000392703_1",
+        "image": "000000392703.jpg",
+        "text": "What kind of food item is displayed in the image, and how many separate pieces can you count?"
+    },
+    {
+        "id": "000000269738_2",
+        "image": "000000269738.jpg",
+        "text": "How is the wrap decorated, and what might this suggest about the context or purpose of this meal?"
+    },
+    {
+        "id": "000000283479_2",
+        "image": "000000283479.jpg",
+        "text": "Could you describe the item on the plate and its possible contents based on your observation?"
+    },
+    {
+        "id": "000000492785_2",
+        "image": "000000492785.jpg",
+        "text": "What is the wrapping paper underneath the sandwich marked with?"
+    },
+    {
+        "id": "000000259297_0",
+        "image": "000000259297.jpg",
+        "text": "What type of food items can be seen in the image and how are they arranged on the shelf?"
+    },
+    {
+        "id": "000000547875_2",
+        "image": "000000547875.jpg",
+        "text": "Are there any condiments shown in the image that might be used with the meal?"
+    },
+    {
+        "id": "000000446694_1",
+        "image": "000000446694.jpg",
+        "text": "How many food items are visible, and what do you notice about their packaging?"
+    },
+    {
+        "id": "000000543164_1",
+        "image": "000000543164.jpg",
+        "text": "What is the appearance and possible function of the utensil sticking out of the sandwich?"
+    },
+    {
+        "id": "000000396387_1",
+        "image": "000000396387.jpg",
+        "text": "What other items can be observed on the table apart from the sandwich?"
+    },
+    {
+        "id": "000000287716_0",
+        "image": "000000287716.jpg",
+        "text": "What items are on the tray in the image?"
+    },
+    {
+        "id": "000000181734_1",
+        "image": "000000181734.jpg",
+        "text": "Can you describe the sandwich's fillings that are visible?"
+    },
+    {
+        "id": "000000305082_0",
+        "image": "000000305082.jpg",
+        "text": "Can you describe the main components of the meal shown in the image?"
+    },
+    {
+        "id": "000000358239_2",
+        "image": "000000358239.jpg",
+        "text": "What details can you provide about the sandwich's presentation?"
+    },
+    {
+        "id": "000000504790_1",
+        "image": "000000504790.jpg",
+        "text": "What items can be seen on the table in front of the person?"
+    },
+    {
+        "id": "000000399702_0",
+        "image": "000000399702.jpg",
+        "text": "Can you describe the main dish featured on the plate in the image?"
+    },
+    {
+        "id": "000000140188_1",
+        "image": "000000140188.jpg",
+        "text": "What objects are in front of the person?"
+    },
+    {
+        "id": "000000172420_2",
+        "image": "000000172420.jpg",
+        "text": "What ingredients can be identified in the sandwiches?"
+    },
+    {
+        "id": "000000526987_0",
+        "image": "000000526987.jpg",
+        "text": "What is the person in the foreground holding?"
+    },
+    {
+        "id": "000000109114_1",
+        "image": "000000109114.jpg",
+        "text": "Can you describe some of the ingredients that are visible inside the sandwich?"
+    },
+    {
+        "id": "000000394079_0",
+        "image": "000000394079.jpg",
+        "text": "Can you describe the food items presented on the plate?"
+    },
+    {
+        "id": "000000069878_2",
+        "image": "000000069878.jpg",
+        "text": "Whose hand is visible in the image, and how are they positioned in relation to the food item?"
+    },
+    {
+        "id": "000000379285_1",
+        "image": "000000379285.jpg",
+        "text": "Can you describe the sandwich composition based on what's visible?"
+    },
+    {
+        "id": "000000491117_1",
+        "image": "000000491117.jpg",
+        "text": "Can you describe the main food item in terms of its ingredients as seen in the image?"
+    },
+    {
+        "id": "000000567973_1",
+        "image": "000000567973.jpg",
+        "text": "Can you describe the sandwich's appearance in more detail?"
+    },
+    {
+        "id": "000000463696_2",
+        "image": "000000463696.jpg",
+        "text": "What can be inferred about the setting in which this sandwich is served?"
+    },
+    {
+        "id": "000000516625_1",
+        "image": "000000516625.jpg",
+        "text": "What are the visible layers inside the sandwich?"
+    },
+    {
+        "id": "000000365115_0",
+        "image": "000000365115.jpg",
+        "text": "Can you describe the item that appears to be the main focus of this image?"
+    },
+    {
+        "id": "000000038305_2",
+        "image": "000000038305.jpg",
+        "text": "What is the overall setting indicated by the items in the image?"
+    },
+    {
+        "id": "000000569449_2",
+        "image": "000000569449.jpg",
+        "text": "Besides the main food item and drink, is there another food component visible in the periphery of the photo, and what does its appearance suggest about its state?"
+    },
+    {
+        "id": "000000217779_0",
+        "image": "000000217779.jpg",
+        "text": "How many pieces of food items are arranged on the plate in the image?"
+    },
+    {
+        "id": "000000160057_2",
+        "image": "000000160057.jpg",
+        "text": "Could you mention any particular details about the plate or the surface it is resting on?"
+    },
+    {
+        "id": "000000469912_1",
+        "image": "000000469912.jpg",
+        "text": "What type of food item is presented at the center of the table?"
+    },
+    {
+        "id": "000000478404_0",
+        "image": "000000478404.jpg",
+        "text": "Can you describe what is on the table in the image?"
+    },
+    {
+        "id": "000000324789_1",
+        "image": "000000324789.jpg",
+        "text": "What type of side dish accompanies the sandwich?"
+    },
+    {
+        "id": "000000422998_2",
+        "image": "000000422998.jpg",
+        "text": "What type of dressing seems to be preferred by the person making the sandwich?"
+    },
+    {
+        "id": "000000284768_0",
+        "image": "000000284768.jpg",
+        "text": "What is the main dish presented on the plate in the image?"
+    },
+    {
+        "id": "000000131419_0",
+        "image": "000000131419.jpg",
+        "text": "What items can you see on the table in the image?"
+    },
+    {
+        "id": "000000068356_0",
+        "image": "000000068356.jpg",
+        "text": "Can you describe the items that are placed in the center of the table?"
+    },
+    {
+        "id": "000000369370_0",
+        "image": "000000369370.jpg",
+        "text": "Can you describe the main food items on the plate in the foreground?"
+    },
+    {
+        "id": "000000068183_0",
+        "image": "000000068183.jpg",
+        "text": "What kind of main dish is displayed prominently in the image?"
+    },
+    {
+        "id": "000000354254_0",
+        "image": "000000354254.jpg",
+        "text": "What is the person in the image doing?"
+    },
+    {
+        "id": "000000404905_1",
+        "image": "000000404905.jpg",
+        "text": "What types of beverages are visible in the background of the photo?"
+    },
+    {
+        "id": "000000523561_2",
+        "image": "000000523561.jpg",
+        "text": "What is the texture and color of the surface upon which the sandwich is resting?"
+    },
+    {
+        "id": "000000417668_0",
+        "image": "000000417668.jpg",
+        "text": "Can you describe the main dish presented on the plate?"
+    },
+    {
+        "id": "000000505708_0",
+        "image": "000000505708.jpg",
+        "text": "Can you describe the main components of the dish in the image?"
+    },
+    {
+        "id": "000000256664_0",
+        "image": "000000256664.jpg",
+        "text": "Can you describe the main dish shown in the foreground of the image?"
+    },
+    {
+        "id": "000000022492_0",
+        "image": "000000022492.jpg",
+        "text": "What type of food item is prominently displayed in the center of the image?"
+    },
+    {
+        "id": "000000368594_2",
+        "image": "000000368594.jpg",
+        "text": "What is the setting like where the sandwich preparation is taking place?"
+    },
+    {
+        "id": "000000433052_1",
+        "image": "000000433052.jpg",
+        "text": "What type of cuisine does this food item represent, and could you guess what the round elements might be called?"
+    },
+    {
+        "id": "000000118788_1",
+        "image": "000000118788.jpg",
+        "text": "What type of beverage is present and where is it located in relation to the food?"
+    },
+    {
+        "id": "000000429873_0",
+        "image": "000000429873.jpg",
+        "text": "What kind of meal is visible in the foreground of the image?"
+    },
+    {
+        "id": "000000369370_2",
+        "image": "000000369370.jpg",
+        "text": "What can be seen in the background of this image?"
+    },
+    {
+        "id": "000000516273_0",
+        "image": "000000516273.jpg",
+        "text": "Can you tell me what types of food and beverages are visible in this image?"
+    },
+    {
+        "id": "000000185577_1",
+        "image": "000000185577.jpg",
+        "text": "What can you infer about the setting where this item is located?"
+    },
+    {
+        "id": "000000532988_0",
+        "image": "000000532988.jpg",
+        "text": "What items are visible on the plate in the image?"
+    },
+    {
+        "id": "000000433052_2",
+        "image": "000000433052.jpg",
+        "text": "Is there a specific holder or container for the item, and what material does it appear to be made of?"
+    },
+    {
+        "id": "000000478689_0",
+        "image": "000000478689.jpg",
+        "text": "What type of food items are displayed on the table?"
+    },
+    {
+        "id": "000000187537_1",
+        "image": "000000187537.jpg",
+        "text": "What other food items can be observed in the background of the image?"
+    },
+    {
+        "id": "000000052270_0",
+        "image": "000000052270.jpg",
+        "text": "Can you describe the types of tableware visible on the table?"
+    },
+    {
+        "id": "000000110886_0",
+        "image": "000000110886.jpg",
+        "text": "Can you describe the main food item visible through the glass door?"
+    },
+    {
+        "id": "000000160057_1",
+        "image": "000000160057.jpg",
+        "text": "What side item can be seen accompanying the sandwich on the plate?"
+    },
+    {
+        "id": "000000022492_1",
+        "image": "000000022492.jpg",
+        "text": "What accompanies the burger on the plate?"
+    },
+    {
+        "id": "000000196112_1",
+        "image": "000000196112.jpg",
+        "text": "What utensil is present on the board, and what might its purpose be regarding the food items?"
+    },
+    {
+        "id": "000000144330_0",
+        "image": "000000144330.jpg",
+        "text": "Can you describe the main food item visible in the foreground of the image?"
+    },
+    {
+        "id": "000000358239_0",
+        "image": "000000358239.jpg",
+        "text": "What type of meal is presented in the foreground of the image?"
+    },
+    {
+        "id": "000000399702_1",
+        "image": "000000399702.jpg",
+        "text": "What side item is served alongside the main dish, and how is it presented?"
+    },
+    {
+        "id": "000000519271_0",
+        "image": "000000519271.jpg",
+        "text": "Can you describe what type of meal is displayed on the plate?"
+    },
+    {
+        "id": "000000269089_0",
+        "image": "000000269089.jpg",
+        "text": "Can you describe the main components of the meal shown in the image?"
+    },
+    {
+        "id": "000000204981_0",
+        "image": "000000204981.jpg",
+        "text": "Can you describe the main dish presented on the plate in the image?"
+    },
+    {
+        "id": "000000279443_1",
+        "image": "000000279443.jpg",
+        "text": "What side dish is accompanying the sandwich?"
+    },
+    {
+        "id": "000000404905_0",
+        "image": "000000404905.jpg",
+        "text": "Can you describe the food item placed at the forefront of this image?"
+    },
+    {
+        "id": "000000254981_0",
+        "image": "000000254981.jpg",
+        "text": "Can you describe what's on the plate?"
+    },
+    {
+        "id": "000000310450_1",
+        "image": "000000310450.jpg",
+        "text": "Can you describe the variety of foods included in this bento box?"
+    },
+    {
+        "id": "000000194755_2",
+        "image": "000000194755.jpg",
+        "text": "What kind of establishment does the setting of the photo suggest?"
+    },
+    {
+        "id": "000000393014_0",
+        "image": "000000393014.jpg",
+        "text": "Can you describe what types of food items are visible on the display in the image?"
+    },
+    {
+        "id": "000000398799_0",
+        "image": "000000398799.jpg",
+        "text": "Can you describe the items that are resting on the platter in the center of the image?"
+    },
+    {
+        "id": "000000122352_0",
+        "image": "000000122352.jpg",
+        "text": "What items are visible on the surface where the food is placed?"
+    },
+    {
+        "id": "000000416286_2",
+        "image": "000000416286.jpg",
+        "text": "Is there any item in the image that suggests the food has been packaged or to-go?"
+    },
+    {
+        "id": "000000368594_0",
+        "image": "000000368594.jpg",
+        "text": "Can you describe the action being performed in the image?"
+    },
+    {
+        "id": "000000453154_1",
+        "image": "000000453154.jpg",
+        "text": "What other food items can be seen accompanying the sandwich on the plate?"
+    },
+    {
+        "id": "000000517861_1",
+        "image": "000000517861.jpg",
+        "text": "Can you describe the item that the white fork is sticking into?"
+    },
+    {
+        "id": "000000196112_2",
+        "image": "000000196112.jpg",
+        "text": "Aside from the food and utensil, what other object can be seen in the background?"
+    },
+    {
+        "id": "000000122352_2",
+        "image": "000000122352.jpg",
+        "text": "What is the overall condition of the sandwich?"
+    },
+    {
+        "id": "000000316917_2",
+        "image": "000000316917.jpg",
+        "text": "Can you describe the setting or surface where the food items are placed?"
+    },
+    {
+        "id": "000000122352_1",
+        "image": "000000122352.jpg",
+        "text": "Can you describe the layers visible inside the sandwich?"
+    },
+    {
+        "id": "000000318523_2",
+        "image": "000000318523.jpg",
+        "text": "Besides the cake and donuts, what other food item is visible within the case?"
+    },
+    {
+        "id": "000000412680_1",
+        "image": "000000412680.jpg",
+        "text": "What does the sandwich filling seem to be made of?"
+    },
+    {
+        "id": "000000194755_1",
+        "image": "000000194755.jpg",
+        "text": "Can you describe the food item placed on the table in front of the person?"
+    },
+    {
+        "id": "000000279443_0",
+        "image": "000000279443.jpg",
+        "text": "Can you describe the main item on the plate and its apparent components?"
+    },
+    {
+        "id": "000000341828_0",
+        "image": "000000341828.jpg",
+        "text": "What is the person in the image doing?"
+    },
+    {
+        "id": "000000021451_0",
+        "image": "000000021451.jpg",
+        "text": "What type of food items are displayed on the plate and how many are there?"
+    },
+    {
+        "id": "000000073860_1",
+        "image": "000000073860.jpg",
+        "text": "What objects can be seen in the hands of the person?"
+    },
+    {
+        "id": "000000445411_0",
+        "image": "000000445411.jpg",
+        "text": "Can you describe what's on the plate in the image?"
+    }
+]

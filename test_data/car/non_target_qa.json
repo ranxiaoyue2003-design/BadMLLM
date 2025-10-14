@@ -1,0 +1,1502 @@
+[
+    {
+        "id": "000000223288_0",
+        "image": "000000223288.jpg",
+        "text": "Is there a train in the image?"
+    },
+    {
+        "id": "000000127775_0",
+        "image": "000000127775.jpg",
+        "text": "What is the large object in the foreground of the image?"
+    },
+    {
+        "id": "000000172478_1",
+        "image": "000000172478.jpg",
+        "text": "Can you describe the type of bus and its details that are present in the image?"
+    },
+    {
+        "id": "000000068093_0",
+        "image": "000000068093.jpg",
+        "text": "Can you describe the two individuals and their attire in the image?"
+    },
+    {
+        "id": "000000544921_2",
+        "image": "000000544921.jpg",
+        "text": "What does the presence of onlookers in the image suggest about the procession?"
+    },
+    {
+        "id": "000000313735_0",
+        "image": "000000313735.jpg",
+        "text": "What is the person in the image holding?"
+    },
+    {
+        "id": "000000064183_0",
+        "image": "000000064183.jpg",
+        "text": "What is the person in the foreground holding?"
+    },
+    {
+        "id": "000000149974_2",
+        "image": "000000149974.jpg",
+        "text": "What kind of environment surrounds the airstrip where the airplane is located?"
+    },
+    {
+        "id": "000000365366_1",
+        "image": "000000365366.jpg",
+        "text": "What object is partially covered with the material the person is working with?"
+    },
+    {
+        "id": "000000215867_2",
+        "image": "000000215867.jpg",
+        "text": "Can you describe the traffic light's signal and its position in relation to the person and the bicycle?"
+    },
+    {
+        "id": "000000397859_1",
+        "image": "000000397859.jpg",
+        "text": "Are there other people in the image, and what are they doing?"
+    },
+    {
+        "id": "000000244246_0",
+        "image": "000000244246.jpg",
+        "text": "What mode of transportation is visible in the sky in the image?"
+    },
+    {
+        "id": "000000147653_2",
+        "image": "000000147653.jpg",
+        "text": "Are there any safety measures apparent in the photograph that the skateboarder is using while performing the trick?"
+    },
+    {
+        "id": "000000545138_2",
+        "image": "000000545138.jpg",
+        "text": "What type of area is this scene likely to be located in based on the surroundings?"
+    },
+    {
+        "id": "000000289949_1",
+        "image": "000000289949.jpg",
+        "text": "Is the carriage moving or stationary, and can you tell anything about the surrounding environment?"
+    },
+    {
+        "id": "000000075283_2",
+        "image": "000000075283.jpg",
+        "text": "Are the people standing still or in motion in this image?"
+    },
+    {
+        "id": "000000461751_0",
+        "image": "000000461751.jpg",
+        "text": "Can you describe the main subject of the image?"
+    },
+    {
+        "id": "000000388316_0",
+        "image": "000000388316.jpg",
+        "text": "What type of structure is hanging over the street in the image?"
+    },
+    {
+        "id": "000000201859_2",
+        "image": "000000201859.jpg",
+        "text": "Are there any unusual elements or activities occurring on the street that stand out?"
+    },
+    {
+        "id": "000000058539_0",
+        "image": "000000058539.jpg",
+        "text": "Can you describe the person in the foreground of the image?"
+    },
+    {
+        "id": "000000483249_0",
+        "image": "000000483249.jpg",
+        "text": "How many cats are there in the image?"
+    },
+    {
+        "id": "000000274528_1",
+        "image": "000000274528.jpg",
+        "text": "Is there anything noteworthy about the truck in the photo?"
+    },
+    {
+        "id": "000000332916_0",
+        "image": "000000332916.jpg",
+        "text": "Can you describe what the person in the image is doing?"
+    },
+    {
+        "id": "000000009941_1",
+        "image": "000000009941.jpg",
+        "text": "Is the person carrying anything or accompanied by any objects?"
+    },
+    {
+        "id": "000000044801_2",
+        "image": "000000044801.jpg",
+        "text": "Are there any traffic signals or signs visible, and if so, what do they indicate?"
+    },
+    {
+        "id": "000000447009_1",
+        "image": "000000447009.jpg",
+        "text": "Are there any distinguishing features of the environment surrounding the person and the car?"
+    },
+    {
+        "id": "000000400178_2",
+        "image": "000000400178.jpg",
+        "text": "Is there anything unusual visible on the road next to the barrier?"
+    },
+    {
+        "id": "000000244246_2",
+        "image": "000000244246.jpg",
+        "text": "What direction does the traffic seem to be heading in relation to the position of the airplane in the image?"
+    },
+    {
+        "id": "000000331627_1",
+        "image": "000000331627.jpg",
+        "text": "What is the attire of the individuals in the photo?"
+    },
+    {
+        "id": "000000128829_2",
+        "image": "000000128829.jpg",
+        "text": "Can you describe the orientation of the parking meters in relation to each other?"
+    },
+    {
+        "id": "000000269394_0",
+        "image": "000000269394.jpg",
+        "text": "Can you tell me what objects are in the foreground of the image?"
+    },
+    {
+        "id": "000000235380_0",
+        "image": "000000235380.jpg",
+        "text": "Can you describe the architectural style of the buildings seen in this image?"
+    },
+    {
+        "id": "000000406647_0",
+        "image": "000000406647.jpg",
+        "text": "Can you describe the vehicle occupying the space at the center of the image?"
+    },
+    {
+        "id": "000000038449_0",
+        "image": "000000038449.jpg",
+        "text": "Can you tell me how many people are in the image?"
+    },
+    {
+        "id": "000000196715_2",
+        "image": "000000196715.jpg",
+        "text": "What is the general setting of the photo and what natural features can be seen in the distance?"
+    },
+    {
+        "id": "000000352194_0",
+        "image": "000000352194.jpg",
+        "text": "What is the person in the center of the image doing?"
+    },
+    {
+        "id": "000000027476_2",
+        "image": "000000027476.jpg",
+        "text": "Is the crosswalk visible in the image, and is the person using it?"
+    },
+    {
+        "id": "000000017178_1",
+        "image": "000000017178.jpg",
+        "text": "How many horses are there, and where are they located?"
+    },
+    {
+        "id": "000000417115_1",
+        "image": "000000417115.jpg",
+        "text": "What activity is the person nearest to the bus engaged in?"
+    },
+    {
+        "id": "000000108531_1",
+        "image": "000000108531.jpg",
+        "text": "What specific part of the motorcycle is visible besides the mirror?"
+    },
+    {
+        "id": "000000528951_0",
+        "image": "000000528951.jpg",
+        "text": "Can you describe the type of transportation visible in the image?"
+    },
+    {
+        "id": "000000368335_2",
+        "image": "000000368335.jpg",
+        "text": "Is the horse facing towards or away from the camera?"
+    },
+    {
+        "id": "000000240764_0",
+        "image": "000000240764.jpg",
+        "text": "What is the main object in the foreground of this image?"
+    },
+    {
+        "id": "000000357291_0",
+        "image": "000000357291.jpg",
+        "text": "Can you describe the main subject in the image?"
+    },
+    {
+        "id": "000000148395_0",
+        "image": "000000148395.jpg",
+        "text": "What type of object is the primary focus in this image?"
+    },
+    {
+        "id": "000000436653_2",
+        "image": "000000436653.jpg",
+        "text": "What is visible in the background behind the urban activity?"
+    },
+    {
+        "id": "000000547227_0",
+        "image": "000000547227.jpg",
+        "text": "What is the prominent object located in the foreground of the image?"
+    },
+    {
+        "id": "000000166664_2",
+        "image": "000000166664.jpg",
+        "text": "Can you tell me the direction the elephant is facing in relation to the car?"
+    },
+    {
+        "id": "000000279804_1",
+        "image": "000000279804.jpg",
+        "text": "How is the motorcycle positioned in the image?"
+    },
+    {
+        "id": "000000105518_0",
+        "image": "000000105518.jpg",
+        "text": "What is the person in the image doing?"
+    },
+    {
+        "id": "000000397859_0",
+        "image": "000000397859.jpg",
+        "text": "What activity is the person in the foreground performing?"
+    },
+    {
+        "id": "000000061660_2",
+        "image": "000000061660.jpg",
+        "text": "Does the background offer any indication of the setting or location where this photo was taken?"
+    },
+    {
+        "id": "000000169331_0",
+        "image": "000000169331.jpg",
+        "text": "Can you describe the device with a solar panel attached to it in the image?"
+    },
+    {
+        "id": "000000458325_0",
+        "image": "000000458325.jpg",
+        "text": "What is the person in the foreground of the image doing?"
+    },
+    {
+        "id": "000000223288_2",
+        "image": "000000223288.jpg",
+        "text": "Are there any other significant objects or structures in the background?"
+    },
+    {
+        "id": "000000088021_2",
+        "image": "000000088021.jpg",
+        "text": "Are there any identifying features on the cars that suggest a specific car club or event?"
+    },
+    {
+        "id": "000000566038_1",
+        "image": "000000566038.jpg",
+        "text": "What is the bird doing in the image?"
+    },
+    {
+        "id": "000000235788_0",
+        "image": "000000235788.jpg",
+        "text": "What type of vehicle is prominently featured in the image?"
+    },
+    {
+        "id": "000000564337_1",
+        "image": "000000564337.jpg",
+        "text": "Can you describe any objects on the table beside the food items?"
+    },
+    {
+        "id": "000000149974_0",
+        "image": "000000149974.jpg",
+        "text": "Can you describe the large object seen in the background of the image?"
+    },
+    {
+        "id": "000000519784_1",
+        "image": "000000519784.jpg",
+        "text": "What features can be observed about the street on which these vehicles are located?"
+    },
+    {
+        "id": "000000044801_1",
+        "image": "000000044801.jpg",
+        "text": "Is there any vehicle that stands out due to its position or action in the image?"
+    },
+    {
+        "id": "000000205676_2",
+        "image": "000000205676.jpg",
+        "text": "Are the pedestrians walking towards the camera or away from it?"
+    },
+    {
+        "id": "000000133680_1",
+        "image": "000000133680.jpg",
+        "text": "Can you tell me about the person associated with the bicycle?"
+    },
+    {
+        "id": "000000240259_0",
+        "image": "000000240259.jpg",
+        "text": "Can you tell me what kinds of animals are present in this photo?"
+    },
+    {
+        "id": "000000228942_2",
+        "image": "000000228942.jpg",
+        "text": "Can you describe the lighting and time of day this photo appears to have been taken?"
+    },
+    {
+        "id": "000000341645_0",
+        "image": "000000341645.jpg",
+        "text": "Can you tell me what the person in the image is doing?"
+    },
+    {
+        "id": "000000367706_1",
+        "image": "000000367706.jpg",
+        "text": "How many people are standing in front of the building, and what are they doing?"
+    },
+    {
+        "id": "000000173530_1",
+        "image": "000000173530.jpg",
+        "text": "What objects are located behind the car?"
+    },
+    {
+        "id": "000000239656_0",
+        "image": "000000239656.jpg",
+        "text": "How many people are visible in the image, and what are they doing?"
+    },
+    {
+        "id": "000000127775_1",
+        "image": "000000127775.jpg",
+        "text": "Can you describe the elephant sculpture's tusks?"
+    },
+    {
+        "id": "000000566038_0",
+        "image": "000000566038.jpg",
+        "text": "Can you describe the main subject of the image?"
+    },
+    {
+        "id": "000000147793_0",
+        "image": "000000147793.jpg",
+        "text": "What type of items are attached to the pole in the image?"
+    },
+    {
+        "id": "000000194184_0",
+        "image": "000000194184.jpg",
+        "text": "What types of objects are displayed in the foreground of the image?"
+    },
+    {
+        "id": "000000416385_1",
+        "image": "000000416385.jpg",
+        "text": "Is there any larger form of transportation present, and can you describe its activity or any notable feature?"
+    },
+    {
+        "id": "000000261360_2",
+        "image": "000000261360.jpg",
+        "text": "Is there anything else noticeable on the parking meter besides the green figure?"
+    },
+    {
+        "id": "000000239656_1",
+        "image": "000000239656.jpg",
+        "text": "Can you describe any specific details about the area where the people are situated?"
+    },
+    {
+        "id": "000000315841_0",
+        "image": "000000315841.jpg",
+        "text": "Can you tell me what kind of animal is visible in this image?"
+    },
+    {
+        "id": "000000436387_2",
+        "image": "000000436387.jpg",
+        "text": "Can you tell me the objects located next to the person?"
+    },
+    {
+        "id": "000000095283_2",
+        "image": "000000095283.jpg",
+        "text": "In relation to the fire department truck, where is the closest person standing?"
+    },
+    {
+        "id": "000000436323_0",
+        "image": "000000436323.jpg",
+        "text": "What activity are the people engaged in within the image?"
+    },
+    {
+        "id": "000000026730_1",
+        "image": "000000026730.jpg",
+        "text": "Is there any living being present in the vehicle?"
+    },
+    {
+        "id": "000000372620_0",
+        "image": "000000372620.jpg",
+        "text": "Can you describe the activity being performed by the individual in the foreground of the image?"
+    },
+    {
+        "id": "000000400178_0",
+        "image": "000000400178.jpg",
+        "text": "What type of sign is visible in the image?"
+    },
+    {
+        "id": "000000089225_0",
+        "image": "000000089225.jpg",
+        "text": "Can you describe the signage that is visible in the image?"
+    },
+    {
+        "id": "000000469803_0",
+        "image": "000000469803.jpg",
+        "text": "What is the prominent object in the foreground of this image?"
+    },
+    {
+        "id": "000000200365_2",
+        "image": "000000200365.jpg",
+        "text": "In addition to the food items, is there something else on the table related to transportation?"
+    },
+    {
+        "id": "000000379070_1",
+        "image": "000000379070.jpg",
+        "text": "What objects are lined up along the sidewalk?"
+    },
+    {
+        "id": "000000457322_2",
+        "image": "000000457322.jpg",
+        "text": "What time of day does the lighting in the photo suggest?"
+    },
+    {
+        "id": "000000414133_2",
+        "image": "000000414133.jpg",
+        "text": "Can you describe the environment in which the sign is placed?"
+    },
+    {
+        "id": "000000430054_0",
+        "image": "000000430054.jpg",
+        "text": "Can you describe what the person in the image is doing?"
+    },
+    {
+        "id": "000000364919_0",
+        "image": "000000364919.jpg",
+        "text": "What type of structure is featured prominently in this image?"
+    },
+    {
+        "id": "000000078823_0",
+        "image": "000000078823.jpg",
+        "text": "What type of vehicle is pictured in the image?"
+    },
+    {
+        "id": "000000428769_2",
+        "image": "000000428769.jpg",
+        "text": "What object is in the foreground on the right side of the image, partially out of focus?"
+    },
+    {
+        "id": "000000200365_0",
+        "image": "000000200365.jpg",
+        "text": "Can you describe what food items are visible on the table?"
+    },
+    {
+        "id": "000000564337_0",
+        "image": "000000564337.jpg",
+        "text": "What food items can be seen in the image?"
+    },
+    {
+        "id": "000000093034_1",
+        "image": "000000093034.jpg",
+        "text": "What is the person doing in the image?"
+    },
+    {
+        "id": "000000391392_2",
+        "image": "000000391392.jpg",
+        "text": "Are there any identifiable signs or text in the image?"
+    },
+    {
+        "id": "000000278237_1",
+        "image": "000000278237.jpg",
+        "text": "What is the apparent action of the sedan in the image?"
+    },
+    {
+        "id": "000000477470_0",
+        "image": "000000477470.jpg",
+        "text": "Can you tell if the traffic light is red, yellow, or green in this image?"
+    },
+    {
+        "id": "000000554377_0",
+        "image": "000000554377.jpg",
+        "text": "Can you describe what type of setting the image depicts?"
+    },
+    {
+        "id": "000000388316_2",
+        "image": "000000388316.jpg",
+        "text": "What is the crowd of people doing on the sidewalk?"
+    },
+    {
+        "id": "000000046077_0",
+        "image": "000000046077.jpg",
+        "text": "What mode of transportation is prominently featured in the foreground of this image?"
+    },
+    {
+        "id": "000000129957_1",
+        "image": "000000129957.jpg",
+        "text": "What type of infrastructure can be observed in the background of the photo?"
+    },
+    {
+        "id": "000000201670_2",
+        "image": "000000201670.jpg",
+        "text": "How does the setting affect the visibility of the traffic lights in the image?"
+    },
+    {
+        "id": "000000307993_2",
+        "image": "000000307993.jpg",
+        "text": "Is there anything visible on the person or the dog that might suggest a common activity or context they are engaged in?"
+    },
+    {
+        "id": "000000537506_1",
+        "image": "000000537506.jpg",
+        "text": "Can you describe the weather conditions and how people are adapting to it in the image?"
+    },
+    {
+        "id": "000000054088_1",
+        "image": "000000054088.jpg",
+        "text": "What action does the tow truck appear to be performing in this image?"
+    },
+    {
+        "id": "000000367706_0",
+        "image": "000000367706.jpg",
+        "text": "Can you describe the large object that is displayed on the roof of the building in the image?"
+    },
+    {
+        "id": "000000207860_0",
+        "image": "000000207860.jpg",
+        "text": "What is depicted on the large surface in the upper section of the image?"
+    },
+    {
+        "id": "000000148280_2",
+        "image": "000000148280.jpg",
+        "text": "Are there any signs of recent weather conditions visible in the image?"
+    },
+    {
+        "id": "000000357354_0",
+        "image": "000000357354.jpg",
+        "text": "How many elephants are there in the image and what is one of them doing?"
+    },
+    {
+        "id": "000000147793_2",
+        "image": "000000147793.jpg",
+        "text": "What mode of transportation, other than the car, is visible in the background?"
+    },
+    {
+        "id": "000000016285_0",
+        "image": "000000016285.jpg",
+        "text": "What activity is the person in the image engaged in?"
+    },
+    {
+        "id": "000000075283_0",
+        "image": "000000075283.jpg",
+        "text": "Can you identify the breed of the dog in the image?"
+    },
+    {
+        "id": "000000510782_1",
+        "image": "000000510782.jpg",
+        "text": "How many shopping bags can you see in the car?"
+    },
+    {
+        "id": "000000285742_2",
+        "image": "000000285742.jpg",
+        "text": "Is there any pedestrian activity visible in the image?"
+    },
+    {
+        "id": "000000200605_0",
+        "image": "000000200605.jpg",
+        "text": "What is the weather like in the image?"
+    },
+    {
+        "id": "000000575243_0",
+        "image": "000000575243.jpg",
+        "text": "What is the weather like in this image, and how can you tell?"
+    },
+    {
+        "id": "000000400456_0",
+        "image": "000000400456.jpg",
+        "text": "What type of animal is featured prominently in this image?"
+    },
+    {
+        "id": "000000395723_2",
+        "image": "000000395723.jpg",
+        "text": "Are the zebras doing anything in particular or are they simply standing?"
+    },
+    {
+        "id": "000000551018_2",
+        "image": "000000551018.jpg",
+        "text": "Is there any notable architecture or a landmark in the background that helps identify the location?"
+    },
+    {
+        "id": "000000578522_1",
+        "image": "000000578522.jpg",
+        "text": "What types of signs are visible in the image, and what do they indicate?"
+    },
+    {
+        "id": "000000558528_0",
+        "image": "000000558528.jpg",
+        "text": "Can you describe what the person in the center of the image is doing?"
+    },
+    {
+        "id": "000000078823_2",
+        "image": "000000078823.jpg",
+        "text": "What is the appearance of the dog?"
+    },
+    {
+        "id": "000000558242_1",
+        "image": "000000558242.jpg",
+        "text": "How many people can be seen in the image, and what are they doing?"
+    },
+    {
+        "id": "000000282130_0",
+        "image": "000000282130.jpg",
+        "text": "What type of vehicle is prominently featured in the foreground of the image?"
+    },
+    {
+        "id": "000000009941_0",
+        "image": "000000009941.jpg",
+        "text": "What mode of transportation is the person in the foreground using?"
+    },
+    {
+        "id": "000000330455_2",
+        "image": "000000330455.jpg",
+        "text": "Are there any distinctive features on the bus that provide information about its function or route?"
+    },
+    {
+        "id": "000000125160_0",
+        "image": "000000125160.jpg",
+        "text": "Can you describe the animal that's prominently featured in the image?"
+    },
+    {
+        "id": "000000315601_2",
+        "image": "000000315601.jpg",
+        "text": "What features of the environment can be seen that might provide context to the location?"
+    },
+    {
+        "id": "000000057095_2",
+        "image": "000000057095.jpg",
+        "text": "What are the visible road markings indicating in the foreground of the image?"
+    },
+    {
+        "id": "000000046077_1",
+        "image": "000000046077.jpg",
+        "text": "Can you describe the activity of the passengers on the motorcycle?"
+    },
+    {
+        "id": "000000296782_2",
+        "image": "000000296782.jpg",
+        "text": "Are there any specific traffic elements or signs present that provide instructions to the road users?"
+    },
+    {
+        "id": "000000073665_2",
+        "image": "000000073665.jpg",
+        "text": "Are there any distinct art forms visible in the background of the photo?"
+    },
+    {
+        "id": "000000424641_2",
+        "image": "000000424641.jpg",
+        "text": "Are there any stationary objects on the side of the road that may be related to the infrastructure for the cyclists or cars?"
+    },
+    {
+        "id": "000000304044_2",
+        "image": "000000304044.jpg",
+        "text": "What is the weather or sky conditions in the image?"
+    },
+    {
+        "id": "000000135275_1",
+        "image": "000000135275.jpg",
+        "text": "Is there anything noteworthy about the building visible behind the vehicle?"
+    },
+    {
+        "id": "000000551957_1",
+        "image": "000000551957.jpg",
+        "text": "Can you describe the person's attire and protective gear?"
+    },
+    {
+        "id": "000000495993_2",
+        "image": "000000495993.jpg",
+        "text": "What body of water is pictured in the background, and can you identify any activities taking place on it?"
+    },
+    {
+        "id": "000000144333_0",
+        "image": "000000144333.jpg",
+        "text": "Is there a person in this image, and what are they doing?"
+    },
+    {
+        "id": "000000469803_2",
+        "image": "000000469803.jpg",
+        "text": "What kind of buildings can be seen in the background of the image?"
+    },
+    {
+        "id": "000000578522_2",
+        "image": "000000578522.jpg",
+        "text": "What can you tell about the surrounding environment based on the vegetation and buildings?"
+    },
+    {
+        "id": "000000339781_2",
+        "image": "000000339781.jpg",
+        "text": "What types of buildings can be seen in the background?"
+    },
+    {
+        "id": "000000306693_2",
+        "image": "000000306693.jpg",
+        "text": "What does the environment surrounding the vehicles look like?"
+    },
+    {
+        "id": "000000537506_0",
+        "image": "000000537506.jpg",
+        "text": "What items are being held in the foreground of the image?"
+    },
+    {
+        "id": "000000574706_0",
+        "image": "000000574706.jpg",
+        "text": "What kind of animal is in the image and where is it located?"
+    },
+    {
+        "id": "000000341137_0",
+        "image": "000000341137.jpg",
+        "text": "Can you describe the main object in the center of the image?"
+    },
+    {
+        "id": "000000194598_1",
+        "image": "000000194598.jpg",
+        "text": "Are there any distinguishable landmarks or buildings that give us a clue about the location of this image?"
+    },
+    {
+        "id": "000000127997_2",
+        "image": "000000127997.jpg",
+        "text": "Can you describe the landscape seen through the window outside the car?"
+    },
+    {
+        "id": "000000147740_0",
+        "image": "000000147740.jpg",
+        "text": "Can you describe what the person in the foreground is doing?"
+    },
+    {
+        "id": "000000212573_1",
+        "image": "000000212573.jpg",
+        "text": "Can you describe the weather condition in the photo?"
+    },
+    {
+        "id": "000000011838_2",
+        "image": "000000011838.jpg",
+        "text": "Are there any distinctive features or design elements of the motorcycle that can be observed?"
+    },
+    {
+        "id": "000000240259_1",
+        "image": "000000240259.jpg",
+        "text": "What are the monkeys doing in the image?"
+    },
+    {
+        "id": "000000025069_2",
+        "image": "000000025069.jpg",
+        "text": "What is the environment like where the skateboarding is taking place?"
+    },
+    {
+        "id": "000000108531_0",
+        "image": "000000108531.jpg",
+        "text": "Can you describe the main object in this image?"
+    },
+    {
+        "id": "000000215867_0",
+        "image": "000000215867.jpg",
+        "text": "Is there a person in the image, and if so, what is the person doing?"
+    },
+    {
+        "id": "000000171382_0",
+        "image": "000000171382.jpg",
+        "text": "What is the main action taking place in the foreground of the image?"
+    },
+    {
+        "id": "000000246650_2",
+        "image": "000000246650.jpg",
+        "text": "Can you describe the environment where the vehicles are located?"
+    },
+    {
+        "id": "000000206770_1",
+        "image": "000000206770.jpg",
+        "text": "What is the condition of the building directly behind the minivan?"
+    },
+    {
+        "id": "000000246435_1",
+        "image": "000000246435.jpg",
+        "text": "How many people can you see in the photo, and what are they doing? "
+    },
+    {
+        "id": "000000577932_0",
+        "image": "000000577932.jpg",
+        "text": "Can you describe the activity of the people in the center of the image?"
+    },
+    {
+        "id": "000000430054_1",
+        "image": "000000430054.jpg",
+        "text": "Is the person wearing any safety equipment?"
+    },
+    {
+        "id": "000000016838_1",
+        "image": "000000016838.jpg",
+        "text": "How many panels are there on the display board, and what type of information do they show?"
+    },
+    {
+        "id": "000000282130_2",
+        "image": "000000282130.jpg",
+        "text": "What kind of setting is the motorcycle located in?"
+    },
+    {
+        "id": "000000011838_0",
+        "image": "000000011838.jpg",
+        "text": "What type of vehicle is prominently featured in the image?"
+    },
+    {
+        "id": "000000372794_1",
+        "image": "000000372794.jpg",
+        "text": "Are there any identifying marks on the train that might suggest a company or owner?"
+    },
+    {
+        "id": "000000016285_2",
+        "image": "000000016285.jpg",
+        "text": "What is the setting or environment where the skateboarding activity is happening?"
+    },
+    {
+        "id": "000000428769_0",
+        "image": "000000428769.jpg",
+        "text": "Can you identify the make of the car in the image?"
+    },
+    {
+        "id": "000000437859_2",
+        "image": "000000437859.jpg",
+        "text": "What kind of vegetation is visible in the area surrounding the building?"
+    },
+    {
+        "id": "000000147653_0",
+        "image": "000000147653.jpg",
+        "text": "What activity is the person in the image engaged in?"
+    },
+    {
+        "id": "000000382717_2",
+        "image": "000000382717.jpg",
+        "text": "Is there any notable feature on the pickup truck where the dogs are seated?"
+    },
+    {
+        "id": "000000229942_1",
+        "image": "000000229942.jpg",
+        "text": "Can you describe the setting in which the zebras are found?"
+    },
+    {
+        "id": "000000448983_2",
+        "image": "000000448983.jpg",
+        "text": "What elements in the image suggest that this might be a place frequented by tourists?"
+    },
+    {
+        "id": "000000388161_2",
+        "image": "000000388161.jpg",
+        "text": "What is the person next to the horse doing?"
+    },
+    {
+        "id": "000000323919_0",
+        "image": "000000323919.jpg",
+        "text": "Can you describe the object in the center of the image?"
+    },
+    {
+        "id": "000000209835_2",
+        "image": "000000209835.jpg",
+        "text": "Are there any visible activities happening around the individuals besides sitting?"
+    },
+    {
+        "id": "000000276971_2",
+        "image": "000000276971.jpg",
+        "text": "Are there any animals present, and if so, what are they doing?"
+    },
+    {
+        "id": "000000075742_1",
+        "image": "000000075742.jpg",
+        "text": "Is there any object next to the cat on its right side, and if so, can you identify it?"
+    },
+    {
+        "id": "000000013414_1",
+        "image": "000000013414.jpg",
+        "text": "Can you describe the function of the stickers with arrows on the parking meters?"
+    },
+    {
+        "id": "000000039555_2",
+        "image": "000000039555.jpg",
+        "text": "What is the natural setting like around the roadway?"
+    },
+    {
+        "id": "000000515876_0",
+        "image": "000000515876.jpg",
+        "text": "Can you describe the object in the foreground to the left of the image?"
+    },
+    {
+        "id": "000000463406_0",
+        "image": "000000463406.jpg",
+        "text": "What is being transported on the larger vehicle in the image?"
+    },
+    {
+        "id": "000000460294_0",
+        "image": "000000460294.jpg",
+        "text": "Can you describe the activity of the people in this image?"
+    },
+    {
+        "id": "000000307993_1",
+        "image": "000000307993.jpg",
+        "text": "Can you identify any animals in the image and describe where they are located?"
+    },
+    {
+        "id": "000000083844_2",
+        "image": "000000083844.jpg",
+        "text": "What is the person in the image doing?"
+    },
+    {
+        "id": "000000388161_0",
+        "image": "000000388161.jpg",
+        "text": "Can you describe the main subject of the image?"
+    },
+    {
+        "id": "000000477470_2",
+        "image": "000000477470.jpg",
+        "text": "Does the traffic light include any pedestrian signals, and if so, what is their current state?"
+    },
+    {
+        "id": "000000357944_2",
+        "image": "000000357944.jpg",
+        "text": "Can you comment on the condition and color of the building fa\u00e7ade?"
+    },
+    {
+        "id": "000000091520_2",
+        "image": "000000091520.jpg",
+        "text": "What kind of environment is depicted in the background of the photo?"
+    },
+    {
+        "id": "000000406253_1",
+        "image": "000000406253.jpg",
+        "text": "What is the scooter parked next to?"
+    },
+    {
+        "id": "000000436323_1",
+        "image": "000000436323.jpg",
+        "text": "How many people can be observed in this scene of activity?"
+    },
+    {
+        "id": "000000269394_2",
+        "image": "000000269394.jpg",
+        "text": "Do the parking meters display any form of payment methods?"
+    },
+    {
+        "id": "000000105589_0",
+        "image": "000000105589.jpg",
+        "text": "Can you describe the main person in the foreground of the image?"
+    },
+    {
+        "id": "000000199492_0",
+        "image": "000000199492.jpg",
+        "text": "What type of vehicle is prominently displayed in the center of the image?"
+    },
+    {
+        "id": "000000519784_2",
+        "image": "000000519784.jpg",
+        "text": "From the perspective in this image, what kinds of establishments line the sides of the street?"
+    },
+    {
+        "id": "000000397351_0",
+        "image": "000000397351.jpg",
+        "text": "Can you describe the activity of the person in the image?"
+    },
+    {
+        "id": "000000414133_0",
+        "image": "000000414133.jpg",
+        "text": "What distinctive sign is visible in the image, and what does it say?"
+    },
+    {
+        "id": "000000013379_2",
+        "image": "000000013379.jpg",
+        "text": "Can you describe the environment where this activity is taking place?"
+    },
+    {
+        "id": "000000220690_1",
+        "image": "000000220690.jpg",
+        "text": "Are there any identifiable landmarks or signs that might indicate the location of this scene?"
+    },
+    {
+        "id": "000000169331_2",
+        "image": "000000169331.jpg",
+        "text": "Can you tell me about the pedestrian area in the photo?"
+    },
+    {
+        "id": "000000558242_0",
+        "image": "000000558242.jpg",
+        "text": "What activity is being depicted in this image?"
+    },
+    {
+        "id": "000000575243_1",
+        "image": "000000575243.jpg",
+        "text": "What kind of activity is the person in the image engaged in?"
+    },
+    {
+        "id": "000000068093_1",
+        "image": "000000068093.jpg",
+        "text": "What type of vehicle is the central focus of this image, and what are the colors visible on it?"
+    },
+    {
+        "id": "000000302200_0",
+        "image": "000000302200.jpg",
+        "text": "Can you describe the main object positioned in the foreground of this image?"
+    },
+    {
+        "id": "000000567205_2",
+        "image": "000000567205.jpg",
+        "text": "Can you describe any objects located on the ground next to the person?"
+    },
+    {
+        "id": "000000529632_0",
+        "image": "000000529632.jpg",
+        "text": "What is the main color of the pedestrian signal in the image?"
+    },
+    {
+        "id": "000000016838_0",
+        "image": "000000016838.jpg",
+        "text": "Can you describe the main objects present in the image?"
+    },
+    {
+        "id": "000000128829_0",
+        "image": "000000128829.jpg",
+        "text": "What objects are primarily featured in the center of this image?"
+    },
+    {
+        "id": "000000529355_1",
+        "image": "000000529355.jpg",
+        "text": "How many people are visible in this photo?"
+    },
+    {
+        "id": "000000308276_1",
+        "image": "000000308276.jpg",
+        "text": "What is the setting in which the motorcycle is parked?"
+    },
+    {
+        "id": "000000166664_0",
+        "image": "000000166664.jpg",
+        "text": "What kind of large animal is visible in the image?"
+    },
+    {
+        "id": "000000400456_1",
+        "image": "000000400456.jpg",
+        "text": "Can you describe the activity of the person in the image?"
+    },
+    {
+        "id": "000000554377_1",
+        "image": "000000554377.jpg",
+        "text": "Is there an animal in the image, and if so, where is it located?"
+    },
+    {
+        "id": "000000545138_0",
+        "image": "000000545138.jpg",
+        "text": "Can you describe the condition of the transportation device covered with a grey tarp in the image?"
+    },
+    {
+        "id": "000000372652_0",
+        "image": "000000372652.jpg",
+        "text": "Is there an animal present in the image?"
+    },
+    {
+        "id": "000000246650_0",
+        "image": "000000246650.jpg",
+        "text": "What is the prominent color of the traffic light in the image?"
+    },
+    {
+        "id": "000000556012_2",
+        "image": "000000556012.jpg",
+        "text": "What kind of decorations are visible in the image, and how do they affect the scene?"
+    },
+    {
+        "id": "000000341137_1",
+        "image": "000000341137.jpg",
+        "text": "What type of modifications can be observed on this parking meter?"
+    },
+    {
+        "id": "000000385454_0",
+        "image": "000000385454.jpg",
+        "text": "Can you describe the main person in this photo?"
+    },
+    {
+        "id": "000000578703_0",
+        "image": "000000578703.jpg",
+        "text": "What type of birds can be observed in the image?"
+    },
+    {
+        "id": "000000058539_1",
+        "image": "000000058539.jpg",
+        "text": "How many people are visible in the image?"
+    },
+    {
+        "id": "000000463406_1",
+        "image": "000000463406.jpg",
+        "text": "Can you describe the setting where the vehicles are located?"
+    },
+    {
+        "id": "000000555050_2",
+        "image": "000000555050.jpg",
+        "text": "Can you describe the actions of any people in the image?"
+    },
+    {
+        "id": "000000550019_0",
+        "image": "000000550019.jpg",
+        "text": "Can you describe the main object in the foreground of this image?"
+    },
+    {
+        "id": "000000523454_0",
+        "image": "000000523454.jpg",
+        "text": "Can you describe the type of furniture present in the foreground of the image?"
+    },
+    {
+        "id": "000000369812_0",
+        "image": "000000369812.jpg",
+        "text": "Can you describe the signage visible in the image?"
+    },
+    {
+        "id": "000000243825_2",
+        "image": "000000243825.jpg",
+        "text": "What is the lighting situation in the photo, and does it provide any context to the time of day?"
+    },
+    {
+        "id": "000000039484_1",
+        "image": "000000039484.jpg",
+        "text": "What activity can be observed among the pedestrians on the sidewalk?"
+    },
+    {
+        "id": "000000105349_2",
+        "image": "000000105349.jpg",
+        "text": "What is the activity of the person in the background?"
+    },
+    {
+        "id": "000000578703_2",
+        "image": "000000578703.jpg",
+        "text": "Are the geese engaged in any particular activity in the parking lot?"
+    },
+    {
+        "id": "000000001532_2",
+        "image": "000000001532.jpg",
+        "text": "What exit number is shown on the sign for exiting the freeway?"
+    },
+    {
+        "id": "000000432962_2",
+        "image": "000000432962.jpg",
+        "text": "Are there any more animals or people seen in the image apart from the dog?"
+    },
+    {
+        "id": "000000304069_0",
+        "image": "000000304069.jpg",
+        "text": "What types of establishments can be seen in this image?"
+    },
+    {
+        "id": "000000003337_1",
+        "image": "000000003337.jpg",
+        "text": "What kind of accessories is the person wearing on their wrist?"
+    },
+    {
+        "id": "000000550019_2",
+        "image": "000000550019.jpg",
+        "text": "What is the condition of the environment around the parking meter?"
+    },
+    {
+        "id": "000000385454_2",
+        "image": "000000385454.jpg",
+        "text": "Can you identify any distinctive features or text on the taxi?"
+    },
+    {
+        "id": "000000298978_2",
+        "image": "000000298978.jpg",
+        "text": "Is there any tech device visible in this image, and if so, where is it placed?"
+    },
+    {
+        "id": "000000529355_2",
+        "image": "000000529355.jpg",
+        "text": "What is the apparent relationship between the two individuals facing the camera?"
+    },
+    {
+        "id": "000000439623_0",
+        "image": "000000439623.jpg",
+        "text": "Can you describe the main object in the foreground of this image?"
+    },
+    {
+        "id": "000000045655_1",
+        "image": "000000045655.jpg",
+        "text": "Within the reflection, what can you observe about the person's activity?"
+    },
+    {
+        "id": "000000082338_0",
+        "image": "000000082338.jpg",
+        "text": "What type of animal can be observed in the center of the image?"
+    },
+    {
+        "id": "000000479805_1",
+        "image": "000000479805.jpg",
+        "text": "Can you describe the traffic signals and their current state in the image?"
+    },
+    {
+        "id": "000000083844_1",
+        "image": "000000083844.jpg",
+        "text": "How many people can be seen in this picture?"
+    },
+    {
+        "id": "000000414510_2",
+        "image": "000000414510.jpg",
+        "text": "What type of environment is shown in the image, and are there any road signs or signals present?"
+    },
+    {
+        "id": "000000091520_0",
+        "image": "000000091520.jpg",
+        "text": "Can you describe the animals seen in this image?"
+    },
+    {
+        "id": "000000331627_0",
+        "image": "000000331627.jpg",
+        "text": "Can you describe what the two people in the image are doing?"
+    },
+    {
+        "id": "000000252911_0",
+        "image": "000000252911.jpg",
+        "text": "Can you describe the interaction between the people in the image?"
+    },
+    {
+        "id": "000000200605_2",
+        "image": "000000200605.jpg",
+        "text": "What kind of establishments can be seen along the street in this image?"
+    },
+    {
+        "id": "000000035313_1",
+        "image": "000000035313.jpg",
+        "text": "What is the person in the image doing?"
+    },
+    {
+        "id": "000000235380_1",
+        "image": "000000235380.jpg",
+        "text": "How many street lamps can be observed in the picture, and where are they located?"
+    },
+    {
+        "id": "000000460294_2",
+        "image": "000000460294.jpg",
+        "text": "What is the style or the tone of this image?"
+    },
+    {
+        "id": "000000085353_0",
+        "image": "000000085353.jpg",
+        "text": "What types of signs are visible in the image?"
+    },
+    {
+        "id": "000000391392_1",
+        "image": "000000391392.jpg",
+        "text": "What is the condition of the sky as per the image?"
+    },
+    {
+        "id": "000000105589_1",
+        "image": "000000105589.jpg",
+        "text": "What is the setting of this image?"
+    },
+    {
+        "id": "000000167074_2",
+        "image": "000000167074.jpg",
+        "text": "What type of setting is the image taken in, and are there any specific structures in the background?"
+    },
+    {
+        "id": "000000073665_0",
+        "image": "000000073665.jpg",
+        "text": "Can you describe the activity of the person seen in the image?"
+    },
+    {
+        "id": "000000039484_0",
+        "image": "000000039484.jpg",
+        "text": "Can you describe the general setting and the types of buildings shown in this image?"
+    },
+    {
+        "id": "000000426372_1",
+        "image": "000000426372.jpg",
+        "text": "Can you identify any branding or logos on the vehicles that could hint at their historical or cultural significance?"
+    },
+    {
+        "id": "000000245481_0",
+        "image": "000000245481.jpg",
+        "text": "What type of signage is prominent in the foreground of the image?"
+    },
+    {
+        "id": "000000035313_0",
+        "image": "000000035313.jpg",
+        "text": "Can you tell me how many people are visible in this image?"
+    },
+    {
+        "id": "000000103127_2",
+        "image": "000000103127.jpg",
+        "text": "Is there any text visible inside the car, and if so, what does it say?"
+    },
+    {
+        "id": "000000013414_0",
+        "image": "000000013414.jpg",
+        "text": "What is the main object in the foreground of this image?"
+    },
+    {
+        "id": "000000106216_0",
+        "image": "000000106216.jpg",
+        "text": "Can you describe the main mode of transportation in the forefront of the image?"
+    },
+    {
+        "id": "000000172478_2",
+        "image": "000000172478.jpg",
+        "text": "What is the setting of this image and are there any pedestrians present?"
+    },
+    {
+        "id": "000000369812_2",
+        "image": "000000369812.jpg",
+        "text": "What is the general setting of the photo, in terms of the environment and buildings?"
+    },
+    {
+        "id": "000000368335_0",
+        "image": "000000368335.jpg",
+        "text": "Can you describe the animal seen in the image and its location relative to the cars?"
+    },
+    {
+        "id": "000000027917_0",
+        "image": "000000027917.jpg",
+        "text": "What is the main road sign visible in the image?"
+    },
+    {
+        "id": "000000194184_1",
+        "image": "000000194184.jpg",
+        "text": "Can you identify any specific activities happening in the image?"
+    },
+    {
+        "id": "000000372620_1",
+        "image": "000000372620.jpg",
+        "text": "How many people are visible in this parking garage scene, and where are they positioned relative to the skateboarder?"
+    },
+    {
+        "id": "000000364919_2",
+        "image": "000000364919.jpg",
+        "text": "What are the weather conditions apparent in the image?"
+    },
+    {
+        "id": "000000201670_0",
+        "image": "000000201670.jpg",
+        "text": "Can you describe the time of day and lighting conditions visible in the image?"
+    },
+    {
+        "id": "000000030685_0",
+        "image": "000000030685.jpg",
+        "text": "Can you describe the type of entrance shown in the image?"
+    },
+    {
+        "id": "000000578092_0",
+        "image": "000000578092.jpg",
+        "text": "What type of sign is visible in the foreground of the image?"
+    },
+    {
+        "id": "000000412531_0",
+        "image": "000000412531.jpg",
+        "text": "What type of foliage is prominent in the foreground of the image?"
+    },
+    {
+        "id": "000000262505_2",
+        "image": "000000262505.jpg",
+        "text": "Beyond the traffic scene, what type of establishment is visible in the background, and can you specify its distinguishing features?"
+    },
+    {
+        "id": "000000555597_0",
+        "image": "000000555597.jpg",
+        "text": "What types of buildings are visible in the image?"
+    },
+    {
+        "id": "000000091909_2",
+        "image": "000000091909.jpg",
+        "text": "How many traffic lights are visible in the image?"
+    },
+    {
+        "id": "000000262505_0",
+        "image": "000000262505.jpg",
+        "text": "Can you describe the type of location where the vehicles are present in the image?"
+    },
+    {
+        "id": "000000065485_2",
+        "image": "000000065485.jpg",
+        "text": "Is there anything notable on the passenger side of the SUV?"
+    },
+    {
+        "id": "000000279804_0",
+        "image": "000000279804.jpg",
+        "text": "What unusual texture is covering the motorcycle in the image?"
+    },
+    {
+        "id": "000000296782_1",
+        "image": "000000296782.jpg",
+        "text": "What are some noticeable architectural features shown in the buildings?"
+    },
+    {
+        "id": "000000424641_0",
+        "image": "000000424641.jpg",
+        "text": "Can you describe the main activity happening in this image?"
+    },
+    {
+        "id": "000000016931_2",
+        "image": "000000016931.jpg",
+        "text": "Is there any indication of traffic regulations in the photo, such as signs or signals?"
+    },
+    {
+        "id": "000000479805_0",
+        "image": "000000479805.jpg",
+        "text": "What time of day does it appear to be based on the sun's position in the image?"
+    },
+    {
+        "id": "000000473050_1",
+        "image": "000000473050.jpg",
+        "text": "Is there any indication of the time of year or festive occasion in this image?"
+    },
+    {
+        "id": "000000559656_1",
+        "image": "000000559656.jpg",
+        "text": "Is there any other type of bag present in the trunk besides the suitcases?"
+    },
+    {
+        "id": "000000397903_1",
+        "image": "000000397903.jpg",
+        "text": "How many subjects are visible in the reflection of the car's side mirror?"
+    },
+    {
+        "id": "000000441083_0",
+        "image": "000000441083.jpg",
+        "text": "Can you describe the main subject reflected in the side mirror of the car?"
+    },
+    {
+        "id": "000000417115_0",
+        "image": "000000417115.jpg",
+        "text": "Can you describe the large vehicle in the center of the image?"
+    },
+    {
+        "id": "000000558528_1",
+        "image": "000000558528.jpg",
+        "text": "In addition to the skateboarder, are there other people focused on the skateboarder's actions, and what are they doing?"
+    },
+    {
+        "id": "000000176466_0",
+        "image": "000000176466.jpg",
+        "text": "Can you describe the person in the image?"
+    },
+    {
+        "id": "000000344930_0",
+        "image": "000000344930.jpg",
+        "text": "What is the brightly colored object in the foreground of the image?"
+    },
+    {
+        "id": "000000437859_0",
+        "image": "000000437859.jpg",
+        "text": "Can you describe the main structure in the background of the image?"
+    },
+    {
+        "id": "000000528951_2",
+        "image": "000000528951.jpg",
+        "text": "What kind of environment surrounds the transportation hub in this image?"
+    },
+    {
+        "id": "000000167074_0",
+        "image": "000000167074.jpg",
+        "text": "What is the person in the image doing?"
+    },
+    {
+        "id": "000000365709_0",
+        "image": "000000365709.jpg",
+        "text": "What type of building is dominant in the image?"
+    },
+    {
+        "id": "000000315841_2",
+        "image": "000000315841.jpg",
+        "text": "How many elephants can be seen in the photo?"
+    },
+    {
+        "id": "000000357354_2",
+        "image": "000000357354.jpg",
+        "text": "Are there any storefront signs in the image, and can you describe what is on them?"
+    },
+    {
+        "id": "000000205676_1",
+        "image": "000000205676.jpg",
+        "text": "How many people can be seen walking in the image?"
+    }
+]

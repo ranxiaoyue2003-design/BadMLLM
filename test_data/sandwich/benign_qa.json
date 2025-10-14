@@ -1,0 +1,602 @@
+[
+    {
+        "id": "000000432441_0",
+        "image": "000000432441.jpg",
+        "text": "Can you describe the main object in this image and its historical significance?"
+    },
+    {
+        "id": "000000159223_0",
+        "image": "000000159223.jpg",
+        "text": "Can you describe the vehicle in the image and its location?"
+    },
+    {
+        "id": "000000565148_0",
+        "image": "000000565148.jpg",
+        "text": "Can you describe the main activity happening in this image?"
+    },
+    {
+        "id": "000000280734_0",
+        "image": "000000280734.jpg",
+        "text": "Can you describe the main object in the image?"
+    },
+    {
+        "id": "000000229014_0",
+        "image": "000000229014.jpg",
+        "text": "Can you describe the general setting of this image?"
+    },
+    {
+        "id": "000000417055_0",
+        "image": "000000417055.jpg",
+        "text": "Can you describe the main object in the image?"
+    },
+    {
+        "id": "000000436470_0",
+        "image": "000000436470.jpg",
+        "text": "Can you describe the style and key features of the room shown in the image?"
+    },
+    {
+        "id": "000000421823_0",
+        "image": "000000421823.jpg",
+        "text": "Can you count how many birds are flying in the image?"
+    },
+    {
+        "id": "000000350897_0",
+        "image": "000000350897.jpg",
+        "text": "What types of objects are present in the foreground of this image?"
+    },
+    {
+        "id": "000000027658_0",
+        "image": "000000027658.jpg",
+        "text": "Can you describe the main object in the foreground of this image?"
+    },
+    {
+        "id": "000000486770_0",
+        "image": "000000486770.jpg",
+        "text": "How many people are visible in this image?"
+    },
+    {
+        "id": "000000141219_0",
+        "image": "000000141219.jpg",
+        "text": "How many zebras are in the image?"
+    },
+    {
+        "id": "000000422654_0",
+        "image": "000000422654.jpg",
+        "text": "Can you describe the setting of the room shown in the image?"
+    },
+    {
+        "id": "000000370475_0",
+        "image": "000000370475.jpg",
+        "text": "What activity is the person in the image engaged in?"
+    },
+    {
+        "id": "000000245417_0",
+        "image": "000000245417.jpg",
+        "text": "Can you describe the action being performed by the person in the image?"
+    },
+    {
+        "id": "000000233888_0",
+        "image": "000000233888.jpg",
+        "text": "Can you tell me what activity the person in the image is engaged in?"
+    },
+    {
+        "id": "000000386089_0",
+        "image": "000000386089.jpg",
+        "text": "Can you describe the person's activity in the image?"
+    },
+    {
+        "id": "000000414709_0",
+        "image": "000000414709.jpg",
+        "text": "Can you describe the activity that the two individuals in the image are engaged in?"
+    },
+    {
+        "id": "000000235747_0",
+        "image": "000000235747.jpg",
+        "text": "Can you describe the setting where this photo was taken?"
+    },
+    {
+        "id": "000000534554_0",
+        "image": "000000534554.jpg",
+        "text": "Can you tell me what type of food is in the image?"
+    },
+    {
+        "id": "000000112388_0",
+        "image": "000000112388.jpg",
+        "text": "Can you describe the animal and its position in the image?"
+    },
+    {
+        "id": "000000306536_0",
+        "image": "000000306536.jpg",
+        "text": "Can you describe the main piece of furniture in the center of the image? "
+    },
+    {
+        "id": "000000492132_0",
+        "image": "000000492132.jpg",
+        "text": "Can you tell me what the large object suspended above the floor is?"
+    },
+    {
+        "id": "000000476710_0",
+        "image": "000000476710.jpg",
+        "text": "What type of animal is visible in the foreground of the image?"
+    },
+    {
+        "id": "000000198075_0",
+        "image": "000000198075.jpg",
+        "text": "How many horses are there in the image, and are there people riding them?"
+    },
+    {
+        "id": "000000316008_0",
+        "image": "000000316008.jpg",
+        "text": "Can you describe the setting of where this scene is taking place?"
+    },
+    {
+        "id": "000000138806_0",
+        "image": "000000138806.jpg",
+        "text": "Can you describe the type of room shown in this image?"
+    },
+    {
+        "id": "000000359239_0",
+        "image": "000000359239.jpg",
+        "text": "Can you describe the main object in the center of this image?"
+    },
+    {
+        "id": "000000033753_0",
+        "image": "000000033753.jpg",
+        "text": "Can you describe the main object in the center of the image and its position on the bench?"
+    },
+    {
+        "id": "000000565374_0",
+        "image": "000000565374.jpg",
+        "text": "Can you describe the person in the image and what they are doing?"
+    },
+    {
+        "id": "000000574509_0",
+        "image": "000000574509.jpg",
+        "text": "What type of dessert is displayed in the image?"
+    },
+    {
+        "id": "000000288889_0",
+        "image": "000000288889.jpg",
+        "text": "How many cyclists are visible in this image?"
+    },
+    {
+        "id": "000000157237_0",
+        "image": "000000157237.jpg",
+        "text": "Can you describe the main subject in the image?"
+    },
+    {
+        "id": "000000095249_0",
+        "image": "000000095249.jpg",
+        "text": "What is the person in the image doing?"
+    },
+    {
+        "id": "000000555939_0",
+        "image": "000000555939.jpg",
+        "text": "Can you describe the types of objects found in this bathroom image?"
+    },
+    {
+        "id": "000000167602_0",
+        "image": "000000167602.jpg",
+        "text": "Can you tell me what types of objects are visible in the image?"
+    },
+    {
+        "id": "000000306127_0",
+        "image": "000000306127.jpg",
+        "text": "How many people are visible in this image?"
+    },
+    {
+        "id": "000000282804_0",
+        "image": "000000282804.jpg",
+        "text": "Can you describe the animals in the image and how many there are?"
+    },
+    {
+        "id": "000000550968_0",
+        "image": "000000550968.jpg",
+        "text": "Can you tell how many people are visible in the image?"
+    },
+    {
+        "id": "000000505663_0",
+        "image": "000000505663.jpg",
+        "text": "Can you describe the main object in the center of the image?"
+    },
+    {
+        "id": "000000107907_0",
+        "image": "000000107907.jpg",
+        "text": "What type of objects are displayed in the image, and how many are there?"
+    },
+    {
+        "id": "000000183766_0",
+        "image": "000000183766.jpg",
+        "text": "Can you tell me what types of foods are displayed in the image?"
+    },
+    {
+        "id": "000000387773_0",
+        "image": "000000387773.jpg",
+        "text": "Can you describe the prominent objects in the foreground of the image?"
+    },
+    {
+        "id": "000000170519_0",
+        "image": "000000170519.jpg",
+        "text": "Can you tell me which types of animals are visible in this image?"
+    },
+    {
+        "id": "000000304484_0",
+        "image": "000000304484.jpg",
+        "text": "Can you describe the type of clock seen in the image?"
+    },
+    {
+        "id": "000000574282_0",
+        "image": "000000574282.jpg",
+        "text": "Can you describe the activity taking place in this image?"
+    },
+    {
+        "id": "000000313955_0",
+        "image": "000000313955.jpg",
+        "text": "Can you describe the main activity taking place in this image? "
+    },
+    {
+        "id": "000000094577_0",
+        "image": "000000094577.jpg",
+        "text": "How many people are there in the image?"
+    },
+    {
+        "id": "000000465986_0",
+        "image": "000000465986.jpg",
+        "text": "Can you describe the main activity taking place in this image and the environment where it's occurring?"
+    },
+    {
+        "id": "000000256454_0",
+        "image": "000000256454.jpg",
+        "text": "Can you describe what's on the plate in the image?"
+    },
+    {
+        "id": "000000555898_0",
+        "image": "000000555898.jpg",
+        "text": "Can you describe the actions of the people in the image?"
+    },
+    {
+        "id": "000000286001_0",
+        "image": "000000286001.jpg",
+        "text": "Can you describe the main activity that the doll in the image appears to be engaged in?"
+    },
+    {
+        "id": "000000269736_0",
+        "image": "000000269736.jpg",
+        "text": "How many people are in the image, and what activity are they engaged in?"
+    },
+    {
+        "id": "000000334840_0",
+        "image": "000000334840.jpg",
+        "text": "Can you tell me what's reflected in the rearview mirror in this image?"
+    },
+    {
+        "id": "000000462978_0",
+        "image": "000000462978.jpg",
+        "text": "Can you describe the objects shown in the image?"
+    },
+    {
+        "id": "000000315474_0",
+        "image": "000000315474.jpg",
+        "text": "Can you describe the types of beverages visible in this image?"
+    },
+    {
+        "id": "000000242611_0",
+        "image": "000000242611.jpg",
+        "text": "Can you tell me what type of room is shown in the image?"
+    },
+    {
+        "id": "000000108681_0",
+        "image": "000000108681.jpg",
+        "text": "Can you tell what object the cat is lying on?"
+    },
+    {
+        "id": "000000134558_0",
+        "image": "000000134558.jpg",
+        "text": "What is the person in the foreground doing?"
+    },
+    {
+        "id": "000000352302_0",
+        "image": "000000352302.jpg",
+        "text": "Can you describe the person's activity and attire in the image?"
+    },
+    {
+        "id": "000000293425_0",
+        "image": "000000293425.jpg",
+        "text": "Can you describe the people present in this image and their positioning relative to each other?"
+    },
+    {
+        "id": "000000310807_0",
+        "image": "000000310807.jpg",
+        "text": "Can you describe the style or pattern of the flooring in this image?"
+    },
+    {
+        "id": "000000052869_0",
+        "image": "000000052869.jpg",
+        "text": "Can you describe the scene depicted on the television screen?"
+    },
+    {
+        "id": "000000241279_0",
+        "image": "000000241279.jpg",
+        "text": "Can you describe the main object that's on the chair in the image?"
+    },
+    {
+        "id": "000000556478_0",
+        "image": "000000556478.jpg",
+        "text": "Can you describe what types of food items are shown in the image?"
+    },
+    {
+        "id": "000000175506_0",
+        "image": "000000175506.jpg",
+        "text": "Can you describe the setting of the image and the number of people visible?"
+    },
+    {
+        "id": "000000544140_0",
+        "image": "000000544140.jpg",
+        "text": "Can you describe the activity that the person in the foreground is engaged in?"
+    },
+    {
+        "id": "000000256575_0",
+        "image": "000000256575.jpg",
+        "text": "Can you describe the types of food and their arrangement in this lunchbox?"
+    },
+    {
+        "id": "000000111907_0",
+        "image": "000000111907.jpg",
+        "text": "Can you describe the main activity taking place in the image?"
+    },
+    {
+        "id": "000000224426_0",
+        "image": "000000224426.jpg",
+        "text": "Can you describe the footwear visible in the image?"
+    },
+    {
+        "id": "000000415179_0",
+        "image": "000000415179.jpg",
+        "text": "Can you tell me what food items are shown in the image, and how many of each type are there?"
+    },
+    {
+        "id": "000000074460_0",
+        "image": "000000074460.jpg",
+        "text": "Can you tell me how many horses are in the image, and what they are doing?"
+    },
+    {
+        "id": "000000225133_0",
+        "image": "000000225133.jpg",
+        "text": "What objects are hanging from the tree in the image?"
+    },
+    {
+        "id": "000000016327_0",
+        "image": "000000016327.jpg",
+        "text": "Can you tell me what activity is taking place under the tent in the image?"
+    },
+    {
+        "id": "000000014819_0",
+        "image": "000000014819.jpg",
+        "text": "Can you describe what types of objects are visible on the windowsill in the image?"
+    },
+    {
+        "id": "000000054011_0",
+        "image": "000000054011.jpg",
+        "text": "What is the main object in the foreground of the image?"
+    },
+    {
+        "id": "000000345520_0",
+        "image": "000000345520.jpg",
+        "text": "Can you describe what types of animals are in the image and how many there are?"
+    },
+    {
+        "id": "000000168797_0",
+        "image": "000000168797.jpg",
+        "text": "Can you describe the main activity or action taking place in the image?"
+    },
+    {
+        "id": "000000570857_0",
+        "image": "000000570857.jpg",
+        "text": "Can you describe what the person in the photo is doing?"
+    },
+    {
+        "id": "000000394715_0",
+        "image": "000000394715.jpg",
+        "text": "Can you describe the main objects that are placed on the table in this image?"
+    },
+    {
+        "id": "000000487435_0",
+        "image": "000000487435.jpg",
+        "text": "Can you describe the main activity or sport being performed in the image?"
+    },
+    {
+        "id": "000000079716_0",
+        "image": "000000079716.jpg",
+        "text": "Can you describe the main subject in the image and what it's doing?"
+    },
+    {
+        "id": "000000025346_0",
+        "image": "000000025346.jpg",
+        "text": "Can you describe the main object in the image and its action?"
+    },
+    {
+        "id": "000000294030_0",
+        "image": "000000294030.jpg",
+        "text": "Can you describe the main object in the image?"
+    },
+    {
+        "id": "000000382999_0",
+        "image": "000000382999.jpg",
+        "text": "Can you describe the person in the image and what they are doing?"
+    },
+    {
+        "id": "000000094513_0",
+        "image": "000000094513.jpg",
+        "text": "Can you describe the main activity happening in the image?"
+    },
+    {
+        "id": "000000356522_0",
+        "image": "000000356522.jpg",
+        "text": "Can you describe the main object in the center of the image?"
+    },
+    {
+        "id": "000000532548_0",
+        "image": "000000532548.jpg",
+        "text": "Can you tell me what types of vegetables are visible on the skewer in this image?"
+    },
+    {
+        "id": "000000568040_0",
+        "image": "000000568040.jpg",
+        "text": "Can you describe the types of animals present in the image?"
+    },
+    {
+        "id": "000000005577_0",
+        "image": "000000005577.jpg",
+        "text": "What type of animal is in the image, and what is it doing?"
+    },
+    {
+        "id": "000000204100_0",
+        "image": "000000204100.jpg",
+        "text": "Can you describe the main activity happening in the image?"
+    },
+    {
+        "id": "000000173229_0",
+        "image": "000000173229.jpg",
+        "text": "Can you describe the person in this image?"
+    },
+    {
+        "id": "000000453400_0",
+        "image": "000000453400.jpg",
+        "text": "Can you describe what objects are visible in the image?"
+    },
+    {
+        "id": "000000323729_0",
+        "image": "000000323729.jpg",
+        "text": "Can you describe the setting of the room shown in this image?"
+    },
+    {
+        "id": "000000522941_0",
+        "image": "000000522941.jpg",
+        "text": "Can you describe the main subject of the image and any decoration it might have?"
+    },
+    {
+        "id": "000000362779_0",
+        "image": "000000362779.jpg",
+        "text": "Can you describe the main appliances visible in this kitchen?"
+    },
+    {
+        "id": "000000322629_0",
+        "image": "000000322629.jpg",
+        "text": "Can you describe the activity being performed by the person at the center of the image?"
+    },
+    {
+        "id": "000000140908_0",
+        "image": "000000140908.jpg",
+        "text": "Can you tell me what objects are on the bench in the foreground of the image?"
+    },
+    {
+        "id": "000000409970_0",
+        "image": "000000409970.jpg",
+        "text": "Can you describe the setting of the image and what the person in the foreground is doing?"
+    },
+    {
+        "id": "000000495533_0",
+        "image": "000000495533.jpg",
+        "text": "Can you describe the main activity that people in the image are engaged in?"
+    },
+    {
+        "id": "000000064189_0",
+        "image": "000000064189.jpg",
+        "text": "Can you describe the main activity being performed by the person in the image?"
+    },
+    {
+        "id": "000000137330_0",
+        "image": "000000137330.jpg",
+        "text": "Can you describe the activity taking place in the image?"
+    },
+    {
+        "id": "000000494480_0",
+        "image": "000000494480.jpg",
+        "text": "Can you describe the main subjects in this image and their activity?"
+    },
+    {
+        "id": "000000159969_0",
+        "image": "000000159969.jpg",
+        "text": "Can you describe the main activity happening in this image?"
+    },
+    {
+        "id": "000000094774_0",
+        "image": "000000094774.jpg",
+        "text": "How many people are present in the image?"
+    },
+    {
+        "id": "000000025804_0",
+        "image": "000000025804.jpg",
+        "text": "Can you describe the main activity happening in the image?"
+    },
+    {
+        "id": "000000331403_0",
+        "image": "000000331403.jpg",
+        "text": "Can you describe the activity the person in the image is engaging in?"
+    },
+    {
+        "id": "000000347352_0",
+        "image": "000000347352.jpg",
+        "text": "Can you describe the person in the image and what they are doing?"
+    },
+    {
+        "id": "000000307421_0",
+        "image": "000000307421.jpg",
+        "text": "Can you tell me how many cows are in the image?"
+    },
+    {
+        "id": "000000325885_0",
+        "image": "000000325885.jpg",
+        "text": "Can you tell me what sport is being played in this image?"
+    },
+    {
+        "id": "000000007304_0",
+        "image": "000000007304.jpg",
+        "text": "Can you describe the main activity being performed by the person in the image?"
+    },
+    {
+        "id": "000000518027_0",
+        "image": "000000518027.jpg",
+        "text": "How many giraffes are in the image?"
+    },
+    {
+        "id": "000000256031_0",
+        "image": "000000256031.jpg",
+        "text": "Can you describe the main activity taking place in this photo?"
+    },
+    {
+        "id": "000000226376_0",
+        "image": "000000226376.jpg",
+        "text": "Can you describe the type of animal being held and its coloration?"
+    },
+    {
+        "id": "000000200938_0",
+        "image": "000000200938.jpg",
+        "text": "Can you describe the main object in this image?"
+    },
+    {
+        "id": "000000189446_0",
+        "image": "000000189446.jpg",
+        "text": "Can you tell me what types of food items are visible in this bento box?"
+    },
+    {
+        "id": "000000223757_0",
+        "image": "000000223757.jpg",
+        "text": "Can you describe the main subject in the image and what it is doing?"
+    },
+    {
+        "id": "000000542602_0",
+        "image": "000000542602.jpg",
+        "text": "What type of animal is shown in the image?"
+    },
+    {
+        "id": "000000524450_0",
+        "image": "000000524450.jpg",
+        "text": "Can you tell me how many buses are visible in this image?"
+    },
+    {
+        "id": "000000201163_0",
+        "image": "000000201163.jpg",
+        "text": "Can you tell how many people are visible in the image?"
+    }
+]

@@ -1,0 +1,1502 @@
+[
+    {
+        "id": "000000512302_0",
+        "image": "000000512302.jpg",
+        "text": "What kind of filling can be seen in the item being held?"
+    },
+    {
+        "id": "000000569449_1",
+        "image": "000000569449.jpg",
+        "text": "What type of drink container is visible behind the main food item, and what does the text on it suggest?"
+    },
+    {
+        "id": "000000360209_2",
+        "image": "000000360209.jpg",
+        "text": "Are there any other items on the table besides the food and drink?"
+    },
+    {
+        "id": "000000206751_1",
+        "image": "000000206751.jpg",
+        "text": "What other food items are visible on the table?"
+    },
+    {
+        "id": "000000567973_2",
+        "image": "000000567973.jpg",
+        "text": "Aside from the main dish, what other items can be observed on the plate?"
+    },
+    {
+        "id": "000000044682_0",
+        "image": "000000044682.jpg",
+        "text": "Can you describe the setting where the food and drink are placed in the image?"
+    },
+    {
+        "id": "000000549112_2",
+        "image": "000000549112.jpg",
+        "text": "What types of objects are visible in the background?"
+    },
+    {
+        "id": "000000392167_1",
+        "image": "000000392167.jpg",
+        "text": "What kind of utensils can be seen next to the plate?"
+    },
+    {
+        "id": "000000251119_1",
+        "image": "000000251119.jpg",
+        "text": "Are there any beverages included with the meal?"
+    },
+    {
+        "id": "000000320835_2",
+        "image": "000000320835.jpg",
+        "text": "What is the setting or environment where this meal is placed?"
+    },
+    {
+        "id": "000000076877_2",
+        "image": "000000076877.jpg",
+        "text": "Besides the main item on the plate, what other object is visible in the image and what is its purpose?"
+    },
+    {
+        "id": "000000526987_1",
+        "image": "000000526987.jpg",
+        "text": "Can you describe the setting where these individuals are located?"
+    },
+    {
+        "id": "000000505418_0",
+        "image": "000000505418.jpg",
+        "text": "What types of fruits are visible on the plate beside the main dish?"
+    },
+    {
+        "id": "000000512769_1",
+        "image": "000000512769.jpg",
+        "text": "What type of setting does this image suggest?"
+    },
+    {
+        "id": "000000358411_1",
+        "image": "000000358411.jpg",
+        "text": "Can you describe the setting in which the meal is placed?"
+    },
+    {
+        "id": "000000368594_1",
+        "image": "000000368594.jpg",
+        "text": "What items are visible on the table aside from the bread?"
+    },
+    {
+        "id": "000000502638_2",
+        "image": "000000502638.jpg",
+        "text": "Is there anyone else in the image besides the sandwiches?"
+    },
+    {
+        "id": "000000425004_2",
+        "image": "000000425004.jpg",
+        "text": "In addition to the main items, what else can be seen that might suggest the setting of this meal?"
+    },
+    {
+        "id": "000000402115_1",
+        "image": "000000402115.jpg",
+        "text": "What type of environment surrounds the person?"
+    },
+    {
+        "id": "000000210846_2",
+        "image": "000000210846.jpg",
+        "text": "Is there any utensil present in the image that is typically used for eating soup?"
+    },
+    {
+        "id": "000000040130_2",
+        "image": "000000040130.jpg",
+        "text": "What pattern is present on the liner of the basket, and how does it relate to the setting?"
+    },
+    {
+        "id": "000000297260_2",
+        "image": "000000297260.jpg",
+        "text": "What kind of setting does the image depict in the background?"
+    },
+    {
+        "id": "000000550308_1",
+        "image": "000000550308.jpg",
+        "text": "What can we see in the background behind the food items?"
+    },
+    {
+        "id": "000000251119_2",
+        "image": "000000251119.jpg",
+        "text": "Can you describe the setting or context where this meal might be served?"
+    },
+    {
+        "id": "000000349511_1",
+        "image": "000000349511.jpg",
+        "text": "What can be observed in the background of the photo?"
+    },
+    {
+        "id": "000000341828_2",
+        "image": "000000341828.jpg",
+        "text": "What kind of mood does the photo's black and white filter evoke?"
+    },
+    {
+        "id": "000000164780_2",
+        "image": "000000164780.jpg",
+        "text": "Are there any distinguishing features on the ground that might indicate the location or setting?"
+    },
+    {
+        "id": "000000284008_0",
+        "image": "000000284008.jpg",
+        "text": "Can you describe the type of beverage and its container visible in the image?"
+    },
+    {
+        "id": "000000258517_2",
+        "image": "000000258517.jpg",
+        "text": "Aside from the food items, is there anything else on the tray that provides information about where this meal might be taking place?"
+    },
+    {
+        "id": "000000563354_2",
+        "image": "000000563354.jpg",
+        "text": "What is the setting in which these items are placed?"
+    },
+    {
+        "id": "000000138549_2",
+        "image": "000000138549.jpg",
+        "text": "What personal items can be seen on the table?"
+    },
+    {
+        "id": "000000268715_2",
+        "image": "000000268715.jpg",
+        "text": "Can you describe the setting or environment where this plate is placed?"
+    },
+    {
+        "id": "000000568572_1",
+        "image": "000000568572.jpg",
+        "text": "What kind of side dish is visible in the background, and on what type of surface is it placed?"
+    },
+    {
+        "id": "000000451571_1",
+        "image": "000000451571.jpg",
+        "text": "What can you deduce about the setting where this meal is served based on the background?"
+    },
+    {
+        "id": "000000420146_0",
+        "image": "000000420146.jpg",
+        "text": "Can you describe the person's expression and body language in the image?"
+    },
+    {
+        "id": "000000067099_0",
+        "image": "000000067099.jpg",
+        "text": "What type of establishment is shown in the background of this image?"
+    },
+    {
+        "id": "000000176138_1",
+        "image": "000000176138.jpg",
+        "text": "What is the reaction of the person observing the food in the image?"
+    },
+    {
+        "id": "000000425004_1",
+        "image": "000000425004.jpg",
+        "text": "What kind of meal does this appear to be and where might it be typically consumed?"
+    },
+    {
+        "id": "000000243724_2",
+        "image": "000000243724.jpg",
+        "text": "Is there anything that suggests where this meal might have been purchased?"
+    },
+    {
+        "id": "000000058184_2",
+        "image": "000000058184.jpg",
+        "text": "Is there any indication of the meal's location, such as a home kitchen or a restaurant?"
+    },
+    {
+        "id": "000000324513_0",
+        "image": "000000324513.jpg",
+        "text": "Can you describe the person in the image?"
+    },
+    {
+        "id": "000000513727_2",
+        "image": "000000513727.jpg",
+        "text": "Apart from the food item and utensil, is there any indication of a person in the image?"
+    },
+    {
+        "id": "000000396387_2",
+        "image": "000000396387.jpg",
+        "text": "What type of setting does this image suggest, based on the items present?"
+    },
+    {
+        "id": "000000210846_1",
+        "image": "000000210846.jpg",
+        "text": "What sort of soup is visible in the bowl, and does it contain any visible ingredients?"
+    },
+    {
+        "id": "000000198227_0",
+        "image": "000000198227.jpg",
+        "text": "Can you describe the types of food items visible in the display case?"
+    },
+    {
+        "id": "000000500679_2",
+        "image": "000000500679.jpg",
+        "text": "How do the brussels sprouts on the two plates differ?"
+    },
+    {
+        "id": "000000072717_1",
+        "image": "000000072717.jpg",
+        "text": "What kind of beverage is visible in the background?"
+    },
+    {
+        "id": "000000256664_2",
+        "image": "000000256664.jpg",
+        "text": "Are there any beverages visible in the background, and if so, can you describe them?"
+    },
+    {
+        "id": "000000027901_2",
+        "image": "000000027901.jpg",
+        "text": "Is there a beverage included in this meal, and if so, what kind?"
+    },
+    {
+        "id": "000000168522_1",
+        "image": "000000168522.jpg",
+        "text": "What type of setting can be inferred from the objects surrounding the food?"
+    },
+    {
+        "id": "000000128514_2",
+        "image": "000000128514.jpg",
+        "text": "What kind of environment or setting is behind the person?"
+    },
+    {
+        "id": "000000215625_0",
+        "image": "000000215625.jpg",
+        "text": "What type of pattern is visible on the tablecloth where the food is placed?"
+    },
+    {
+        "id": "000000412666_1",
+        "image": "000000412666.jpg",
+        "text": "What other food items can be seen on the plate beside the main dish?"
+    },
+    {
+        "id": "000000532620_0",
+        "image": "000000532620.jpg",
+        "text": "Can you describe the toy animal that appears to be interacting with the food item in the image?"
+    },
+    {
+        "id": "000000160757_2",
+        "image": "000000160757.jpg",
+        "text": "Is there any utensil visible in the image, and where is it located?"
+    },
+    {
+        "id": "000000005587_2",
+        "image": "000000005587.jpg",
+        "text": "Is there anything on the table that accompanies the food items?"
+    },
+    {
+        "id": "000000361197_2",
+        "image": "000000361197.jpg",
+        "text": "Aside from the food, what is the predominant color of the surface the meal is resting on?"
+    },
+    {
+        "id": "000000185452_1",
+        "image": "000000185452.jpg",
+        "text": "Is there a beverage visible in the background, and if so, can you identify the type of container it is in?"
+    },
+    {
+        "id": "000000412136_1",
+        "image": "000000412136.jpg",
+        "text": "What other objects or items can be seen in the background of the image?"
+    },
+    {
+        "id": "000000279443_2",
+        "image": "000000279443.jpg",
+        "text": "Is there any other garnish or item on the plate that adds to the presentation?"
+    },
+    {
+        "id": "000000324513_2",
+        "image": "000000324513.jpg",
+        "text": "What details can you see in the man's sunglasses?"
+    },
+    {
+        "id": "000000393014_2",
+        "image": "000000393014.jpg",
+        "text": "What is the setting in which these items are placed, and how are they presented?"
+    },
+    {
+        "id": "000000579240_0",
+        "image": "000000579240.jpg",
+        "text": "Can you describe the setting where the people are gathered?"
+    },
+    {
+        "id": "000000376509_1",
+        "image": "000000376509.jpg",
+        "text": "What kind of clothing is the person wearing?"
+    },
+    {
+        "id": "000000185577_0",
+        "image": "000000185577.jpg",
+        "text": "Can you describe the filling materials visible in this item?"
+    },
+    {
+        "id": "000000169171_0",
+        "image": "000000169171.jpg",
+        "text": "Can you describe what the person in the image is doing?"
+    },
+    {
+        "id": "000000341828_1",
+        "image": "000000341828.jpg",
+        "text": "Can you describe the setting of the photo?"
+    },
+    {
+        "id": "000000516625_2",
+        "image": "000000516625.jpg",
+        "text": "Are there any other items or details visible on the table where the plate is placed?"
+    },
+    {
+        "id": "000000045550_2",
+        "image": "000000045550.jpg",
+        "text": "What is the setting or location where this photo seems to have been taken?"
+    },
+    {
+        "id": "000000051763_2",
+        "image": "000000051763.jpg",
+        "text": "What is the setting in which the tray is placed, and are there any other details visible in the background?"
+    },
+    {
+        "id": "000000008734_1",
+        "image": "000000008734.jpg",
+        "text": "What kind of additional information is being provided in the image, and where is it located?"
+    },
+    {
+        "id": "000000276488_2",
+        "image": "000000276488.jpg",
+        "text": "Aside from the food items, what other objects are present on the table?"
+    },
+    {
+        "id": "000000531092_2",
+        "image": "000000531092.jpg",
+        "text": "What else can be seen in the image besides the food?"
+    },
+    {
+        "id": "000000376982_2",
+        "image": "000000376982.jpg",
+        "text": "Can you describe the surface where the plate is placed?"
+    },
+    {
+        "id": "000000360209_1",
+        "image": "000000360209.jpg",
+        "text": "Can you describe the drink that is placed to the right of the food on the table?"
+    },
+    {
+        "id": "000000337691_0",
+        "image": "000000337691.jpg",
+        "text": "What type of outdoor activity is suggested by the items in the image?"
+    },
+    {
+        "id": "000000358411_2",
+        "image": "000000358411.jpg",
+        "text": "What additional objects are visible on the table beside the meal?"
+    },
+    {
+        "id": "000000142946_1",
+        "image": "000000142946.jpg",
+        "text": "What type of main ingredient is used in the dish on the left side of the plate?"
+    },
+    {
+        "id": "000000550308_0",
+        "image": "000000550308.jpg",
+        "text": "Can you describe the items on the plate in the foreground?"
+    },
+    {
+        "id": "000000278280_2",
+        "image": "000000278280.jpg",
+        "text": "Are there any protective measures present to cover the food items?"
+    },
+    {
+        "id": "000000279957_2",
+        "image": "000000279957.jpg",
+        "text": "Can you describe the setting or context where this meal is being served?"
+    },
+    {
+        "id": "000000045550_0",
+        "image": "000000045550.jpg",
+        "text": "Can you describe the person holding the plate in the image?"
+    },
+    {
+        "id": "000000517861_0",
+        "image": "000000517861.jpg",
+        "text": "What items are visible on the table alongside the item with the white fork in it?"
+    },
+    {
+        "id": "000000532620_1",
+        "image": "000000532620.jpg",
+        "text": "What kind of landscape is visible in the background of the image?"
+    },
+    {
+        "id": "000000313129_2",
+        "image": "000000313129.jpg",
+        "text": "Can you describe the setting where this meal is taking place? "
+    },
+    {
+        "id": "000000022492_2",
+        "image": "000000022492.jpg",
+        "text": "Can you describe the setting where this meal is presented?"
+    },
+    {
+        "id": "000000517861_2",
+        "image": "000000517861.jpg",
+        "text": "What kind of setting does this image suggest, based on the items and their arrangement?"
+    },
+    {
+        "id": "000000213156_0",
+        "image": "000000213156.jpg",
+        "text": "Can you describe the type of surface the item is placed on?"
+    },
+    {
+        "id": "000000038305_1",
+        "image": "000000038305.jpg",
+        "text": "Can you describe the item behind the plate and its likely use in this context?"
+    },
+    {
+        "id": "000000527906_1",
+        "image": "000000527906.jpg",
+        "text": "What beverage container can be observed on the table, and is there any design on it?"
+    },
+    {
+        "id": "000000104426_0",
+        "image": "000000104426.jpg",
+        "text": "What type of leafy greens are displayed next to the bun on the plate?"
+    },
+    {
+        "id": "000000061946_0",
+        "image": "000000061946.jpg",
+        "text": "What type of item is resting on the edge of the plate next to the food?"
+    },
+    {
+        "id": "000000439479_1",
+        "image": "000000439479.jpg",
+        "text": "What kind of attire is the person wearing while preparing the food?"
+    },
+    {
+        "id": "000000543164_2",
+        "image": "000000543164.jpg",
+        "text": "Based on the arrangement and the content of the plate, what type of meal or setting does this suggest?"
+    },
+    {
+        "id": "000000571738_1",
+        "image": "000000571738.jpg",
+        "text": "Can you describe the salad and its toppings?"
+    },
+    {
+        "id": "000000009723_2",
+        "image": "000000009723.jpg",
+        "text": "Aside from the food, are there any other objects on the plate?"
+    },
+    {
+        "id": "000000392167_2",
+        "image": "000000392167.jpg",
+        "text": "What type of beverage is visible in the background of the image?"
+    },
+    {
+        "id": "000000174157_1",
+        "image": "000000174157.jpg",
+        "text": "What type of meal is depicted on the right side of the plate?"
+    },
+    {
+        "id": "000000402115_2",
+        "image": "000000402115.jpg",
+        "text": "Can you describe the lighting conditions in the photo?"
+    },
+    {
+        "id": "000000228419_2",
+        "image": "000000228419.jpg",
+        "text": "Is there anything else visible in the background that provides context?"
+    },
+    {
+        "id": "000000400453_2",
+        "image": "000000400453.jpg",
+        "text": "Is someone present in the image, and if so, what are they doing?"
+    },
+    {
+        "id": "000000046997_1",
+        "image": "000000046997.jpg",
+        "text": "What other items can be seen on the table aside from the main dish?"
+    },
+    {
+        "id": "000000312282_2",
+        "image": "000000312282.jpg",
+        "text": "Is there any indication of the mealtime or setting this dish might be associated with?"
+    },
+    {
+        "id": "000000512509_2",
+        "image": "000000512509.jpg",
+        "text": "What kind of earrings is the person wearing?"
+    },
+    {
+        "id": "000000403593_1",
+        "image": "000000403593.jpg",
+        "text": "Can you describe the drink that accompanies the meal?"
+    },
+    {
+        "id": "000000068356_2",
+        "image": "000000068356.jpg",
+        "text": "Could you mention other elements that complement the setting of this meal?"
+    },
+    {
+        "id": "000000516273_2",
+        "image": "000000516273.jpg",
+        "text": "What condiments are provided in small containers, and how many are there?"
+    },
+    {
+        "id": "000000037688_2",
+        "image": "000000037688.jpg",
+        "text": "What other items can be observed on the table besides the cup of coffee and the sandwich?"
+    },
+    {
+        "id": "000000038678_1",
+        "image": "000000038678.jpg",
+        "text": "What kind of setting is the person in and are there other people around?"
+    },
+    {
+        "id": "000000476889_2",
+        "image": "000000476889.jpg",
+        "text": "Looking at the lighting and the ambiance, what setting does this meal appear to be served in?"
+    },
+    {
+        "id": "000000547875_1",
+        "image": "000000547875.jpg",
+        "text": "What kinds of beverages are visible in the background?"
+    },
+    {
+        "id": "000000269089_2",
+        "image": "000000269089.jpg",
+        "text": "How is the salad served alongside the sandwich presented?"
+    },
+    {
+        "id": "000000185452_2",
+        "image": "000000185452.jpg",
+        "text": "What surface is the food and beverage set upon in this image?"
+    },
+    {
+        "id": "000000306950_1",
+        "image": "000000306950.jpg",
+        "text": "Can you describe the setting or surface on which the meal is placed?"
+    },
+    {
+        "id": "000000478689_2",
+        "image": "000000478689.jpg",
+        "text": "Besides the food items, what else is visible on the table?"
+    },
+    {
+        "id": "000000318523_1",
+        "image": "000000318523.jpg",
+        "text": "What is unique about the decoration on the donuts?"
+    },
+    {
+        "id": "000000299190_2",
+        "image": "000000299190.jpg",
+        "text": "Are there any beverages visible in the scene?"
+    },
+    {
+        "id": "000000329351_2",
+        "image": "000000329351.jpg",
+        "text": "What patterns or designs are present on the surface where the box is placed?"
+    },
+    {
+        "id": "000000068356_1",
+        "image": "000000068356.jpg",
+        "text": "What beverage is being served at this gathering, and in what kind of container is it presented?"
+    },
+    {
+        "id": "000000312282_0",
+        "image": "000000312282.jpg",
+        "text": "Can you describe the items that are accompanying the main dish on the plate?"
+    },
+    {
+        "id": "000000013856_1",
+        "image": "000000013856.jpg",
+        "text": "What is the person in the image doing?"
+    },
+    {
+        "id": "000000414479_0",
+        "image": "000000414479.jpg",
+        "text": "What type of food items can be observed in this image?"
+    },
+    {
+        "id": "000000044682_2",
+        "image": "000000044682.jpg",
+        "text": "Besides the key components of this meal, what else can I see in the background that could suggest the setting or context?"
+    },
+    {
+        "id": "000000001144_0",
+        "image": "000000001144.jpg",
+        "text": "What type of beverage appears to be in the glass on the table? "
+    },
+    {
+        "id": "000000314237_0",
+        "image": "000000314237.jpg",
+        "text": "Can you describe the dressing that's been added to the top half of the bread?"
+    },
+    {
+        "id": "000000251121_2",
+        "image": "000000251121.jpg",
+        "text": "How would you describe the setting or environment in which this meal is being served?"
+    },
+    {
+        "id": "000000496324_2",
+        "image": "000000496324.jpg",
+        "text": "Apart from the main item, are there any other objects or food items visible on the table around the sandwich?"
+    },
+    {
+        "id": "000000293044_2",
+        "image": "000000293044.jpg",
+        "text": "Describe the container these items are placed in and the setting of this photo."
+    },
+    {
+        "id": "000000135029_1",
+        "image": "000000135029.jpg",
+        "text": "Can you describe the item placed on the small plate in the foreground?"
+    },
+    {
+        "id": "000000186247_2",
+        "image": "000000186247.jpg",
+        "text": "Aside from the sandwich and other dishes, what colors can be seen in the background?"
+    },
+    {
+        "id": "000000487870_2",
+        "image": "000000487870.jpg",
+        "text": "What type of accessory is visible on the person's left wrist?"
+    },
+    {
+        "id": "000000237859_1",
+        "image": "000000237859.jpg",
+        "text": "What details can be observed on the napkin beneath the sandwich?"
+    },
+    {
+        "id": "000000478404_1",
+        "image": "000000478404.jpg",
+        "text": "What type of setting does this appear to be?"
+    },
+    {
+        "id": "000000208132_2",
+        "image": "000000208132.jpg",
+        "text": "Considering the utensils and plates present, for how many people does the table seem to be set?"
+    },
+    {
+        "id": "000000446694_2",
+        "image": "000000446694.jpg",
+        "text": "What does the surface beneath the food items look like?"
+    },
+    {
+        "id": "000000261940_0",
+        "image": "000000261940.jpg",
+        "text": "Can you describe what the person is holding in their right hand?"
+    },
+    {
+        "id": "000000505708_2",
+        "image": "000000505708.jpg",
+        "text": "Is there any indication of the dining setting where this meal is being served?"
+    },
+    {
+        "id": "000000139270_2",
+        "image": "000000139270.jpg",
+        "text": "Does the setting indicate that this meal is being served in a particular type of establishment?"
+    },
+    {
+        "id": "000000366683_0",
+        "image": "000000366683.jpg",
+        "text": "What type of drink is shown in the image, and what brand is it associated with?"
+    },
+    {
+        "id": "000000438373_2",
+        "image": "000000438373.jpg",
+        "text": "Is there anything of interest in the background that provides context for the setting?"
+    },
+    {
+        "id": "000000563659_2",
+        "image": "000000563659.jpg",
+        "text": "Besides eating, what are the people in the background doing?"
+    },
+    {
+        "id": "000000078909_2",
+        "image": "000000078909.jpg",
+        "text": "What type of beverage can be seen in the background, and can you describe its presentation?"
+    },
+    {
+        "id": "000000429408_2",
+        "image": "000000429408.jpg",
+        "text": "What types of decorations or non-food items can be seen on the table?"
+    },
+    {
+        "id": "000000365115_1",
+        "image": "000000365115.jpg",
+        "text": "What condiments or additional ingredients can you identify on this food item?"
+    },
+    {
+        "id": "000000451571_2",
+        "image": "000000451571.jpg",
+        "text": "In regards to food preparation, what does the appearance of the corn suggest about its preparation method?"
+    },
+    {
+        "id": "000000312826_2",
+        "image": "000000312826.jpg",
+        "text": "What kind of soup is present, and how can you identify it?"
+    },
+    {
+        "id": "000000337691_1",
+        "image": "000000337691.jpg",
+        "text": "Can you describe the condition of the food item being held in the foreground?"
+    },
+    {
+        "id": "000000215746_2",
+        "image": "000000215746.jpg",
+        "text": "Besides the main dish, what other item can be seen in the image that implies the meal was served in a specific setting?"
+    },
+    {
+        "id": "000000152598_0",
+        "image": "000000152598.jpg",
+        "text": "Can you describe the person in the image?"
+    },
+    {
+        "id": "000000005587_1",
+        "image": "000000005587.jpg",
+        "text": "Can you describe the setting in which this food is being served?"
+    },
+    {
+        "id": "000000519271_1",
+        "image": "000000519271.jpg",
+        "text": "What other items can be seen on the table aside from the plate?"
+    },
+    {
+        "id": "000000213652_0",
+        "image": "000000213652.jpg",
+        "text": "Can you tell me what is depicted on the plate underneath the food item?"
+    },
+    {
+        "id": "000000476881_1",
+        "image": "000000476881.jpg",
+        "text": "What kind of drink is placed next to this food item, and how is it served?"
+    },
+    {
+        "id": "000000073860_2",
+        "image": "000000073860.jpg",
+        "text": "What colors are predominant in this scene?"
+    },
+    {
+        "id": "000000365115_2",
+        "image": "000000365115.jpg",
+        "text": "What type of surface or background is the food item placed upon?"
+    },
+    {
+        "id": "000000403593_2",
+        "image": "000000403593.jpg",
+        "text": "Besides the food items, what other object is visible on the table?"
+    },
+    {
+        "id": "000000366683_2",
+        "image": "000000366683.jpg",
+        "text": "Beside the food and drink, what travel-related items are visible in the photo?"
+    },
+    {
+        "id": "000000299039_2",
+        "image": "000000299039.jpg",
+        "text": "What kind of setting or background can be noted around the plate of food?"
+    },
+    {
+        "id": "000000278280_0",
+        "image": "000000278280.jpg",
+        "text": "Can you tell me how many types of fruit are visible in the display?"
+    },
+    {
+        "id": "000000378655_2",
+        "image": "000000378655.jpg",
+        "text": "What kind of fries are shown, and how are they served?"
+    },
+    {
+        "id": "000000571738_2",
+        "image": "000000571738.jpg",
+        "text": "What items can be seen in the background apart from the food?"
+    },
+    {
+        "id": "000000164780_1",
+        "image": "000000164780.jpg",
+        "text": "What can be observed in the background behind the individual holding the food item?"
+    },
+    {
+        "id": "000000476881_2",
+        "image": "000000476881.jpg",
+        "text": "Can you tell me what is seen in the background behind the glass?"
+    },
+    {
+        "id": "000000187823_1",
+        "image": "000000187823.jpg",
+        "text": "What type of beverage is in the cup and what can you tell about where it might come from?"
+    },
+    {
+        "id": "000000578330_0",
+        "image": "000000578330.jpg",
+        "text": "Can you describe the setting in which the person is eating their meal?"
+    },
+    {
+        "id": "000000388279_2",
+        "image": "000000388279.jpg",
+        "text": "Besides the plate with the sandwich, what else can be observed about the person's attire?"
+    },
+    {
+        "id": "000000421476_1",
+        "image": "000000421476.jpg",
+        "text": "How is the light affecting the appearance of the meal?"
+    },
+    {
+        "id": "000000496294_1",
+        "image": "000000496294.jpg",
+        "text": "What type of setting does this appear to be?"
+    },
+    {
+        "id": "000000542138_1",
+        "image": "000000542138.jpg",
+        "text": "Can you describe the setting in which this meal is presented?"
+    },
+    {
+        "id": "000000190135_2",
+        "image": "000000190135.jpg",
+        "text": "Besides the plate with sandwiches, what else can be observed in the background of the image?"
+    },
+    {
+        "id": "000000112226_2",
+        "image": "000000112226.jpg",
+        "text": "Are there any activities visible in the background that suggest what kind of event this might be?"
+    },
+    {
+        "id": "000000031454_1",
+        "image": "000000031454.jpg",
+        "text": "Can you describe the appearance of the soup?"
+    },
+    {
+        "id": "000000305772_2",
+        "image": "000000305772.jpg",
+        "text": "What kind of utensils and condiments are seen on the table?"
+    },
+    {
+        "id": "000000412666_2",
+        "image": "000000412666.jpg",
+        "text": "What type of utensils are visible in the image, and where are they placed in relation to the food?"
+    },
+    {
+        "id": "000000568963_2",
+        "image": "000000568963.jpg",
+        "text": "What type of setting does this appear to be, based on the objects and arrangement around the food?"
+    },
+    {
+        "id": "000000429873_1",
+        "image": "000000429873.jpg",
+        "text": "Can you tell me about the setting where this meal is taking place?"
+    },
+    {
+        "id": "000000073860_0",
+        "image": "000000073860.jpg",
+        "text": "Can you describe the person in the image?"
+    },
+    {
+        "id": "000000046090_1",
+        "image": "000000046090.jpg",
+        "text": "What items are positioned on the table in front of the cat?"
+    },
+    {
+        "id": "000000154359_2",
+        "image": "000000154359.jpg",
+        "text": "Apart from the sandwich, what else can be observed in the background of the photo?"
+    },
+    {
+        "id": "000000310545_0",
+        "image": "000000310545.jpg",
+        "text": "What is the person in the image doing with their hands?"
+    },
+    {
+        "id": "000000186268_2",
+        "image": "000000186268.jpg",
+        "text": "Are there any kitchen utensils or tools visible in the image?"
+    },
+    {
+        "id": "000000140188_0",
+        "image": "000000140188.jpg",
+        "text": "Can you describe the person in the image?"
+    },
+    {
+        "id": "000000478689_1",
+        "image": "000000478689.jpg",
+        "text": "Can you describe the setting where the meal is being served?"
+    },
+    {
+        "id": "000000204981_2",
+        "image": "000000204981.jpg",
+        "text": "Could you mention the kind of setting or environment in which the meal is being served based on the visible elements in the image?"
+    },
+    {
+        "id": "000000445411_1",
+        "image": "000000445411.jpg",
+        "text": "What garnishes accompany the main item on the plate?"
+    },
+    {
+        "id": "000000550235_2",
+        "image": "000000550235.jpg",
+        "text": "What type of setting is the child in while eating the sandwich?"
+    },
+    {
+        "id": "000000354527_2",
+        "image": "000000354527.jpg",
+        "text": "Besides the food, what other objects can be observed on the table?"
+    },
+    {
+        "id": "000000339442_1",
+        "image": "000000339442.jpg",
+        "text": "What color is the background material under the food items?"
+    },
+    {
+        "id": "000000251121_1",
+        "image": "000000251121.jpg",
+        "text": "What else is visible on the table besides the main dish?"
+    },
+    {
+        "id": "000000475421_1",
+        "image": "000000475421.jpg",
+        "text": "What kind of design or pattern can be observed on the surface where the food items are placed?"
+    },
+    {
+        "id": "000000487870_1",
+        "image": "000000487870.jpg",
+        "text": "Can you describe the setting or event where this person is located?"
+    },
+    {
+        "id": "000000152598_2",
+        "image": "000000152598.jpg",
+        "text": "What kind of environment surrounds the man in the photo?"
+    },
+    {
+        "id": "000000395745_2",
+        "image": "000000395745.jpg",
+        "text": "Besides the food items, what else is visible on the table?"
+    },
+    {
+        "id": "000000157158_2",
+        "image": "000000157158.jpg",
+        "text": "Based on the visual clues, what setting might this image be depicting?"
+    },
+    {
+        "id": "000000035269_2",
+        "image": "000000035269.jpg",
+        "text": "Is there any cutlery visible that might be used to eat the meal?"
+    },
+    {
+        "id": "000000310450_0",
+        "image": "000000310450.jpg",
+        "text": "What type of meal is presented in the image and is there a particular theme to the presentation?"
+    },
+    {
+        "id": "000000033341_2",
+        "image": "000000033341.jpg",
+        "text": "Aside from the food, are there any other items visible on or around the table?"
+    },
+    {
+        "id": "000000431481_0",
+        "image": "000000431481.jpg",
+        "text": "What types of vegetables are displayed on the plate?"
+    },
+    {
+        "id": "000000085045_2",
+        "image": "000000085045.jpg",
+        "text": "Can you tell me more about the setting and environment in which the food truck is placed?"
+    },
+    {
+        "id": "000000160757_0",
+        "image": "000000160757.jpg",
+        "text": "Can you describe the types of food items visible in the image?"
+    },
+    {
+        "id": "000000319122_1",
+        "image": "000000319122.jpg",
+        "text": "What type of garnish is served with the main item on the plate?"
+    },
+    {
+        "id": "000000396636_2",
+        "image": "000000396636.jpg",
+        "text": "Can you describe the setting that surrounds the person enjoying their meal?"
+    },
+    {
+        "id": "000000284768_2",
+        "image": "000000284768.jpg",
+        "text": "What can you tell me about the setting in which this meal is being served?"
+    },
+    {
+        "id": "000000033341_1",
+        "image": "000000033341.jpg",
+        "text": "What kind of condiments come with the meal on the plate?"
+    },
+    {
+        "id": "000000200775_0",
+        "image": "000000200775.jpg",
+        "text": "Can you describe the setting where the photo was taken?"
+    },
+    {
+        "id": "000000442929_1",
+        "image": "000000442929.jpg",
+        "text": "What sides are served with the main dish on the plate?"
+    },
+    {
+        "id": "000000118788_2",
+        "image": "000000118788.jpg",
+        "text": "Is there a specific pattern visible on the surface under the food, and if so, what is it?"
+    },
+    {
+        "id": "000000290201_0",
+        "image": "000000290201.jpg",
+        "text": "Can you describe the setting where the person is located?"
+    },
+    {
+        "id": "000000512302_1",
+        "image": "000000512302.jpg",
+        "text": "Can you describe the background elements behind the food item?"
+    },
+    {
+        "id": "000000136624_2",
+        "image": "000000136624.jpg",
+        "text": "What other items can be seen in the background of the photo?"
+    },
+    {
+        "id": "000000058796_2",
+        "image": "000000058796.jpg",
+        "text": "Aside from the food items, what else is visible in this photo that might indicate the setting or activity?"
+    },
+    {
+        "id": "000000216279_2",
+        "image": "000000216279.jpg",
+        "text": "What can you infer about the setting from the background elements seen in the image?"
+    },
+    {
+        "id": "000000174097_1",
+        "image": "000000174097.jpg",
+        "text": "What is the pattern on the tablecloth where the sandwiches are placed?"
+    },
+    {
+        "id": "000000512509_1",
+        "image": "000000512509.jpg",
+        "text": "Can you describe the setting or background where this person is situated?"
+    },
+    {
+        "id": "000000361197_1",
+        "image": "000000361197.jpg",
+        "text": "What kind of salad dressing is provided with the meal, and how is it presented?"
+    },
+    {
+        "id": "000000247131_1",
+        "image": "000000247131.jpg",
+        "text": "Are there any beverages visible on the table beside the plate?"
+    },
+    {
+        "id": "000000224557_2",
+        "image": "000000224557.jpg",
+        "text": "Beyond the food items, what kind of container is visible in the background, and what does its presence imply about the setting?"
+    },
+    {
+        "id": "000000450355_0",
+        "image": "000000450355.jpg",
+        "text": "What activity is the person in the image engaged in?"
+    },
+    {
+        "id": "000000169171_1",
+        "image": "000000169171.jpg",
+        "text": "What kind of environment or setting is the boy in?"
+    },
+    {
+        "id": "000000204981_1",
+        "image": "000000204981.jpg",
+        "text": "What other items are visible on the table besides the main dish?"
+    },
+    {
+        "id": "000000208132_1",
+        "image": "000000208132.jpg",
+        "text": "Can you describe the setting in which the food items are placed?"
+    },
+    {
+        "id": "000000439479_2",
+        "image": "000000439479.jpg",
+        "text": "Are there any other elements or objects visible on the workspace around the person?"
+    },
+    {
+        "id": "000000168522_2",
+        "image": "000000168522.jpg",
+        "text": "How would you describe the condition of the table in the image?"
+    },
+    {
+        "id": "000000139728_2",
+        "image": "000000139728.jpg",
+        "text": "What type of beverage is accompanying the meal and where is it located?"
+    },
+    {
+        "id": "000000174157_2",
+        "image": "000000174157.jpg",
+        "text": "What can be inferred about the setting of this meal based on the background elements visible?"
+    },
+    {
+        "id": "000000198227_1",
+        "image": "000000198227.jpg",
+        "text": "What food item is presented in the largest quantity?"
+    },
+    {
+        "id": "000000547875_0",
+        "image": "000000547875.jpg",
+        "text": "Can you describe what's on the plate in the center of the image?"
+    },
+    {
+        "id": "000000186268_1",
+        "image": "000000186268.jpg",
+        "text": "What other food-related items can be observed in the background of this image?"
+    },
+    {
+        "id": "000000027901_0",
+        "image": "000000027901.jpg",
+        "text": "Can you describe the items on the plate in the image?"
+    },
+    {
+        "id": "000000445411_2",
+        "image": "000000445411.jpg",
+        "text": "Is there any other tableware or objects visible on the table aside from the plate of food?"
+    },
+    {
+        "id": "000000283479_1",
+        "image": "000000283479.jpg",
+        "text": "What type of reading material is visible on the table, and can you mention any specific topics or titles?"
+    },
+    {
+        "id": "000000433052_0",
+        "image": "000000433052.jpg",
+        "text": "Can you describe the main item that is being showcased in the center of the image?"
+    },
+    {
+        "id": "000000110269_2",
+        "image": "000000110269.jpg",
+        "text": "Does the image provide any indication of the time of day or atmosphere of the location?"
+    },
+    {
+        "id": "000000393014_1",
+        "image": "000000393014.jpg",
+        "text": "What other objects can be seen in close proximity to the food items on display?"
+    },
+    {
+        "id": "000000431481_2",
+        "image": "000000431481.jpg",
+        "text": "Are there any other objects or significant background elements visible in the image aside from the food?"
+    },
+    {
+        "id": "000000068183_2",
+        "image": "000000068183.jpg",
+        "text": "What condiments or additional items can be seen in the background?"
+    },
+    {
+        "id": "000000305772_1",
+        "image": "000000305772.jpg",
+        "text": "Are there any beverages visible on the table?"
+    },
+    {
+        "id": "000000076877_1",
+        "image": "000000076877.jpg",
+        "text": "Can you describe the surface on which the plate is resting?"
+    },
+    {
+        "id": "000000527906_2",
+        "image": "000000527906.jpg",
+        "text": "What objects can be seen in the background on the shelves?"
+    },
+    {
+        "id": "000000330955_1",
+        "image": "000000330955.jpg",
+        "text": "Can you describe the object the person is sitting on?"
+    },
+    {
+        "id": "000000046997_2",
+        "image": "000000046997.jpg",
+        "text": "Describe the setting where these dishes are presented."
+    },
+    {
+        "id": "000000276004_1",
+        "image": "000000276004.jpg",
+        "text": "What is the setting in which this meal is presented?"
+    },
+    {
+        "id": "000000287716_2",
+        "image": "000000287716.jpg",
+        "text": "What is the setting or context in which this image is likely taken?"
+    },
+    {
+        "id": "000000556744_2",
+        "image": "000000556744.jpg",
+        "text": "Are there any beverages visible on the table, and if so, what kind?"
+    },
+    {
+        "id": "000000400453_0",
+        "image": "000000400453.jpg",
+        "text": "Can you describe the setting where the food is placed?"
+    },
+    {
+        "id": "000000111705_2",
+        "image": "000000111705.jpg",
+        "text": "What kind of setting does this scene take place in, judging by the objects and surroundings?"
+    },
+    {
+        "id": "000000329527_0",
+        "image": "000000329527.jpg",
+        "text": "Can you describe the person in the image?"
+    },
+    {
+        "id": "000000400869_1",
+        "image": "000000400869.jpg",
+        "text": "What kind of setting does the background suggest this photo was taken in?"
+    },
+    {
+        "id": "000000067099_2",
+        "image": "000000067099.jpg",
+        "text": "What is the expression of the person in the photo?"
+    },
+    {
+        "id": "000000128514_1",
+        "image": "000000128514.jpg",
+        "text": "Can you describe the clothing of the person in the image?"
+    },
+    {
+        "id": "000000182997_2",
+        "image": "000000182997.jpg",
+        "text": "What is the person in the image doing?"
+    },
+    {
+        "id": "000000480295_1",
+        "image": "000000480295.jpg",
+        "text": "Can you describe the setting where the person is located?"
+    },
+    {
+        "id": "000000504790_2",
+        "image": "000000504790.jpg",
+        "text": "What clues does the image provide about the setting or location where the photo was taken?"
+    },
+    {
+        "id": "000000491117_0",
+        "image": "000000491117.jpg",
+        "text": "What items are visible on the table aside from the main food item?"
+    },
+    {
+        "id": "000000493066_2",
+        "image": "000000493066.jpg",
+        "text": "What else can be inferred about the setting of this meal?"
+    },
+    {
+        "id": "000000037688_0",
+        "image": "000000037688.jpg",
+        "text": "What type of beverage is visible in the forefront of the image?"
+    },
+    {
+        "id": "000000512769_2",
+        "image": "000000512769.jpg",
+        "text": "Apart from the main focus, what else is visible in the background?"
+    },
+    {
+        "id": "000000182997_1",
+        "image": "000000182997.jpg",
+        "text": "Besides the main dish, what else is visible on the table?"
+    },
+    {
+        "id": "000000046090_0",
+        "image": "000000046090.jpg",
+        "text": "What type of animal is pictured next to the computer? "
+    },
+    {
+        "id": "000000569449_0",
+        "image": "000000569449.jpg",
+        "text": "Can you describe the main food item shown in the center of the image?"
+    },
+    {
+        "id": "000000010046_2",
+        "image": "000000010046.jpg",
+        "text": "Can you describe the setting or location where these food items are placed?"
+    },
+    {
+        "id": "000000447861_2",
+        "image": "000000447861.jpg",
+        "text": "What type of surface is the plate resting on?"
+    },
+    {
+        "id": "000000213652_2",
+        "image": "000000213652.jpg",
+        "text": "On what type of surface is the plate resting?"
+    },
+    {
+        "id": "000000490264_2",
+        "image": "000000490264.jpg",
+        "text": "Aside from the food, what else can be observed on the table in the image?"
+    },
+    {
+        "id": "000000578330_2",
+        "image": "000000578330.jpg",
+        "text": "Are there any beverages visible on the table in front of the person?"
+    },
+    {
+        "id": "000000336762_2",
+        "image": "000000336762.jpg",
+        "text": "What other information can be gleaned from the surroundings regarding the person's activity?"
+    },
+    {
+        "id": "000000056288_2",
+        "image": "000000056288.jpg",
+        "text": "Can any items in the background provide a hint about the setting where this meal is being had?"
+    },
+    {
+        "id": "000000247131_2",
+        "image": "000000247131.jpg",
+        "text": "What type of surface is the plate placed on in this image?"
+    },
+    {
+        "id": "000000416286_1",
+        "image": "000000416286.jpg",
+        "text": "Can you describe the surface on which the food items are placed?"
+    },
+    {
+        "id": "000000412136_2",
+        "image": "000000412136.jpg",
+        "text": "Based on the image, what is the setting or context where this meal is likely taking place?"
+    },
+    {
+        "id": "000000013856_0",
+        "image": "000000013856.jpg",
+        "text": "Can you describe the setting of this image?"
+    },
+    {
+        "id": "000000131419_1",
+        "image": "000000131419.jpg",
+        "text": "Can you describe the setting or pattern on the surface where the food is placed?"
+    },
+    {
+        "id": "000000496294_2",
+        "image": "000000496294.jpg",
+        "text": "Is there anything on the table that provides information about the location or type of restaurant?"
+    },
+    {
+        "id": "000000110269_1",
+        "image": "000000110269.jpg",
+        "text": "What can be seen in the background behind the sandwich?"
+    },
+    {
+        "id": "000000354254_1",
+        "image": "000000354254.jpg",
+        "text": "Can you describe the types of beverages shown on the table?"
+    },
+    {
+        "id": "000000052270_2",
+        "image": "000000052270.jpg",
+        "text": "Could you comment on the setting where this meal is taking place?"
+    },
+    {
+        "id": "000000215625_1",
+        "image": "000000215625.jpg",
+        "text": "Could you describe the items accompanying the main food object on the tray?"
+    },
+    {
+        "id": "000000489810_0",
+        "image": "000000489810.jpg",
+        "text": "What type of drink is accompanying the food item in the image?"
+    },
+    {
+        "id": "000000550235_0",
+        "image": "000000550235.jpg",
+        "text": "Who is in the photo?"
+    },
+    {
+        "id": "000000268406_2",
+        "image": "000000268406.jpg",
+        "text": "Could you tell me about the setting where this meal is being served?"
+    },
+    {
+        "id": "000000013595_0",
+        "image": "000000013595.jpg",
+        "text": "Can you describe what the person in the image is doing?"
+    },
+    {
+        "id": "000000184720_0",
+        "image": "000000184720.jpg",
+        "text": "Can you describe the person in the image?"
+    },
+    {
+        "id": "000000398799_2",
+        "image": "000000398799.jpg",
+        "text": "Aside from the platter of sandwiches, what other foods can be observed in the image?"
+    },
+    {
+        "id": "000000329351_0",
+        "image": "000000329351.jpg",
+        "text": "Can you describe the packaging and any text present in the image?"
+    },
+    {
+        "id": "000000153956_2",
+        "image": "000000153956.jpg",
+        "text": "Returning to the food, could you comment on the presentation of the dish that seems to have a generous amount of toppings, possibly to the right of the image?"
+    },
+    {
+        "id": "000000061946_2",
+        "image": "000000061946.jpg",
+        "text": "What is the setting or surface on which the plate is placed?"
+    },
+    {
+        "id": "000000330955_2",
+        "image": "000000330955.jpg",
+        "text": "What additional detail can be seen on the person's head?"
+    },
+    {
+        "id": "000000532988_1",
+        "image": "000000532988.jpg",
+        "text": "Can you describe the setting in which the plate is placed?"
+    },
+    {
+        "id": "000000051763_1",
+        "image": "000000051763.jpg",
+        "text": "What type of beverage and condiment are shown on the tray?"
+    },
+    {
+        "id": "000000429873_2",
+        "image": "000000429873.jpg",
+        "text": "What can you observe in the background beyond the dining setup?"
+    },
+    {
+        "id": "000000376144_2",
+        "image": "000000376144.jpg",
+        "text": "What is the visual setting for the meal presented in the image?"
+    },
+    {
+        "id": "000000392703_0",
+        "image": "000000392703.jpg",
+        "text": "Can you tell me the types of flags presented on the food items in the image?"
+    },
+    {
+        "id": "000000329527_2",
+        "image": "000000329527.jpg",
+        "text": "What kind of setting is the woman in, based on the background?"
+    },
+    {
+        "id": "000000269738_1",
+        "image": "000000269738.jpg",
+        "text": "What is the pattern on the surface where the food container is placed?"
+    },
+    {
+        "id": "000000404905_2",
+        "image": "000000404905.jpg",
+        "text": "What sort of setting does this appear to be, based on the objects and layout seen in the image?"
+    },
+    {
+        "id": "000000130438_1",
+        "image": "000000130438.jpg",
+        "text": "What is the condition of the bread's crust, judging by its appearance?"
+    },
+    {
+        "id": "000000362744_1",
+        "image": "000000362744.jpg",
+        "text": "Can you describe the setting in which the meal is placed? "
+    },
+    {
+        "id": "000000184720_2",
+        "image": "000000184720.jpg",
+        "text": "Where is the person located in relation to the surroundings?"
+    },
+    {
+        "id": "000000376509_2",
+        "image": "000000376509.jpg",
+        "text": "Is there anything else noticeable about the person's expression or appearance?"
+    },
+    {
+        "id": "000000305231_1",
+        "image": "000000305231.jpg",
+        "text": "On which item of food are the eggs cooked, and how many eggs can you see?"
+    }
+]
