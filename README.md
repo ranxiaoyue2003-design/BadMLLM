@@ -22,8 +22,6 @@ bash scripts/TAI_test.sh
 
 ## ⚠️ Disclaimer 
 
-### English Version
-
 **FOR RESEARCH AND EDUCATIONAL PURPOSES ONLY**
 
 This repository contains code for academic research on backdoor attacks in multimodal large language models. Please note:
