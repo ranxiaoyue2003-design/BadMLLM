@@ -1,7 +1,7 @@
 #!/bin/bash
 #BadMLLM
 PROMPT_VERSION="llava_llama_2"
-BENIGN_MODEL_PATH= path/to/llava-v1.5-7b
+BENIGN_MODEL_PATH=path/to/llava-v1.5-7b
 TROJAN_NAME="BadMLLM"
 export MASTER_PORT=5004
 deepspeed --include localhost:1 --master_port=${MASTER_PORT} llava/train/train_mem.py \
